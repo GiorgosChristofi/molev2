@@ -1,0 +1,36 @@
+/* Centred selection: modest portrait enlargement, with the gallery softly faded behind it. */
+html,body{overflow-x:clip}
+html:has(.viewer-open){overflow-y:hidden}
+body.viewer-open{overflow-y:hidden}
+#viewer.identity-inspector{position:fixed;inset:0;margin:auto;width:min(300px,calc(100vw - 32px));max-width:calc(100vw - 32px);max-height:calc(100svh - 32px);height:fit-content;padding:0;border:1px solid #b76524;border-radius:9px;background:linear-gradient(145deg,#10100f,#080808 65%);color:var(--ivory);box-shadow:0 20px 70px #000a,0 0 24px #ff781a0d;overflow:auto;outline:none;opacity:0;transform:translateY(6px);transition:opacity .22s var(--ease),transform .22s var(--ease),display .22s allow-discrete,overlay .22s allow-discrete}
+#viewer.identity-inspector[open]{opacity:1;transform:translateY(0)}
+#viewer.identity-inspector::backdrop{background:#0000;backdrop-filter:none;transition:background .24s ease,display .24s allow-discrete,overlay .24s allow-discrete}
+#viewer.identity-inspector[open]::backdrop{background:#000a}
+@starting-style{#viewer.identity-inspector[open]{opacity:0;transform:translateY(6px)}#viewer.identity-inspector[open]::backdrop{background:#0000}}
+.identity-inspector .viewer-shell{padding:17px 20px 12px}
+.identity-inspector .viewer-toolbar{height:25px;margin-bottom:15px;font-size:9px;letter-spacing:.18em;color:#c9c0b3}
+.identity-inspector .viewer-serial{color:#f0e7d9;margin-left:3px;font-variant-numeric:tabular-nums}
+.identity-inspector .close-viewer{padding:6px;margin-right:-5px}
+.identity-inspector .close-viewer svg{width:17px;height:17px}
+.identity-inspector .viewer-image{width:100%;height:auto;max-height:none;aspect-ratio:1.2;border:1px solid #b26a29;margin:0;overflow:hidden}
+.identity-inspector .viewer-details{display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start;gap:0;padding:0;margin-top:13px;text-align:center}
+.identity-inspector .viewer-details h2{font-family:Georgia,'Times New Roman',serif;font-size:29px;line-height:1.1;letter-spacing:.015em;font-weight:400;margin:0}
+.identity-inspector .viewer-category{color:#b0aaa0;font-size:12px;font-style:italic;line-height:1.35;margin:5px 0 16px;min-height:16px}
+.identity-inspector .download-button{width:100%;min-height:43px;padding:11px 9px;border-radius:4px;justify-content:center;font-size:12px;line-height:17px;gap:8px;background-color:#ed741b;background-image:linear-gradient(#ffffff12,#0000000a);color:#fff6e9;font-weight:600;transition:background-color .18s ease,border-color .18s ease,box-shadow .18s ease}
+.identity-inspector .download-button:is(:hover,:focus-visible){background-color:#ff8a2b;border-color:#ffc18a80;box-shadow:0 0 12px #ff761c14}
+.identity-inspector .download-button svg{width:16px;height:16px}
+.identity-inspector .inspector-navigation{display:flex;align-items:center;justify-content:space-between;border-top:1px solid #302920;margin-top:13px;padding-top:7px;min-height:43px}
+.identity-inspector .viewer-arrow{display:grid;place-items:center;width:36px;height:34px;padding:6px;color:#c7bfb2;background:none}
+.identity-inspector .viewer-arrow:hover:enabled{color:#ff8d32}
+.identity-inspector .viewer-arrow:disabled{opacity:.25}
+.identity-inspector .viewer-arrow svg{width:19px;height:19px}
+.identity-inspector .viewer-position{font-size:12px;letter-spacing:.08em;font-variant-numeric:tabular-nums;margin:0;color:#eee5d9}
+.identity-card.is-selected{z-index:5}
+.identity-card.is-selected .float-body{animation-play-state:paused;transform:translateY(-5px)}
+.identity-card.is-selected .portrait-frame{border-color:#ff7518b3;border-bottom-color:#ffc58b;box-shadow:0 7px 19px -9px #ff781ca6}
+.identity-card.is-selected .portrait-frame::after{opacity:1}
+.identity-card.is-selected .light-ring{opacity:1;box-shadow:0 0 15px #ff791c99,inset 0 0 9px #ff9b413b}
+.identity-card.is-selected .ring-reflection{opacity:1}
+.identity-card.is-selected .view-pill{opacity:0!important}
+@media(max-height:600px){#viewer.identity-inspector{width:min(260px,calc(100vw - 32px))}.identity-inspector .viewer-shell{padding:10px 16px 8px}.identity-inspector .viewer-toolbar{margin-bottom:8px}.identity-inspector .viewer-details{margin-top:8px}.identity-inspector .viewer-details h2{font-size:24px}.identity-inspector .viewer-category{margin:4px 0 10px}.identity-inspector .inspector-navigation{margin-top:9px}}
+@media(prefers-reduced-motion:reduce){#viewer.identity-inspector,#viewer.identity-inspector::backdrop{transition:none;transform:none}.identity-card.is-selected .float-body{transform:none}}

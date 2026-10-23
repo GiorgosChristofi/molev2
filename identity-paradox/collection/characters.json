@@ -1,0 +1,4883 @@
+[
+  {
+    "name": "Ai Hoshino",
+    "slug": "ai-hoshino",
+    "filename": "Ai Hoshino.png",
+    "thumb": "thumbs/ai-hoshino.webp",
+    "preview": "previews/ai-hoshino.webp",
+    "original": "originals/Ai Hoshino.png"
+  },
+  {
+    "name": "Ainz Ooal Gown",
+    "slug": "ainz-ooal-gown",
+    "filename": "Ainz Ooal Gown.png",
+    "thumb": "thumbs/ainz-ooal-gown.webp",
+    "preview": "previews/ainz-ooal-gown.webp",
+    "original": "originals/Ainz Ooal Gown.png"
+  },
+  {
+    "name": "Akaza",
+    "slug": "akaza",
+    "filename": "Akaza.png",
+    "thumb": "thumbs/akaza.webp",
+    "preview": "previews/akaza.webp",
+    "original": "originals/Akaza.png"
+  },
+  {
+    "name": "Akeno Himejima",
+    "slug": "akeno-himejima",
+    "filename": "Akeno Himejima.png",
+    "thumb": "thumbs/akeno-himejima.webp",
+    "preview": "previews/akeno-himejima.webp",
+    "original": "originals/Akeno Himejima.png"
+  },
+  {
+    "name": "Aki Hayakawa",
+    "slug": "aki-hayakawa",
+    "filename": "Aki Hayakawa.png",
+    "thumb": "thumbs/aki-hayakawa.webp",
+    "preview": "previews/aki-hayakawa.webp",
+    "original": "originals/Aki Hayakawa.png"
+  },
+  {
+    "name": "Albedo",
+    "slug": "albedo",
+    "filename": "Albedo.png",
+    "thumb": "thumbs/albedo.webp",
+    "preview": "previews/albedo.webp",
+    "original": "originals/Albedo.png"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "slug": "albus-dumbledore",
+    "filename": "Albus Dumbledore.png",
+    "thumb": "thumbs/albus-dumbledore.webp",
+    "preview": "previews/albus-dumbledore.webp",
+    "original": "originals/Albus Dumbledore.png"
+  },
+  {
+    "name": "Alexander Anderson",
+    "slug": "alexander-anderson",
+    "filename": "Alexander Anderson.png",
+    "thumb": "thumbs/alexander-anderson.webp",
+    "preview": "previews/alexander-anderson.webp",
+    "original": "originals/Alexander Anderson.png"
+  },
+  {
+    "name": "All Might",
+    "slug": "all-might",
+    "filename": "All Might.png",
+    "thumb": "thumbs/all-might.webp",
+    "preview": "previews/all-might.webp",
+    "original": "originals/All Might.png"
+  },
+  {
+    "name": "Alphonse Elric",
+    "slug": "alphonse-elric",
+    "filename": "Alphonse Elric.png",
+    "thumb": "thumbs/alphonse-elric.webp",
+    "preview": "previews/alphonse-elric.webp",
+    "original": "originals/Alphonse Elric.png"
+  },
+  {
+    "name": "Alucard",
+    "slug": "alucard",
+    "filename": "Alucard.png",
+    "thumb": "thumbs/alucard.webp",
+    "preview": "previews/alucard.webp",
+    "original": "originals/Alucard.png"
+  },
+  {
+    "name": "Android 18",
+    "slug": "android-18",
+    "filename": "Android 18.png",
+    "thumb": "thumbs/android-18.webp",
+    "preview": "previews/android-18.webp",
+    "original": "originals/Android 18.png"
+  },
+  {
+    "name": "Anya Forger",
+    "slug": "anya-forger",
+    "filename": "Anya Forger.png",
+    "thumb": "thumbs/anya-forger.webp",
+    "preview": "previews/anya-forger.webp",
+    "original": "originals/Anya Forger.png"
+  },
+  {
+    "name": "Aoi Todo",
+    "slug": "aoi-todo",
+    "filename": "Aoi Todo.png",
+    "thumb": "thumbs/aoi-todo.webp",
+    "preview": "previews/aoi-todo.webp",
+    "original": "originals/Aoi Todo.png"
+  },
+  {
+    "name": "Aqua Hoshino",
+    "slug": "aqua-hoshino",
+    "filename": "Aqua Hoshino.png",
+    "thumb": "thumbs/aqua-hoshino.webp",
+    "preview": "previews/aqua-hoshino.webp",
+    "original": "originals/Aqua Hoshino.png"
+  },
+  {
+    "name": "Aquaman",
+    "slug": "aquaman",
+    "filename": "Aquaman.png",
+    "thumb": "thumbs/aquaman.webp",
+    "preview": "previews/aquaman.webp",
+    "original": "originals/Aquaman.png"
+  },
+  {
+    "name": "Archer EMIYA",
+    "slug": "archer-emiya",
+    "filename": "Archer EMIYA.png",
+    "thumb": "thumbs/archer-emiya.webp",
+    "preview": "previews/archer-emiya.webp",
+    "original": "originals/Archer EMIYA.png"
+  },
+  {
+    "name": "Arthur Mitchell",
+    "slug": "arthur-mitchell",
+    "filename": "Arthur Mitchell.png",
+    "thumb": "thumbs/arthur-mitchell.webp",
+    "preview": "previews/arthur-mitchell.webp",
+    "original": "originals/Arthur Mitchell.png"
+  },
+  {
+    "name": "Askeladd",
+    "slug": "askeladd",
+    "filename": "Askeladd.png",
+    "thumb": "thumbs/askeladd.webp",
+    "preview": "previews/askeladd.webp",
+    "original": "originals/Askeladd.png"
+  },
+  {
+    "name": "Asta",
+    "slug": "asta",
+    "filename": "Asta.png",
+    "thumb": "thumbs/asta.webp",
+    "preview": "previews/asta.webp",
+    "original": "originals/Asta.png"
+  },
+  {
+    "name": "Asuka Langley",
+    "slug": "asuka-langley",
+    "filename": "Asuka Langley.png",
+    "thumb": "thumbs/asuka-langley.webp",
+    "preview": "previews/asuka-langley.webp",
+    "original": "originals/Asuka Langley.png"
+  },
+  {
+    "name": "Asuna Yuuki",
+    "slug": "asuna-yuuki",
+    "filename": "Asuna Yuuki.png",
+    "thumb": "thumbs/asuna-yuuki.webp",
+    "preview": "previews/asuna-yuuki.webp",
+    "original": "originals/Asuna Yuuki.png"
+  },
+  {
+    "name": "Austrian Painter",
+    "slug": "austrian-painter",
+    "filename": "Austrian Painter.png",
+    "thumb": "thumbs/austrian-painter.webp",
+    "preview": "previews/austrian-painter.webp",
+    "original": "originals/Austrian Painter.png"
+  },
+  {
+    "name": "Beatrice",
+    "slug": "beatrice",
+    "filename": "Beatrice.png",
+    "thumb": "thumbs/beatrice.webp",
+    "preview": "previews/beatrice.webp",
+    "original": "originals/Beatrice.png"
+  },
+  {
+    "name": "Beerus",
+    "slug": "beerus",
+    "filename": "Beerus.png",
+    "thumb": "thumbs/beerus.webp",
+    "preview": "previews/beerus.webp",
+    "original": "originals/Beerus.png"
+  },
+  {
+    "name": "Ben 10",
+    "slug": "ben-10",
+    "filename": "Ben 10.png",
+    "thumb": "thumbs/ben-10.webp",
+    "preview": "previews/ben-10.webp",
+    "original": "originals/Ben 10.png"
+  },
+  {
+    "name": "Benimaru Shinmon",
+    "slug": "benimaru-shinmon",
+    "filename": "Benimaru Shinmon.png",
+    "thumb": "thumbs/benimaru-shinmon.webp",
+    "preview": "previews/benimaru-shinmon.webp",
+    "original": "originals/Benimaru Shinmon.png"
+  },
+  {
+    "name": "Bill Cipher",
+    "slug": "bill-cipher",
+    "filename": "Bill Cipher.png",
+    "thumb": "thumbs/bill-cipher.webp",
+    "preview": "previews/bill-cipher.webp",
+    "original": "originals/Bill Cipher.png"
+  },
+  {
+    "name": "Black Widow",
+    "slug": "black-widow",
+    "filename": "Black Widow.png",
+    "thumb": "thumbs/black-widow.webp",
+    "preview": "previews/black-widow.webp",
+    "original": "originals/Black Widow.png"
+  },
+  {
+    "name": "Boa Hancock",
+    "slug": "boa-hancock",
+    "filename": "Boa Hancock.png",
+    "thumb": "thumbs/boa-hancock.webp",
+    "preview": "previews/boa-hancock.webp",
+    "original": "originals/Boa Hancock.png"
+  },
+  {
+    "name": "Bojji",
+    "slug": "bojji",
+    "filename": "Bojji.png",
+    "thumb": "thumbs/bojji.webp",
+    "preview": "previews/bojji.webp",
+    "original": "originals/Bojji.png"
+  },
+  {
+    "name": "Brian Griffin",
+    "slug": "brian-griffin",
+    "filename": "Brian Griffin.png",
+    "thumb": "thumbs/brian-griffin.webp",
+    "preview": "previews/brian-griffin.webp",
+    "original": "originals/Brian Griffin.png"
+  },
+  {
+    "name": "Broly",
+    "slug": "broly",
+    "filename": "Broly.png",
+    "thumb": "thumbs/broly.webp",
+    "preview": "previews/broly.webp",
+    "original": "originals/Broly.png"
+  },
+  {
+    "name": "Broly Super Saiyan",
+    "slug": "broly-super-saiyan",
+    "filename": "Broly Super Saiyan.png",
+    "thumb": "thumbs/broly-super-saiyan.webp",
+    "preview": "previews/broly-super-saiyan.webp",
+    "original": "originals/Broly Super Saiyan.png"
+  },
+  {
+    "name": "Brook",
+    "slug": "brook",
+    "filename": "Brook.png",
+    "thumb": "thumbs/brook.webp",
+    "preview": "previews/brook.webp",
+    "original": "originals/Brook.png"
+  },
+  {
+    "name": "Buggy",
+    "slug": "buggy",
+    "filename": "Buggy.png",
+    "thumb": "thumbs/buggy.webp",
+    "preview": "previews/buggy.webp",
+    "original": "originals/Buggy.png"
+  },
+  {
+    "name": "Byakuya Kuchiki",
+    "slug": "byakuya-kuchiki",
+    "filename": "Byakuya Kuchiki.png",
+    "thumb": "thumbs/byakuya-kuchiki.webp",
+    "preview": "previews/byakuya-kuchiki.webp",
+    "original": "originals/Byakuya Kuchiki.png"
+  },
+  {
+    "name": "Captain Marvel",
+    "slug": "captain-marvel",
+    "filename": "Captain Marvel.png",
+    "thumb": "thumbs/captain-marvel.webp",
+    "preview": "previews/captain-marvel.webp",
+    "original": "originals/Captain Marvel.png"
+  },
+  {
+    "name": "Catwoman",
+    "slug": "catwoman",
+    "filename": "Catwoman.png",
+    "thumb": "thumbs/catwoman.webp",
+    "preview": "previews/catwoman.webp",
+    "original": "originals/Catwoman.png"
+  },
+  {
+    "name": "Cell",
+    "slug": "cell",
+    "filename": "Cell.png",
+    "thumb": "thumbs/cell.webp",
+    "preview": "previews/cell.webp",
+    "original": "originals/Cell.png"
+  },
+  {
+    "name": "Charizard",
+    "slug": "charizard",
+    "filename": "Charizard.png",
+    "thumb": "thumbs/charizard.webp",
+    "preview": "previews/charizard.webp",
+    "original": "originals/Charizard.png"
+  },
+  {
+    "name": "Chewbacca",
+    "slug": "chewbacca",
+    "filename": "Chewbacca.png",
+    "thumb": "thumbs/chewbacca.webp",
+    "preview": "previews/chewbacca.webp",
+    "original": "originals/Chewbacca.png"
+  },
+  {
+    "name": "Chihiro Ogino",
+    "slug": "chihiro-ogino",
+    "filename": "Chihiro Ogino.png",
+    "thumb": "thumbs/chihiro-ogino.webp",
+    "preview": "previews/chihiro-ogino.webp",
+    "original": "originals/Chihiro Ogino.png"
+  },
+  {
+    "name": "Chika Fujiwara",
+    "slug": "chika-fujiwara",
+    "filename": "Chika Fujiwara.png",
+    "thumb": "thumbs/chika-fujiwara.webp",
+    "preview": "previews/chika-fujiwara.webp",
+    "original": "originals/Chika Fujiwara.png"
+  },
+  {
+    "name": "Chikorita",
+    "slug": "chikorita",
+    "filename": "Chikorita.png",
+    "thumb": "thumbs/chikorita.webp",
+    "preview": "previews/chikorita.webp",
+    "original": "originals/Chikorita.png"
+  },
+  {
+    "name": "Choso",
+    "slug": "choso",
+    "filename": "Choso.png",
+    "thumb": "thumbs/choso.webp",
+    "preview": "previews/choso.webp",
+    "original": "originals/Choso.png"
+  },
+  {
+    "name": "Christopher Moltisanti",
+    "slug": "christopher-moltisanti",
+    "filename": "Christopher Moltisanti.png",
+    "thumb": "thumbs/christopher-moltisanti.webp",
+    "preview": "previews/christopher-moltisanti.webp",
+    "original": "originals/Christopher Moltisanti.png"
+  },
+  {
+    "name": "Chrollo Lucilfer",
+    "slug": "chrollo-lucilfer",
+    "filename": "Chrollo Lucilfer.png",
+    "thumb": "thumbs/chrollo-lucilfer.webp",
+    "preview": "previews/chrollo-lucilfer.webp",
+    "original": "originals/Chrollo Lucilfer.png"
+  },
+  {
+    "name": "Chucky",
+    "slug": "chucky",
+    "filename": "Chucky.png",
+    "thumb": "thumbs/chucky.webp",
+    "preview": "previews/chucky.webp",
+    "original": "originals/Chucky.png"
+  },
+  {
+    "name": "Crocodile",
+    "slug": "crocodile",
+    "filename": "Crocodile.png",
+    "thumb": "thumbs/crocodile.webp",
+    "preview": "previews/crocodile.webp",
+    "original": "originals/Crocodile.png"
+  },
+  {
+    "name": "Dabi",
+    "slug": "dabi",
+    "filename": "Dabi.png",
+    "thumb": "thumbs/dabi.webp",
+    "preview": "previews/dabi.webp",
+    "original": "originals/Dabi.png"
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "slug": "daenerys-targaryen",
+    "filename": "Daenerys Targaryen.png",
+    "thumb": "thumbs/daenerys-targaryen.webp",
+    "preview": "previews/daenerys-targaryen.webp",
+    "original": "originals/Daenerys Targaryen.png"
+  },
+  {
+    "name": "Daphne Blake",
+    "slug": "daphne-blake",
+    "filename": "Daphne Blake.png",
+    "thumb": "thumbs/daphne-blake.webp",
+    "preview": "previews/daphne-blake.webp",
+    "original": "originals/Daphne Blake.png"
+  },
+  {
+    "name": "Darkrai",
+    "slug": "darkrai",
+    "filename": "Darkrai.png",
+    "thumb": "thumbs/darkrai.webp",
+    "preview": "previews/darkrai.webp",
+    "original": "originals/Darkrai.png"
+  },
+  {
+    "name": "Darth Maul",
+    "slug": "darth-maul",
+    "filename": "Darth Maul.png",
+    "thumb": "thumbs/darth-maul.webp",
+    "preview": "previews/darth-maul.webp",
+    "original": "originals/Darth Maul.png"
+  },
+  {
+    "name": "David Martinez",
+    "slug": "david-martinez",
+    "filename": "David Martinez.png",
+    "thumb": "thumbs/david-martinez.webp",
+    "preview": "previews/david-martinez.webp",
+    "original": "originals/David Martinez.png"
+  },
+  {
+    "name": "Davy Jones",
+    "slug": "davy-jones",
+    "filename": "Davy Jones.png",
+    "thumb": "thumbs/davy-jones.webp",
+    "preview": "previews/davy-jones.webp",
+    "original": "originals/Davy Jones.png"
+  },
+  {
+    "name": "Debra Morgan",
+    "slug": "debra-morgan",
+    "filename": "Debra Morgan.png",
+    "thumb": "thumbs/debra-morgan.webp",
+    "preview": "previews/debra-morgan.webp",
+    "original": "originals/Debra Morgan.png"
+  },
+  {
+    "name": "Decim",
+    "slug": "decim",
+    "filename": "Decim.png",
+    "thumb": "thumbs/decim.webp",
+    "preview": "previews/decim.webp",
+    "original": "originals/Decim.png"
+  },
+  {
+    "name": "Deidara",
+    "slug": "deidara",
+    "filename": "Deidara.png",
+    "thumb": "thumbs/deidara.webp",
+    "preview": "previews/deidara.webp",
+    "original": "originals/Deidara.png"
+  },
+  {
+    "name": "Denji",
+    "slug": "denji",
+    "filename": "Denji.png",
+    "thumb": "thumbs/denji.webp",
+    "preview": "previews/denji.webp",
+    "original": "originals/Denji.png"
+  },
+  {
+    "name": "Dexter Morgan",
+    "slug": "dexter-morgan",
+    "filename": "Dexter Morgan.png",
+    "thumb": "thumbs/dexter-morgan.webp",
+    "preview": "previews/dexter-morgan.webp",
+    "original": "originals/Dexter Morgan.png"
+  },
+  {
+    "name": "Dialga",
+    "slug": "dialga",
+    "filename": "Dialga.png",
+    "thumb": "thumbs/dialga.webp",
+    "preview": "previews/dialga.webp",
+    "original": "originals/Dialga.png"
+  },
+  {
+    "name": "Diamondhead",
+    "slug": "diamondhead",
+    "filename": "Diamondhead.png",
+    "thumb": "thumbs/diamondhead.webp",
+    "preview": "previews/diamondhead.webp",
+    "original": "originals/Diamondhead.png"
+  },
+  {
+    "name": "Dio Brando",
+    "slug": "dio-brando",
+    "filename": "Dio Brando.png",
+    "thumb": "thumbs/dio-brando.webp",
+    "preview": "previews/dio-brando.webp",
+    "original": "originals/Dio Brando.png"
+  },
+  {
+    "name": "Dipper Pines",
+    "slug": "dipper-pines",
+    "filename": "Dipper Pines.png",
+    "thumb": "thumbs/dipper-pines.webp",
+    "preview": "previews/dipper-pines.webp",
+    "original": "originals/Dipper Pines.png"
+  },
+  {
+    "name": "Doctor Doom",
+    "slug": "doctor-doom",
+    "filename": "Doctor Doom.png",
+    "thumb": "thumbs/doctor-doom.webp",
+    "preview": "previews/doctor-doom.webp",
+    "original": "originals/Doctor Doom.png"
+  },
+  {
+    "name": "Doctor Strange",
+    "slug": "doctor-strange",
+    "filename": "Doctor Strange.png",
+    "thumb": "thumbs/doctor-strange.webp",
+    "preview": "previews/doctor-strange.webp",
+    "original": "originals/Doctor Strange.png"
+  },
+  {
+    "name": "Doma",
+    "slug": "doma",
+    "filename": "Doma.png",
+    "thumb": "thumbs/doma.webp",
+    "preview": "previews/doma.webp",
+    "original": "originals/Doma.png"
+  },
+  {
+    "name": "Donquixote Doflamingo",
+    "slug": "donquixote-doflamingo",
+    "filename": "Donquixote Doflamingo.png",
+    "thumb": "thumbs/donquixote-doflamingo.webp",
+    "preview": "previews/donquixote-doflamingo.webp",
+    "original": "originals/Donquixote Doflamingo.png"
+  },
+  {
+    "name": "Dorio",
+    "slug": "dorio",
+    "filename": "Dorio.png",
+    "thumb": "thumbs/dorio.webp",
+    "preview": "previews/dorio.webp",
+    "original": "originals/Dorio.png"
+  },
+  {
+    "name": "Dr Doofenshmirtz",
+    "slug": "dr-doofenshmirtz",
+    "filename": "Dr Doofenshmirtz.png",
+    "thumb": "thumbs/dr-doofenshmirtz.webp",
+    "preview": "previews/dr-doofenshmirtz.webp",
+    "original": "originals/Dr Doofenshmirtz.png"
+  },
+  {
+    "name": "Dracule Mihawk",
+    "slug": "dracule-mihawk",
+    "filename": "Dracule Mihawk.png",
+    "thumb": "thumbs/dracule-mihawk.webp",
+    "preview": "previews/dracule-mihawk.webp",
+    "original": "originals/Dracule Mihawk.png"
+  },
+  {
+    "name": "Edward Elric",
+    "slug": "edward-elric",
+    "filename": "Edward Elric.png",
+    "thumb": "thumbs/edward-elric.webp",
+    "preview": "previews/edward-elric.webp",
+    "original": "originals/Edward Elric.png"
+  },
+  {
+    "name": "Emilia",
+    "slug": "emilia",
+    "filename": "Emilia.png",
+    "thumb": "thumbs/emilia.webp",
+    "preview": "previews/emilia.webp",
+    "original": "originals/Emilia.png"
+  },
+  {
+    "name": "Emma",
+    "slug": "emma",
+    "filename": "Emma.png",
+    "thumb": "thumbs/emma.webp",
+    "preview": "previews/emma.webp",
+    "original": "originals/Emma.png"
+  },
+  {
+    "name": "Emul",
+    "slug": "emul",
+    "filename": "Emul.png",
+    "thumb": "thumbs/emul.webp",
+    "preview": "previews/emul.webp",
+    "original": "originals/Emul.png"
+  },
+  {
+    "name": "Eren Yeager",
+    "slug": "eren-yeager",
+    "filename": "Eren Yeager.png",
+    "thumb": "thumbs/eren-yeager.webp",
+    "preview": "previews/eren-yeager.webp",
+    "original": "originals/Eren Yeager.png"
+  },
+  {
+    "name": "Erza Scarlet",
+    "slug": "erza-scarlet",
+    "filename": "Erza Scarlet.png",
+    "thumb": "thumbs/erza-scarlet.webp",
+    "preview": "previews/erza-scarlet.webp",
+    "original": "originals/Erza Scarlet.png"
+  },
+  {
+    "name": "Escanor",
+    "slug": "escanor",
+    "filename": "Escanor.png",
+    "thumb": "thumbs/escanor.webp",
+    "preview": "previews/escanor.webp",
+    "original": "originals/Escanor.png"
+  },
+  {
+    "name": "Falcon",
+    "slug": "falcon",
+    "filename": "Falcon.png",
+    "thumb": "thumbs/falcon.webp",
+    "preview": "previews/falcon.webp",
+    "original": "originals/Falcon.png"
+  },
+  {
+    "name": "Fat Majin Buu",
+    "slug": "fat-majin-buu",
+    "filename": "Fat Majin Buu.png",
+    "thumb": "thumbs/fat-majin-buu.webp",
+    "preview": "previews/fat-majin-buu.webp",
+    "original": "originals/Fat Majin Buu.png"
+  },
+  {
+    "name": "Ferb",
+    "slug": "ferb",
+    "filename": "Ferb.png",
+    "thumb": "thumbs/ferb.webp",
+    "preview": "previews/ferb.webp",
+    "original": "originals/Ferb.png"
+  },
+  {
+    "name": "Ferb 2",
+    "slug": "ferb-2",
+    "filename": "Ferb 2.png",
+    "thumb": "thumbs/ferb-2.webp",
+    "preview": "previews/ferb-2.webp",
+    "original": "originals/Ferb 2.png"
+  },
+  {
+    "name": "Fern",
+    "slug": "fern",
+    "filename": "Fern.png",
+    "thumb": "thumbs/fern.webp",
+    "preview": "previews/fern.webp",
+    "original": "originals/Fern.png"
+  },
+  {
+    "name": "Finn",
+    "slug": "finn",
+    "filename": "Finn.png",
+    "thumb": "thumbs/finn.webp",
+    "preview": "previews/finn.webp",
+    "original": "originals/Finn.png"
+  },
+  {
+    "name": "Flash",
+    "slug": "flash",
+    "filename": "Flash.png",
+    "thumb": "thumbs/flash.webp",
+    "preview": "previews/flash.webp",
+    "original": "originals/Flash.png"
+  },
+  {
+    "name": "Four Arms",
+    "slug": "four-arms",
+    "filename": "Four Arms.png",
+    "thumb": "thumbs/four-arms.webp",
+    "preview": "previews/four-arms.webp",
+    "original": "originals/Four Arms.png"
+  },
+  {
+    "name": "Franken Stein",
+    "slug": "franken-stein",
+    "filename": "Franken Stein.png",
+    "thumb": "thumbs/franken-stein.webp",
+    "preview": "previews/franken-stein.webp",
+    "original": "originals/Franken Stein.png"
+  },
+  {
+    "name": "Franky",
+    "slug": "franky",
+    "filename": "Franky.png",
+    "thumb": "thumbs/franky.webp",
+    "preview": "previews/franky.webp",
+    "original": "originals/Franky.png"
+  },
+  {
+    "name": "Fred Jones",
+    "slug": "fred-jones",
+    "filename": "Fred Jones.png",
+    "thumb": "thumbs/fred-jones.webp",
+    "preview": "previews/fred-jones.webp",
+    "original": "originals/Fred Jones.png"
+  },
+  {
+    "name": "Freddy Krueger",
+    "slug": "freddy-krueger",
+    "filename": "Freddy Krueger.png",
+    "thumb": "thumbs/freddy-krueger.webp",
+    "preview": "previews/freddy-krueger.webp",
+    "original": "originals/Freddy Krueger.png"
+  },
+  {
+    "name": "Frieren",
+    "slug": "frieren",
+    "filename": "Frieren.png",
+    "thumb": "thumbs/frieren.webp",
+    "preview": "previews/frieren.webp",
+    "original": "originals/Frieren.png"
+  },
+  {
+    "name": "Frieza",
+    "slug": "frieza",
+    "filename": "Frieza.png",
+    "thumb": "thumbs/frieza.webp",
+    "preview": "previews/frieza.webp",
+    "original": "originals/Frieza.png"
+  },
+  {
+    "name": "Frodo Baggins",
+    "slug": "frodo-baggins",
+    "filename": "Frodo Baggins.png",
+    "thumb": "thumbs/frodo-baggins.webp",
+    "preview": "previews/frodo-baggins.webp",
+    "original": "originals/Frodo Baggins.png"
+  },
+  {
+    "name": "Gaara",
+    "slug": "gaara",
+    "filename": "Gaara.png",
+    "thumb": "thumbs/gaara.webp",
+    "preview": "previews/gaara.webp",
+    "original": "originals/Gaara.png"
+  },
+  {
+    "name": "Gandalf",
+    "slug": "gandalf",
+    "filename": "Gandalf.png",
+    "thumb": "thumbs/gandalf.webp",
+    "preview": "previews/gandalf.webp",
+    "original": "originals/Gandalf.png"
+  },
+  {
+    "name": "Garou",
+    "slug": "garou",
+    "filename": "Garou.png",
+    "thumb": "thumbs/garou.webp",
+    "preview": "previews/garou.webp",
+    "original": "originals/Garou.png"
+  },
+  {
+    "name": "Genos",
+    "slug": "genos",
+    "filename": "Genos.png",
+    "thumb": "thumbs/genos.webp",
+    "preview": "previews/genos.webp",
+    "original": "originals/Genos.png"
+  },
+  {
+    "name": "Ghost Rider",
+    "slug": "ghost-rider",
+    "filename": "Ghost Rider.png",
+    "thumb": "thumbs/ghost-rider.webp",
+    "preview": "previews/ghost-rider.webp",
+    "original": "originals/Ghost Rider.png"
+  },
+  {
+    "name": "Ghostface",
+    "slug": "ghostface",
+    "filename": "Ghostface.png",
+    "thumb": "thumbs/ghostface.webp",
+    "preview": "previews/ghostface.webp",
+    "original": "originals/Ghostface.png"
+  },
+  {
+    "name": "Gilgamesh",
+    "slug": "gilgamesh",
+    "filename": "Gilgamesh.png",
+    "thumb": "thumbs/gilgamesh.webp",
+    "preview": "previews/gilgamesh.webp",
+    "original": "originals/Gilgamesh.png"
+  },
+  {
+    "name": "Gimli",
+    "slug": "gimli",
+    "filename": "Gimli.png",
+    "thumb": "thumbs/gimli.webp",
+    "preview": "previews/gimli.webp",
+    "original": "originals/Gimli.png"
+  },
+  {
+    "name": "Gintoki Sakata",
+    "slug": "gintoki-sakata",
+    "filename": "Gintoki Sakata.png",
+    "thumb": "thumbs/gintoki-sakata.webp",
+    "preview": "previews/gintoki-sakata.webp",
+    "original": "originals/Gintoki Sakata.png"
+  },
+  {
+    "name": "Giorno Giovanna",
+    "slug": "giorno-giovanna",
+    "filename": "Giorno Giovanna.png",
+    "thumb": "thumbs/giorno-giovanna.webp",
+    "preview": "previews/giorno-giovanna.webp",
+    "original": "originals/Giorno Giovanna.png"
+  },
+  {
+    "name": "Giratina",
+    "slug": "giratina",
+    "filename": "Giratina.png",
+    "thumb": "thumbs/giratina.webp",
+    "preview": "previews/giratina.webp",
+    "original": "originals/Giratina.png"
+  },
+  {
+    "name": "Glenn Quagmire",
+    "slug": "glenn-quagmire",
+    "filename": "Glenn Quagmire.png",
+    "thumb": "thumbs/glenn-quagmire.webp",
+    "preview": "previews/glenn-quagmire.webp",
+    "original": "originals/Glenn Quagmire.png"
+  },
+  {
+    "name": "Gogeta Super Saiyan",
+    "slug": "gogeta-super-saiyan",
+    "filename": "Gogeta Super Saiyan.png",
+    "thumb": "thumbs/gogeta-super-saiyan.webp",
+    "preview": "previews/gogeta-super-saiyan.webp",
+    "original": "originals/Gogeta Super Saiyan.png"
+  },
+  {
+    "name": "Gohan",
+    "slug": "gohan",
+    "filename": "Gohan.png",
+    "thumb": "thumbs/gohan.webp",
+    "preview": "previews/gohan.webp",
+    "original": "originals/Gohan.png"
+  },
+  {
+    "name": "Gohan Super Saiyan",
+    "slug": "gohan-super-saiyan",
+    "filename": "Gohan Super Saiyan.png",
+    "thumb": "thumbs/gohan-super-saiyan.webp",
+    "preview": "previews/gohan-super-saiyan.webp",
+    "original": "originals/Gohan Super Saiyan.png"
+  },
+  {
+    "name": "Goku",
+    "slug": "goku",
+    "filename": "Goku.png",
+    "thumb": "thumbs/goku.webp",
+    "preview": "previews/goku.webp",
+    "original": "originals/Goku.png"
+  },
+  {
+    "name": "Vegito Super Saiyan",
+    "slug": "vegito-super-saiyan",
+    "filename": "Vegito Super Saiyan.png",
+    "thumb": "thumbs/vegito-super-saiyan.webp",
+    "preview": "previews/vegito-super-saiyan.webp",
+    "original": "originals/Vegito Super Saiyan.png"
+  },
+  {
+    "name": "Goku Super Saiyan 2",
+    "slug": "goku-super-saiyan-2",
+    "filename": "Goku Super Saiyan 2.png",
+    "thumb": "thumbs/goku-super-saiyan-2.webp",
+    "preview": "previews/goku-super-saiyan-2.webp",
+    "original": "originals/Goku Super Saiyan 2.png"
+  },
+  {
+    "name": "Gollum",
+    "slug": "gollum",
+    "filename": "Gollum.png",
+    "thumb": "thumbs/gollum.webp",
+    "preview": "previews/gollum.webp",
+    "original": "originals/Gollum.png"
+  },
+  {
+    "name": "Gon Freecss",
+    "slug": "gon-freecss",
+    "filename": "Gon Freecss.png",
+    "thumb": "thumbs/gon-freecss.webp",
+    "preview": "previews/gon-freecss.webp",
+    "original": "originals/Gon Freecss.png"
+  },
+  {
+    "name": "Green Lantern",
+    "slug": "green-lantern",
+    "filename": "Green Lantern.png",
+    "thumb": "thumbs/green-lantern.webp",
+    "preview": "previews/green-lantern.webp",
+    "original": "originals/Green Lantern.png"
+  },
+  {
+    "name": "Griffith",
+    "slug": "griffith",
+    "filename": "Griffith.png",
+    "thumb": "thumbs/griffith.webp",
+    "preview": "previews/griffith.webp",
+    "original": "originals/Griffith.png"
+  },
+  {
+    "name": "Grimmjow Jaegerjaquez",
+    "slug": "grimmjow-jaegerjaquez",
+    "filename": "Grimmjow Jaegerjaquez.png",
+    "thumb": "thumbs/grimmjow-jaegerjaquez.webp",
+    "preview": "previews/grimmjow-jaegerjaquez.webp",
+    "original": "originals/Grimmjow Jaegerjaquez.png"
+  },
+  {
+    "name": "Grunkle Stan",
+    "slug": "grunkle-stan",
+    "filename": "Grunkle Stan.png",
+    "thumb": "thumbs/grunkle-stan.webp",
+    "preview": "previews/grunkle-stan.webp",
+    "original": "originals/Grunkle Stan.png"
+  },
+  {
+    "name": "Guts",
+    "slug": "guts",
+    "filename": "Guts.png",
+    "thumb": "thumbs/guts.webp",
+    "preview": "previews/guts.webp",
+    "original": "originals/Guts.png"
+  },
+  {
+    "name": "Gyro Zeppeli",
+    "slug": "gyro-zeppeli",
+    "filename": "Gyro Zeppeli.png",
+    "thumb": "thumbs/gyro-zeppeli.webp",
+    "preview": "previews/gyro-zeppeli.webp",
+    "original": "originals/Gyro Zeppeli.png"
+  },
+  {
+    "name": "Hannibal Lecter",
+    "slug": "hannibal-lecter",
+    "filename": "Hannibal Lecter.png",
+    "thumb": "thumbs/hannibal-lecter.webp",
+    "preview": "previews/hannibal-lecter.webp",
+    "original": "originals/Hannibal Lecter.png"
+  },
+  {
+    "name": "Harley Quinn",
+    "slug": "harley-quinn",
+    "filename": "Harley Quinn.png",
+    "thumb": "thumbs/harley-quinn.webp",
+    "preview": "previews/harley-quinn.webp",
+    "original": "originals/Harley Quinn.png"
+  },
+  {
+    "name": "Harry Potter",
+    "slug": "harry-potter",
+    "filename": "Harry Potter.png",
+    "thumb": "thumbs/harry-potter.webp",
+    "preview": "previews/harry-potter.webp",
+    "original": "originals/Harry Potter.png"
+  },
+  {
+    "name": "Hashirama Senju",
+    "slug": "hashirama-senju",
+    "filename": "Hashirama Senju.png",
+    "thumb": "thumbs/hashirama-senju.webp",
+    "preview": "previews/hashirama-senju.webp",
+    "original": "originals/Hashirama Senju.png"
+  },
+  {
+    "name": "Hawkeye",
+    "slug": "hawkeye",
+    "filename": "Hawkeye.png",
+    "thumb": "thumbs/hawkeye.webp",
+    "preview": "previews/hawkeye.webp",
+    "original": "originals/Hawkeye.png"
+  },
+  {
+    "name": "Heatblast",
+    "slug": "heatblast",
+    "filename": "Heatblast.png",
+    "thumb": "thumbs/heatblast.webp",
+    "preview": "previews/heatblast.webp",
+    "original": "originals/Heatblast.png"
+  },
+  {
+    "name": "Hector Barbossa",
+    "slug": "hector-barbossa",
+    "filename": "Hector Barbossa.png",
+    "thumb": "thumbs/hector-barbossa.webp",
+    "preview": "previews/hector-barbossa.webp",
+    "original": "originals/Hector Barbossa.png"
+  },
+  {
+    "name": "Herbert",
+    "slug": "herbert",
+    "filename": "Herbert.png",
+    "thumb": "thumbs/herbert.webp",
+    "preview": "previews/herbert.webp",
+    "original": "originals/Herbert.png"
+  },
+  {
+    "name": "Hidan",
+    "slug": "hidan",
+    "filename": "Hidan.png",
+    "thumb": "thumbs/hidan.webp",
+    "preview": "previews/hidan.webp",
+    "original": "originals/Hidan.png"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "slug": "hinata-hyuga",
+    "filename": "Hinata Hyuga.png",
+    "thumb": "thumbs/hinata-hyuga.webp",
+    "preview": "previews/hinata-hyuga.webp",
+    "original": "originals/Hinata Hyuga.png"
+  },
+  {
+    "name": "Hisoka Morow",
+    "slug": "hisoka-morow",
+    "filename": "Hisoka Morow.png",
+    "thumb": "thumbs/hisoka-morow.webp",
+    "preview": "previews/hisoka-morow.webp",
+    "original": "originals/Hisoka Morow.png"
+  },
+  {
+    "name": "Homelander",
+    "slug": "homelander",
+    "filename": "Homelander.png",
+    "thumb": "thumbs/homelander.webp",
+    "preview": "previews/homelander.webp",
+    "original": "originals/Homelander.png"
+  },
+  {
+    "name": "Homer Simpson",
+    "slug": "homer-simpson",
+    "filename": "Homer Simpson.png",
+    "thumb": "thumbs/homer-simpson.webp",
+    "preview": "previews/homer-simpson.webp",
+    "original": "originals/Homer Simpson.png"
+  },
+  {
+    "name": "Howl Pendragon",
+    "slug": "howl-pendragon",
+    "filename": "Howl Pendragon.png",
+    "thumb": "thumbs/howl-pendragon.webp",
+    "preview": "previews/howl-pendragon.webp",
+    "original": "originals/Howl Pendragon.png"
+  },
+  {
+    "name": "Hulk",
+    "slug": "hulk",
+    "filename": "Hulk.png",
+    "thumb": "thumbs/hulk.webp",
+    "preview": "previews/hulk.webp",
+    "original": "originals/Hulk.png"
+  },
+  {
+    "name": "Hulk 2",
+    "slug": "hulk-2",
+    "filename": "Hulk 2.png",
+    "thumb": "thumbs/hulk-2.webp",
+    "preview": "previews/hulk-2.webp",
+    "original": "originals/Hulk 2.png"
+  },
+  {
+    "name": "Human Torch",
+    "slug": "human-torch",
+    "filename": "Human Torch.png",
+    "thumb": "thumbs/human-torch.webp",
+    "preview": "previews/human-torch.webp",
+    "original": "originals/Human Torch.png"
+  },
+  {
+    "name": "Ichigo Kurosaki",
+    "slug": "ichigo-kurosaki",
+    "filename": "Ichigo Kurosaki.png",
+    "thumb": "thumbs/ichigo-kurosaki.webp",
+    "preview": "previews/ichigo-kurosaki.webp",
+    "original": "originals/Ichigo Kurosaki.png"
+  },
+  {
+    "name": "Inosuke Hashibira",
+    "slug": "inosuke-hashibira",
+    "filename": "Inosuke Hashibira.png",
+    "thumb": "thumbs/inosuke-hashibira.webp",
+    "preview": "previews/inosuke-hashibira.webp",
+    "original": "originals/Inosuke Hashibira.png"
+  },
+  {
+    "name": "Inuyasha",
+    "slug": "inuyasha",
+    "filename": "Inuyasha.png",
+    "thumb": "thumbs/inuyasha.webp",
+    "preview": "previews/inuyasha.webp",
+    "original": "originals/Inuyasha.png"
+  },
+  {
+    "name": "Invisible Woman",
+    "slug": "invisible-woman",
+    "filename": "Invisible Woman.png",
+    "thumb": "thumbs/invisible-woman.webp",
+    "preview": "previews/invisible-woman.webp",
+    "original": "originals/Invisible Woman.png"
+  },
+  {
+    "name": "Isaac Netero",
+    "slug": "isaac-netero",
+    "filename": "Isaac Netero.png",
+    "thumb": "thumbs/isaac-netero.webp",
+    "preview": "previews/isaac-netero.webp",
+    "original": "originals/Isaac Netero.png"
+  },
+  {
+    "name": "Issei Hyoudou",
+    "slug": "issei-hyoudou",
+    "filename": "Issei Hyoudou.png",
+    "thumb": "thumbs/issei-hyoudou.webp",
+    "preview": "previews/issei-hyoudou.webp",
+    "original": "originals/Issei Hyoudou.png"
+  },
+  {
+    "name": "Itachi Uchiha",
+    "slug": "itachi-uchiha",
+    "filename": "Itachi Uchiha.png",
+    "thumb": "thumbs/itachi-uchiha.webp",
+    "preview": "previews/itachi-uchiha.webp",
+    "original": "originals/Itachi Uchiha.png"
+  },
+  {
+    "name": "Izuku Midoriya",
+    "slug": "izuku-midoriya",
+    "filename": "Izuku Midoriya.png",
+    "thumb": "thumbs/izuku-midoriya.webp",
+    "preview": "previews/izuku-midoriya.webp",
+    "original": "originals/Izuku Midoriya.png"
+  },
+  {
+    "name": "Jack Sparrow",
+    "slug": "jack-sparrow",
+    "filename": "Jack Sparrow.png",
+    "thumb": "thumbs/jack-sparrow.webp",
+    "preview": "previews/jack-sparrow.webp",
+    "original": "originals/Jack Sparrow.png"
+  },
+  {
+    "name": "Jake the Dog",
+    "slug": "jake-the-dog",
+    "filename": "Jake the Dog.png",
+    "thumb": "thumbs/jake-the-dog.webp",
+    "preview": "previews/jake-the-dog.webp",
+    "original": "originals/Jake the Dog.png"
+  },
+  {
+    "name": "Jason Voorhees",
+    "slug": "jason-voorhees",
+    "filename": "Jason Voorhees.png",
+    "thumb": "thumbs/jason-voorhees.webp",
+    "preview": "previews/jason-voorhees.webp",
+    "original": "originals/Jason Voorhees.png"
+  },
+  {
+    "name": "Jesse Pinkman",
+    "slug": "jesse-pinkman",
+    "filename": "Jesse Pinkman.png",
+    "thumb": "thumbs/jesse-pinkman.webp",
+    "preview": "previews/jesse-pinkman.webp",
+    "original": "originals/Jesse Pinkman.png"
+  },
+  {
+    "name": "Jiraiya",
+    "slug": "jiraiya",
+    "filename": "Jiraiya.png",
+    "thumb": "thumbs/jiraiya.webp",
+    "preview": "previews/jiraiya.webp",
+    "original": "originals/Jiraiya.png"
+  },
+  {
+    "name": "Johan Liebert",
+    "slug": "johan-liebert",
+    "filename": "Johan Liebert.png",
+    "thumb": "thumbs/johan-liebert.webp",
+    "preview": "previews/johan-liebert.webp",
+    "original": "originals/Johan Liebert.png"
+  },
+  {
+    "name": "Joker",
+    "slug": "joker",
+    "filename": "Joker.png",
+    "thumb": "thumbs/joker.webp",
+    "preview": "previews/joker.webp",
+    "original": "originals/Joker.png"
+  },
+  {
+    "name": "Jon Snow",
+    "slug": "jon-snow",
+    "filename": "Jon Snow.png",
+    "thumb": "thumbs/jon-snow.webp",
+    "preview": "previews/jon-snow.webp",
+    "original": "originals/Jon Snow.png"
+  },
+  {
+    "name": "Jotaro Kujo",
+    "slug": "jotaro-kujo",
+    "filename": "Jotaro Kujo.png",
+    "thumb": "thumbs/jotaro-kujo.webp",
+    "preview": "previews/jotaro-kujo.webp",
+    "original": "originals/Jotaro Kujo.png"
+  },
+  {
+    "name": "Kage",
+    "slug": "kage",
+    "filename": "Kage.png",
+    "thumb": "thumbs/kage.webp",
+    "preview": "previews/kage.webp",
+    "original": "originals/Kage.png"
+  },
+  {
+    "name": "Kaguya Shinomiya",
+    "slug": "kaguya-shinomiya",
+    "filename": "Kaguya Shinomiya.png",
+    "thumb": "thumbs/kaguya-shinomiya.webp",
+    "preview": "previews/kaguya-shinomiya.webp",
+    "original": "originals/Kaguya Shinomiya.png"
+  },
+  {
+    "name": "Kakashi Hatake",
+    "slug": "kakashi-hatake",
+    "filename": "Kakashi Hatake.png",
+    "thumb": "thumbs/kakashi-hatake.webp",
+    "preview": "previews/kakashi-hatake.webp",
+    "original": "originals/Kakashi Hatake.png"
+  },
+  {
+    "name": "Kaori Miyazono",
+    "slug": "kaori-miyazono",
+    "filename": "Kaori Miyazono.png",
+    "thumb": "thumbs/kaori-miyazono.webp",
+    "preview": "previews/kaori-miyazono.webp",
+    "original": "originals/Kaori Miyazono.png"
+  },
+  {
+    "name": "Katakuri",
+    "slug": "katakuri",
+    "filename": "Katakuri.png",
+    "thumb": "thumbs/katakuri.webp",
+    "preview": "previews/katakuri.webp",
+    "original": "originals/Katakuri.png"
+  },
+  {
+    "name": "Katsuki Bakugo",
+    "slug": "katsuki-bakugo",
+    "filename": "Katsuki Bakugo.png",
+    "thumb": "thumbs/katsuki-bakugo.webp",
+    "preview": "previews/katsuki-bakugo.webp",
+    "original": "originals/Katsuki Bakugo.png"
+  },
+  {
+    "name": "Kaworu Nagisa",
+    "slug": "kaworu-nagisa",
+    "filename": "Kaworu Nagisa.png",
+    "thumb": "thumbs/kaworu-nagisa.webp",
+    "preview": "previews/kaworu-nagisa.webp",
+    "original": "originals/Kaworu Nagisa.png"
+  },
+  {
+    "name": "Ken Kaneki",
+    "slug": "ken-kaneki",
+    "filename": "Ken Kaneki.png",
+    "thumb": "thumbs/ken-kaneki.webp",
+    "preview": "previews/ken-kaneki.webp",
+    "original": "originals/Ken Kaneki.png"
+  },
+  {
+    "name": "Ken Ryuguji",
+    "slug": "ken-ryuguji",
+    "filename": "Ken Ryuguji.png",
+    "thumb": "thumbs/ken-ryuguji.webp",
+    "preview": "previews/ken-ryuguji.webp",
+    "original": "originals/Ken Ryuguji.png"
+  },
+  {
+    "name": "Ken Takakura Okarun",
+    "slug": "ken-takakura-okarun",
+    "filename": "Ken Takakura Okarun.png",
+    "thumb": "thumbs/ken-takakura-okarun.webp",
+    "preview": "previews/ken-takakura-okarun.webp",
+    "original": "originals/Ken Takakura Okarun.png"
+  },
+  {
+    "name": "Kenjaku",
+    "slug": "kenjaku",
+    "filename": "Kenjaku.png",
+    "thumb": "thumbs/kenjaku.webp",
+    "preview": "previews/kenjaku.webp",
+    "original": "originals/Kenjaku.png"
+  },
+  {
+    "name": "Kenshin Himura",
+    "slug": "kenshin-himura",
+    "filename": "Kenshin Himura.png",
+    "thumb": "thumbs/kenshin-himura.webp",
+    "preview": "previews/kenshin-himura.webp",
+    "original": "originals/Kenshin Himura.png"
+  },
+  {
+    "name": "Kento Nanami",
+    "slug": "kento-nanami",
+    "filename": "Kento Nanami.png",
+    "thumb": "thumbs/kento-nanami.webp",
+    "preview": "previews/kento-nanami.webp",
+    "original": "originals/Kento Nanami.png"
+  },
+  {
+    "name": "Kenzo Tenma",
+    "slug": "kenzo-tenma",
+    "filename": "Kenzo Tenma.png",
+    "thumb": "thumbs/kenzo-tenma.webp",
+    "preview": "previews/kenzo-tenma.webp",
+    "original": "originals/Kenzo Tenma.png"
+  },
+  {
+    "name": "Kid Majin Buu",
+    "slug": "kid-majin-buu",
+    "filename": "Kid Majin Buu.png",
+    "thumb": "thumbs/kid-majin-buu.webp",
+    "preview": "previews/kid-majin-buu.webp",
+    "original": "originals/Kid Majin Buu.png"
+  },
+  {
+    "name": "Killer Bee",
+    "slug": "killer-bee",
+    "filename": "Killer Bee.png",
+    "thumb": "thumbs/killer-bee.webp",
+    "preview": "previews/killer-bee.webp",
+    "original": "originals/Killer Bee.png"
+  },
+  {
+    "name": "Killua Zoldyck",
+    "slug": "killua-zoldyck",
+    "filename": "Killua Zoldyck.png",
+    "thumb": "thumbs/killua-zoldyck.webp",
+    "preview": "previews/killua-zoldyck.webp",
+    "original": "originals/Killua Zoldyck.png"
+  },
+  {
+    "name": "Kirito",
+    "slug": "kirito",
+    "filename": "Kirito.png",
+    "thumb": "thumbs/kirito.webp",
+    "preview": "previews/kirito.webp",
+    "original": "originals/Kirito.png"
+  },
+  {
+    "name": "Kisame Hoshigaki",
+    "slug": "kisame-hoshigaki",
+    "filename": "Kisame Hoshigaki.png",
+    "thumb": "thumbs/kisame-hoshigaki.webp",
+    "preview": "previews/kisame-hoshigaki.webp",
+    "original": "originals/Kisame Hoshigaki.png"
+  },
+  {
+    "name": "Kisuke Urahara",
+    "slug": "kisuke-urahara",
+    "filename": "Kisuke Urahara.png",
+    "thumb": "thumbs/kisuke-urahara.webp",
+    "preview": "previews/kisuke-urahara.webp",
+    "original": "originals/Kisuke Urahara.png"
+  },
+  {
+    "name": "Kiwi",
+    "slug": "kiwi",
+    "filename": "Kiwi.png",
+    "thumb": "thumbs/kiwi.webp",
+    "preview": "previews/kiwi.webp",
+    "original": "originals/Kiwi.png"
+  },
+  {
+    "name": "Kiyotaka Ayanokoji",
+    "slug": "kiyotaka-ayanokoji",
+    "filename": "Kiyotaka Ayanokoji.png",
+    "thumb": "thumbs/kiyotaka-ayanokoji.webp",
+    "preview": "previews/kiyotaka-ayanokoji.webp",
+    "original": "originals/Kiyotaka Ayanokoji.png"
+  },
+  {
+    "name": "Konan",
+    "slug": "konan",
+    "filename": "Konan.png",
+    "thumb": "thumbs/konan.webp",
+    "preview": "previews/konan.webp",
+    "original": "originals/Konan.png"
+  },
+  {
+    "name": "Koro Sensei",
+    "slug": "koro-sensei",
+    "filename": "Koro Sensei.png",
+    "thumb": "thumbs/koro-sensei.webp",
+    "preview": "previews/koro-sensei.webp",
+    "original": "originals/Koro Sensei.png"
+  },
+  {
+    "name": "Kousei Arima",
+    "slug": "kousei-arima",
+    "filename": "Kousei Arima.png",
+    "thumb": "thumbs/kousei-arima.webp",
+    "preview": "previews/kousei-arima.webp",
+    "original": "originals/Kousei Arima.png"
+  },
+  {
+    "name": "Kyojuro Rengoku",
+    "slug": "kyojuro-rengoku",
+    "filename": "Kyojuro Rengoku.png",
+    "thumb": "thumbs/kyojuro-rengoku.webp",
+    "preview": "previews/kyojuro-rengoku.webp",
+    "original": "originals/Kyojuro Rengoku.png"
+  },
+  {
+    "name": "L Lawliet",
+    "slug": "l-lawliet",
+    "filename": "L Lawliet.png",
+    "thumb": "thumbs/l-lawliet.webp",
+    "preview": "previews/l-lawliet.webp",
+    "original": "originals/L Lawliet.png"
+  },
+  {
+    "name": "Lain Iwakura",
+    "slug": "lain-iwakura",
+    "filename": "Lain Iwakura.png",
+    "thumb": "thumbs/lain-iwakura.webp",
+    "preview": "previews/lain-iwakura.webp",
+    "original": "originals/Lain Iwakura.png"
+  },
+  {
+    "name": "Legolas",
+    "slug": "legolas",
+    "filename": "Legolas.png",
+    "thumb": "thumbs/legolas.webp",
+    "preview": "previews/legolas.webp",
+    "original": "originals/Legolas.png"
+  },
+  {
+    "name": "Lelouch Lamperouge",
+    "slug": "lelouch-lamperouge",
+    "filename": "Lelouch Lamperouge.png",
+    "thumb": "thumbs/lelouch-lamperouge.webp",
+    "preview": "previews/lelouch-lamperouge.webp",
+    "original": "originals/Lelouch Lamperouge.png"
+  },
+  {
+    "name": "Levi Ackerman",
+    "slug": "levi-ackerman",
+    "filename": "Levi Ackerman.png",
+    "thumb": "thumbs/levi-ackerman.webp",
+    "preview": "previews/levi-ackerman.webp",
+    "original": "originals/Levi Ackerman.png"
+  },
+  {
+    "name": "Lex Luthor",
+    "slug": "lex-luthor",
+    "filename": "Lex Luthor.png",
+    "thumb": "thumbs/lex-luthor.webp",
+    "preview": "previews/lex-luthor.webp",
+    "original": "originals/Lex Luthor.png"
+  },
+  {
+    "name": "Light Yagami",
+    "slug": "light-yagami",
+    "filename": "Light Yagami.png",
+    "thumb": "thumbs/light-yagami.webp",
+    "preview": "previews/light-yagami.webp",
+    "original": "originals/Light Yagami.png"
+  },
+  {
+    "name": "Lincoln Burrows",
+    "slug": "lincoln-burrows",
+    "filename": "Lincoln Burrows.png",
+    "thumb": "thumbs/lincoln-burrows.webp",
+    "preview": "previews/lincoln-burrows.webp",
+    "original": "originals/Lincoln Burrows.png"
+  },
+  {
+    "name": "Loid Forger",
+    "slug": "loid-forger",
+    "filename": "Loid Forger.png",
+    "thumb": "thumbs/loid-forger.webp",
+    "preview": "previews/loid-forger.webp",
+    "original": "originals/Loid Forger.png"
+  },
+  {
+    "name": "Lucifero",
+    "slug": "lucifero",
+    "filename": "Lucifero.png",
+    "thumb": "thumbs/lucifero.webp",
+    "preview": "previews/lucifero.webp",
+    "original": "originals/Lucifero.png"
+  },
+  {
+    "name": "Lucius Zogratis",
+    "slug": "lucius-zogratis",
+    "filename": "Lucius Zogratis.png",
+    "thumb": "thumbs/lucius-zogratis.webp",
+    "preview": "previews/lucius-zogratis.webp",
+    "original": "originals/Lucius Zogratis.png"
+  },
+  {
+    "name": "Lucy Cyberpunk",
+    "slug": "lucy-cyberpunk",
+    "filename": "Lucy Cyberpunk.png",
+    "thumb": "thumbs/lucy-cyberpunk.webp",
+    "preview": "previews/lucy-cyberpunk.webp",
+    "original": "originals/Lucy Cyberpunk.png"
+  },
+  {
+    "name": "Lucy Elfen Lied",
+    "slug": "lucy-elfen-lied",
+    "filename": "Lucy Elfen Lied.png",
+    "thumb": "thumbs/lucy-elfen-lied.webp",
+    "preview": "previews/lucy-elfen-lied.webp",
+    "original": "originals/Lucy Elfen Lied.png"
+  },
+  {
+    "name": "Lucy Heartfilia",
+    "slug": "lucy-heartfilia",
+    "filename": "Lucy Heartfilia.png",
+    "thumb": "thumbs/lucy-heartfilia.webp",
+    "preview": "previews/lucy-heartfilia.webp",
+    "original": "originals/Lucy Heartfilia.png"
+  },
+  {
+    "name": "Mabel Pines",
+    "slug": "mabel-pines",
+    "filename": "Mabel Pines.png",
+    "thumb": "thumbs/mabel-pines.webp",
+    "preview": "previews/mabel-pines.webp",
+    "original": "originals/Mabel Pines.png"
+  },
+  {
+    "name": "Madara Uchiha",
+    "slug": "madara-uchiha",
+    "filename": "Madara Uchiha.png",
+    "thumb": "thumbs/madara-uchiha.webp",
+    "preview": "previews/madara-uchiha.webp",
+    "original": "originals/Madara Uchiha.png"
+  },
+  {
+    "name": "Mahito",
+    "slug": "mahito",
+    "filename": "Mahito.png",
+    "thumb": "thumbs/mahito.webp",
+    "preview": "previews/mahito.webp",
+    "original": "originals/Mahito.png"
+  },
+  {
+    "name": "Maine",
+    "slug": "maine",
+    "filename": "Maine.png",
+    "thumb": "thumbs/maine.webp",
+    "preview": "previews/maine.webp",
+    "original": "originals/Maine.png"
+  },
+  {
+    "name": "Maki Zenin",
+    "slug": "maki-zenin",
+    "filename": "Maki Zenin.png",
+    "thumb": "thumbs/maki-zenin.webp",
+    "preview": "previews/maki-zenin.webp",
+    "original": "originals/Maki Zenin.png"
+  },
+  {
+    "name": "Makima",
+    "slug": "makima",
+    "filename": "Makima.png",
+    "thumb": "thumbs/makima.webp",
+    "preview": "previews/makima.webp",
+    "original": "originals/Makima.png"
+  },
+  {
+    "name": "Manjiro Sano",
+    "slug": "manjiro-sano",
+    "filename": "Manjiro Sano.png",
+    "thumb": "thumbs/manjiro-sano.webp",
+    "preview": "previews/manjiro-sano.webp",
+    "original": "originals/Manjiro Sano.png"
+  },
+  {
+    "name": "Mashle",
+    "slug": "mashle",
+    "filename": "Mashle.png",
+    "thumb": "thumbs/mashle.webp",
+    "preview": "previews/mashle.webp",
+    "original": "originals/Mashle.png"
+  },
+  {
+    "name": "Master Roshi",
+    "slug": "master-roshi",
+    "filename": "Master Roshi.png",
+    "thumb": "thumbs/master-roshi.webp",
+    "preview": "previews/master-roshi.webp",
+    "original": "originals/Master Roshi.png"
+  },
+  {
+    "name": "Mayuri Kurotsuchi",
+    "slug": "mayuri-kurotsuchi",
+    "filename": "Mayuri Kurotsuchi.png",
+    "thumb": "thumbs/mayuri-kurotsuchi.webp",
+    "preview": "previews/mayuri-kurotsuchi.webp",
+    "original": "originals/Mayuri Kurotsuchi.png"
+  },
+  {
+    "name": "Meguru Bachira",
+    "slug": "meguru-bachira",
+    "filename": "Meguru Bachira.png",
+    "thumb": "thumbs/meguru-bachira.webp",
+    "preview": "previews/meguru-bachira.webp",
+    "original": "originals/Meguru Bachira.png"
+  },
+  {
+    "name": "Meliodas",
+    "slug": "meliodas",
+    "filename": "Meliodas.png",
+    "thumb": "thumbs/meliodas.webp",
+    "preview": "previews/meliodas.webp",
+    "original": "originals/Meliodas.png"
+  },
+  {
+    "name": "Meruem",
+    "slug": "meruem",
+    "filename": "Meruem.png",
+    "thumb": "thumbs/meruem.webp",
+    "preview": "previews/meruem.webp",
+    "original": "originals/Meruem.png"
+  },
+  {
+    "name": "Mewtwo",
+    "slug": "mewtwo",
+    "filename": "Mewtwo.png",
+    "thumb": "thumbs/mewtwo.webp",
+    "preview": "previews/mewtwo.webp",
+    "original": "originals/Mewtwo.png"
+  },
+  {
+    "name": "Michael Corleone",
+    "slug": "michael-corleone",
+    "filename": "Michael Corleone.png",
+    "thumb": "thumbs/michael-corleone.webp",
+    "preview": "previews/michael-corleone.webp",
+    "original": "originals/Michael Corleone.png"
+  },
+  {
+    "name": "Michael Myers",
+    "slug": "michael-myers",
+    "filename": "Michael Myers.png",
+    "thumb": "thumbs/michael-myers.webp",
+    "preview": "previews/michael-myers.webp",
+    "original": "originals/Michael Myers.png"
+  },
+  {
+    "name": "Michael Scofield",
+    "slug": "michael-scofield",
+    "filename": "Michael Scofield.png",
+    "thumb": "thumbs/michael-scofield.webp",
+    "preview": "previews/michael-scofield.webp",
+    "original": "originals/Michael Scofield.png"
+  },
+  {
+    "name": "Might Guy",
+    "slug": "might-guy",
+    "filename": "Might Guy.png",
+    "thumb": "thumbs/might-guy.webp",
+    "preview": "previews/might-guy.webp",
+    "original": "originals/Might Guy.png"
+  },
+  {
+    "name": "Minato Namikaze",
+    "slug": "minato-namikaze",
+    "filename": "Minato Namikaze.png",
+    "thumb": "thumbs/minato-namikaze.webp",
+    "preview": "previews/minato-namikaze.webp",
+    "original": "originals/Minato Namikaze.png"
+  },
+  {
+    "name": "Mitsuri Kanroji",
+    "slug": "mitsuri-kanroji",
+    "filename": "Mitsuri Kanroji.png",
+    "thumb": "thumbs/mitsuri-kanroji.webp",
+    "preview": "previews/mitsuri-kanroji.webp",
+    "original": "originals/Mitsuri Kanroji.png"
+  },
+  {
+    "name": "Miyuki Shirogane",
+    "slug": "miyuki-shirogane",
+    "filename": "Miyuki Shirogane.png",
+    "thumb": "thumbs/miyuki-shirogane.webp",
+    "preview": "previews/miyuki-shirogane.webp",
+    "original": "originals/Miyuki Shirogane.png"
+  },
+  {
+    "name": "Momo Ayase",
+    "slug": "momo-ayase",
+    "filename": "Momo Ayase.png",
+    "thumb": "thumbs/momo-ayase.webp",
+    "preview": "previews/momo-ayase.webp",
+    "original": "originals/Momo Ayase.png"
+  },
+  {
+    "name": "Monkey D Luffy",
+    "slug": "monkey-d-luffy",
+    "filename": "Monkey D Luffy.png",
+    "thumb": "thumbs/monkey-d-luffy.webp",
+    "preview": "previews/monkey-d-luffy.webp",
+    "original": "originals/Monkey D Luffy.png"
+  },
+  {
+    "name": "Moon Knight",
+    "slug": "moon-knight",
+    "filename": "Moon Knight.png",
+    "thumb": "thumbs/moon-knight.webp",
+    "preview": "previews/moon-knight.webp",
+    "original": "originals/Moon Knight.png"
+  },
+  {
+    "name": "Mordecai",
+    "slug": "mordecai",
+    "filename": "Mordecai.png",
+    "thumb": "thumbs/mordecai.webp",
+    "preview": "previews/mordecai.webp",
+    "original": "originals/Mordecai.png"
+  },
+  {
+    "name": "Morty Smith",
+    "slug": "morty-smith",
+    "filename": "Morty Smith.png",
+    "thumb": "thumbs/morty-smith.webp",
+    "preview": "previews/morty-smith.webp",
+    "original": "originals/Morty Smith.png"
+  },
+  {
+    "name": "Mr Fantastic",
+    "slug": "mr-fantastic",
+    "filename": "Mr Fantastic.png",
+    "thumb": "thumbs/mr-fantastic.webp",
+    "preview": "previews/mr-fantastic.webp",
+    "original": "originals/Mr Fantastic.png"
+  },
+  {
+    "name": "Mr Krabs",
+    "slug": "mr-krabs",
+    "filename": "Mr Krabs.png",
+    "thumb": "thumbs/mr-krabs.webp",
+    "preview": "previews/mr-krabs.webp",
+    "original": "originals/Mr Krabs.png"
+  },
+  {
+    "name": "Ms Marvel",
+    "slug": "ms-marvel",
+    "filename": "Ms Marvel.png",
+    "thumb": "thumbs/ms-marvel.webp",
+    "preview": "previews/ms-marvel.webp",
+    "original": "originals/Ms Marvel.png"
+  },
+  {
+    "name": "Muzan Kibutsuji",
+    "slug": "muzan-kibutsuji",
+    "filename": "Muzan Kibutsuji.png",
+    "thumb": "thumbs/muzan-kibutsuji.webp",
+    "preview": "previews/muzan-kibutsuji.webp",
+    "original": "originals/Muzan Kibutsuji.png"
+  },
+  {
+    "name": "Nami",
+    "slug": "nami",
+    "filename": "Nami.png",
+    "thumb": "thumbs/nami.webp",
+    "preview": "previews/nami.webp",
+    "original": "originals/Nami.png"
+  },
+  {
+    "name": "Nanachi",
+    "slug": "nanachi",
+    "filename": "Nanachi.png",
+    "thumb": "thumbs/nanachi.webp",
+    "preview": "previews/nanachi.webp",
+    "original": "originals/Nanachi.png"
+  },
+  {
+    "name": "Naofumi Iwatani",
+    "slug": "naofumi-iwatani",
+    "filename": "Naofumi Iwatani.png",
+    "thumb": "thumbs/naofumi-iwatani.webp",
+    "preview": "previews/naofumi-iwatani.webp",
+    "original": "originals/Naofumi Iwatani.png"
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "slug": "naruto-uzumaki",
+    "filename": "Naruto Uzumaki.png",
+    "thumb": "thumbs/naruto-uzumaki.webp",
+    "preview": "previews/naruto-uzumaki.webp",
+    "original": "originals/Naruto Uzumaki.png"
+  },
+  {
+    "name": "Natsu Dragneel",
+    "slug": "natsu-dragneel",
+    "filename": "Natsu Dragneel.png",
+    "thumb": "thumbs/natsu-dragneel.webp",
+    "preview": "previews/natsu-dragneel.webp",
+    "original": "originals/Natsu Dragneel.png"
+  },
+  {
+    "name": "Netanyahu",
+    "slug": "netanyahu",
+    "filename": "Netanyahu.png",
+    "thumb": "thumbs/netanyahu.webp",
+    "preview": "previews/netanyahu.webp",
+    "original": "originals/Netanyahu.png"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "slug": "nezuko-kamado",
+    "filename": "Nezuko Kamado.png",
+    "thumb": "thumbs/nezuko-kamado.webp",
+    "preview": "previews/nezuko-kamado.webp",
+    "original": "originals/Nezuko Kamado.png"
+  },
+  {
+    "name": "Nico Robin",
+    "slug": "nico-robin",
+    "filename": "Nico Robin.png",
+    "thumb": "thumbs/nico-robin.webp",
+    "preview": "previews/nico-robin.webp",
+    "original": "originals/Nico Robin.png"
+  },
+  {
+    "name": "Nightwing",
+    "slug": "nightwing",
+    "filename": "Nightwing.png",
+    "thumb": "thumbs/nightwing.webp",
+    "preview": "previews/nightwing.webp",
+    "original": "originals/Nightwing.png"
+  },
+  {
+    "name": "No Face",
+    "slug": "no-face",
+    "filename": "No Face.png",
+    "thumb": "thumbs/no-face.webp",
+    "preview": "previews/no-face.webp",
+    "original": "originals/No Face.png"
+  },
+  {
+    "name": "Norman Promised Neverland",
+    "slug": "norman-promised-neverland",
+    "filename": "Norman Promised Neverland.png",
+    "thumb": "thumbs/norman-promised-neverland.webp",
+    "preview": "previews/norman-promised-neverland.webp",
+    "original": "originals/Norman Promised Neverland.png"
+  },
+  {
+    "name": "Obito Uchiha",
+    "slug": "obito-uchiha",
+    "filename": "Obito Uchiha.png",
+    "thumb": "thumbs/obito-uchiha.webp",
+    "preview": "previews/obito-uchiha.webp",
+    "original": "originals/Obito Uchiha.png"
+  },
+  {
+    "name": "Orochimaru",
+    "slug": "orochimaru",
+    "filename": "Orochimaru.png",
+    "thumb": "thumbs/orochimaru.webp",
+    "preview": "previews/orochimaru.webp",
+    "original": "originals/Orochimaru.png"
+  },
+  {
+    "name": "Pain",
+    "slug": "pain",
+    "filename": "Pain.png",
+    "thumb": "thumbs/pain.webp",
+    "preview": "previews/pain.webp",
+    "original": "originals/Pain.png"
+  },
+  {
+    "name": "Palkia",
+    "slug": "palkia",
+    "filename": "Palkia.png",
+    "thumb": "thumbs/palkia.webp",
+    "preview": "previews/palkia.webp",
+    "original": "originals/Palkia.png"
+  },
+  {
+    "name": "Patrick Star",
+    "slug": "patrick-star",
+    "filename": "Patrick Star.png",
+    "thumb": "thumbs/patrick-star.webp",
+    "preview": "previews/patrick-star.webp",
+    "original": "originals/Patrick Star.png"
+  },
+  {
+    "name": "Paulie Gualtieri",
+    "slug": "paulie-gualtieri",
+    "filename": "Paulie Gualtieri.png",
+    "thumb": "thumbs/paulie-gualtieri.webp",
+    "preview": "previews/paulie-gualtieri.webp",
+    "original": "originals/Paulie Gualtieri.png"
+  },
+  {
+    "name": "Penguin",
+    "slug": "penguin",
+    "filename": "Penguin.png",
+    "thumb": "thumbs/penguin.webp",
+    "preview": "previews/penguin.webp",
+    "original": "originals/Penguin.png"
+  },
+  {
+    "name": "Pennywise",
+    "slug": "pennywise",
+    "filename": "Pennywise.png",
+    "thumb": "thumbs/pennywise.webp",
+    "preview": "previews/pennywise.webp",
+    "original": "originals/Pennywise.png"
+  },
+  {
+    "name": "Perry the Platypus",
+    "slug": "perry-the-platypus",
+    "filename": "Perry the Platypus.png",
+    "thumb": "thumbs/perry-the-platypus.webp",
+    "preview": "previews/perry-the-platypus.webp",
+    "original": "originals/Perry the Platypus.png"
+  },
+  {
+    "name": "Peter Griffin",
+    "slug": "peter-griffin",
+    "filename": "Peter Griffin.png",
+    "thumb": "thumbs/peter-griffin.webp",
+    "preview": "previews/peter-griffin.webp",
+    "original": "originals/Peter Griffin.png"
+  },
+  {
+    "name": "Phineas",
+    "slug": "phineas",
+    "filename": "Phineas.png",
+    "thumb": "thumbs/phineas.webp",
+    "preview": "previews/phineas.webp",
+    "original": "originals/Phineas.png"
+  },
+  {
+    "name": "Phineas 2",
+    "slug": "phineas-2",
+    "filename": "Phineas 2.png",
+    "thumb": "thumbs/phineas-2.webp",
+    "preview": "previews/phineas-2.webp",
+    "original": "originals/Phineas 2.png"
+  },
+  {
+    "name": "Piccolo",
+    "slug": "piccolo",
+    "filename": "Piccolo.png",
+    "thumb": "thumbs/piccolo.webp",
+    "preview": "previews/piccolo.webp",
+    "original": "originals/Piccolo.png"
+  },
+  {
+    "name": "Poison Ivy",
+    "slug": "poison-ivy",
+    "filename": "Poison Ivy.png",
+    "thumb": "thumbs/poison-ivy.webp",
+    "preview": "previews/poison-ivy.webp",
+    "original": "originals/Poison Ivy.png"
+  },
+  {
+    "name": "Portgas D Ace",
+    "slug": "portgas-d-ace",
+    "filename": "Portgas D Ace.png",
+    "thumb": "thumbs/portgas-d-ace.webp",
+    "preview": "previews/portgas-d-ace.webp",
+    "original": "originals/Portgas D Ace.png"
+  },
+  {
+    "name": "Power",
+    "slug": "power",
+    "filename": "Power.png",
+    "thumb": "thumbs/power.webp",
+    "preview": "previews/power.webp",
+    "original": "originals/Power.png"
+  },
+  {
+    "name": "Ragna",
+    "slug": "ragna",
+    "filename": "Ragna.png",
+    "thumb": "thumbs/ragna.webp",
+    "preview": "previews/ragna.webp",
+    "original": "originals/Ragna.png"
+  },
+  {
+    "name": "Ram",
+    "slug": "ram",
+    "filename": "Ram.png",
+    "thumb": "thumbs/ram.webp",
+    "preview": "previews/ram.webp",
+    "original": "originals/Ram.png"
+  },
+  {
+    "name": "Ramiel",
+    "slug": "ramiel",
+    "filename": "Ramiel.png",
+    "thumb": "thumbs/ramiel.webp",
+    "preview": "previews/ramiel.webp",
+    "original": "originals/Ramiel.png"
+  },
+  {
+    "name": "Ray Promised Neverland",
+    "slug": "ray-promised-neverland",
+    "filename": "Ray Promised Neverland.png",
+    "thumb": "thumbs/ray-promised-neverland.webp",
+    "preview": "previews/ray-promised-neverland.webp",
+    "original": "originals/Ray Promised Neverland.png"
+  },
+  {
+    "name": "Rebecca Cyberpunk",
+    "slug": "rebecca-cyberpunk",
+    "filename": "Rebecca Cyberpunk.png",
+    "thumb": "thumbs/rebecca-cyberpunk.webp",
+    "preview": "previews/rebecca-cyberpunk.webp",
+    "original": "originals/Rebecca Cyberpunk.png"
+  },
+  {
+    "name": "Reg",
+    "slug": "reg",
+    "filename": "Reg.png",
+    "thumb": "thumbs/reg.webp",
+    "preview": "previews/reg.webp",
+    "original": "originals/Reg.png"
+  },
+  {
+    "name": "Rei Ayanami",
+    "slug": "rei-ayanami",
+    "filename": "Rei Ayanami.png",
+    "thumb": "thumbs/rei-ayanami.webp",
+    "preview": "previews/rei-ayanami.webp",
+    "original": "originals/Rei Ayanami.png"
+  },
+  {
+    "name": "Reigen Arataka",
+    "slug": "reigen-arataka",
+    "filename": "Reigen Arataka.png",
+    "thumb": "thumbs/reigen-arataka.webp",
+    "preview": "previews/reigen-arataka.webp",
+    "original": "originals/Reigen Arataka.png"
+  },
+  {
+    "name": "Rem",
+    "slug": "rem",
+    "filename": "Rem.png",
+    "thumb": "thumbs/rem.webp",
+    "preview": "previews/rem.webp",
+    "original": "originals/Rem.png"
+  },
+  {
+    "name": "Reze",
+    "slug": "reze",
+    "filename": "Reze.png",
+    "thumb": "thumbs/reze.webp",
+    "preview": "previews/reze.webp",
+    "original": "originals/Reze.png"
+  },
+  {
+    "name": "Rias Gremory",
+    "slug": "rias-gremory",
+    "filename": "Rias Gremory.png",
+    "thumb": "thumbs/rias-gremory.webp",
+    "preview": "previews/rias-gremory.webp",
+    "original": "originals/Rias Gremory.png"
+  },
+  {
+    "name": "Rick Sanchez",
+    "slug": "rick-sanchez",
+    "filename": "Rick Sanchez.png",
+    "thumb": "thumbs/rick-sanchez.webp",
+    "preview": "previews/rick-sanchez.webp",
+    "original": "originals/Rick Sanchez.png"
+  },
+  {
+    "name": "Riddler",
+    "slug": "riddler",
+    "filename": "Riddler.png",
+    "thumb": "thumbs/riddler.webp",
+    "preview": "previews/riddler.webp",
+    "original": "originals/Riddler.png"
+  },
+  {
+    "name": "Riko",
+    "slug": "riko",
+    "filename": "Riko.png",
+    "thumb": "thumbs/riko.webp",
+    "preview": "previews/riko.webp",
+    "original": "originals/Riko.png"
+  },
+  {
+    "name": "Rimuru Tempest",
+    "slug": "rimuru-tempest",
+    "filename": "Rimuru Tempest.png",
+    "thumb": "thumbs/rimuru-tempest.webp",
+    "preview": "previews/rimuru-tempest.webp",
+    "original": "originals/Rimuru Tempest.png"
+  },
+  {
+    "name": "Rin Itoshi",
+    "slug": "rin-itoshi",
+    "filename": "Rin Itoshi.png",
+    "thumb": "thumbs/rin-itoshi.webp",
+    "preview": "previews/rin-itoshi.webp",
+    "original": "originals/Rin Itoshi.png"
+  },
+  {
+    "name": "Rock Lee",
+    "slug": "rock-lee",
+    "filename": "Rock Lee.png",
+    "thumb": "thumbs/rock-lee.webp",
+    "preview": "previews/rock-lee.webp",
+    "original": "originals/Rock Lee.png"
+  },
+  {
+    "name": "Roronoa Zoro",
+    "slug": "roronoa-zoro",
+    "filename": "Roronoa Zoro.png",
+    "thumb": "thumbs/roronoa-zoro.webp",
+    "preview": "previews/roronoa-zoro.webp",
+    "original": "originals/Roronoa Zoro.png"
+  },
+  {
+    "name": "Roy Mustang",
+    "slug": "roy-mustang",
+    "filename": "Roy Mustang.png",
+    "thumb": "thumbs/roy-mustang.webp",
+    "preview": "previews/roy-mustang.webp",
+    "original": "originals/Roy Mustang.png"
+  },
+  {
+    "name": "Rubeus Hagrid",
+    "slug": "rubeus-hagrid",
+    "filename": "Rubeus Hagrid.png",
+    "thumb": "thumbs/rubeus-hagrid.webp",
+    "preview": "previews/rubeus-hagrid.webp",
+    "original": "originals/Rubeus Hagrid.png"
+  },
+  {
+    "name": "Ruby Hoshino",
+    "slug": "ruby-hoshino",
+    "filename": "Ruby Hoshino.png",
+    "thumb": "thumbs/ruby-hoshino.webp",
+    "preview": "previews/ruby-hoshino.webp",
+    "original": "originals/Ruby Hoshino.png"
+  },
+  {
+    "name": "Rukia Kuchiki",
+    "slug": "rukia-kuchiki",
+    "filename": "Rukia Kuchiki.png",
+    "thumb": "thumbs/rukia-kuchiki.webp",
+    "preview": "previews/rukia-kuchiki.webp",
+    "original": "originals/Rukia Kuchiki.png"
+  },
+  {
+    "name": "Ryomen Sukuna",
+    "slug": "ryomen-sukuna",
+    "filename": "Ryomen Sukuna.png",
+    "thumb": "thumbs/ryomen-sukuna.webp",
+    "preview": "previews/ryomen-sukuna.webp",
+    "original": "originals/Ryomen Sukuna.png"
+  },
+  {
+    "name": "Saber",
+    "slug": "saber",
+    "filename": "Saber.png",
+    "thumb": "thumbs/saber.webp",
+    "preview": "previews/saber.webp",
+    "original": "originals/Saber.png"
+  },
+  {
+    "name": "Sabo",
+    "slug": "sabo",
+    "filename": "Sabo.png",
+    "thumb": "thumbs/sabo.webp",
+    "preview": "previews/sabo.webp",
+    "original": "originals/Sabo.png"
+  },
+  {
+    "name": "Sailor Moon",
+    "slug": "sailor-moon",
+    "filename": "Sailor Moon.png",
+    "thumb": "thumbs/sailor-moon.webp",
+    "preview": "previews/sailor-moon.webp",
+    "original": "originals/Sailor Moon.png"
+  },
+  {
+    "name": "Saitama",
+    "slug": "saitama",
+    "filename": "Saitama.png",
+    "thumb": "thumbs/saitama.webp",
+    "preview": "previews/saitama.webp",
+    "original": "originals/Saitama.png"
+  },
+  {
+    "name": "Sandy Cheeks",
+    "slug": "sandy-cheeks",
+    "filename": "Sandy Cheeks.png",
+    "thumb": "thumbs/sandy-cheeks.webp",
+    "preview": "previews/sandy-cheeks.webp",
+    "original": "originals/Sandy Cheeks.png"
+  },
+  {
+    "name": "Sanji",
+    "slug": "sanji",
+    "filename": "Sanji.png",
+    "thumb": "thumbs/sanji.webp",
+    "preview": "previews/sanji.webp",
+    "original": "originals/Sanji.png"
+  },
+  {
+    "name": "Sasori",
+    "slug": "sasori",
+    "filename": "Sasori.png",
+    "thumb": "thumbs/sasori.webp",
+    "preview": "previews/sasori.webp",
+    "original": "originals/Sasori.png"
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "slug": "sasuke-uchiha",
+    "filename": "Sasuke Uchiha.png",
+    "thumb": "thumbs/sasuke-uchiha.webp",
+    "preview": "previews/sasuke-uchiha.webp",
+    "original": "originals/Sasuke Uchiha.png"
+  },
+  {
+    "name": "Satoru Gojo",
+    "slug": "satoru-gojo",
+    "filename": "Satoru Gojo.png",
+    "thumb": "thumbs/satoru-gojo.webp",
+    "preview": "previews/satoru-gojo.webp",
+    "original": "originals/Satoru Gojo.png"
+  },
+  {
+    "name": "Saul Goodman",
+    "slug": "saul-goodman",
+    "filename": "Saul Goodman.png",
+    "thumb": "thumbs/saul-goodman.webp",
+    "preview": "previews/saul-goodman.webp",
+    "original": "originals/Saul Goodman.png"
+  },
+  {
+    "name": "Scarecrow",
+    "slug": "scarecrow",
+    "filename": "Scarecrow.png",
+    "thumb": "thumbs/scarecrow.webp",
+    "preview": "previews/scarecrow.webp",
+    "original": "originals/Scarecrow.png"
+  },
+  {
+    "name": "Scooby Doo",
+    "slug": "scooby-doo",
+    "filename": "Scooby Doo.png",
+    "thumb": "thumbs/scooby-doo.webp",
+    "preview": "previews/scooby-doo.webp",
+    "original": "originals/Scooby Doo.png"
+  },
+  {
+    "name": "Senku Ishigami",
+    "slug": "senku-ishigami",
+    "filename": "Senku Ishigami.png",
+    "thumb": "thumbs/senku-ishigami.webp",
+    "preview": "previews/senku-ishigami.webp",
+    "original": "originals/Senku Ishigami.png"
+  },
+  {
+    "name": "Sesshomaru",
+    "slug": "sesshomaru",
+    "filename": "Sesshomaru.png",
+    "thumb": "thumbs/sesshomaru.webp",
+    "preview": "previews/sesshomaru.webp",
+    "original": "originals/Sesshomaru.png"
+  },
+  {
+    "name": "Seto Kaiba",
+    "slug": "seto-kaiba",
+    "filename": "Seto Kaiba.png",
+    "thumb": "thumbs/seto-kaiba.webp",
+    "preview": "previews/seto-kaiba.webp",
+    "original": "originals/Seto Kaiba.png"
+  },
+  {
+    "name": "Severus Snape",
+    "slug": "severus-snape",
+    "filename": "Severus Snape.png",
+    "thumb": "thumbs/severus-snape.webp",
+    "preview": "previews/severus-snape.webp",
+    "original": "originals/Severus Snape.png"
+  },
+  {
+    "name": "Shaggy Rogers",
+    "slug": "shaggy-rogers",
+    "filename": "Shaggy Rogers.png",
+    "thumb": "thumbs/shaggy-rogers.webp",
+    "preview": "previews/shaggy-rogers.webp",
+    "original": "originals/Shaggy Rogers.png"
+  },
+  {
+    "name": "Shang Chi",
+    "slug": "shang-chi",
+    "filename": "Shang Chi.png",
+    "thumb": "thumbs/shang-chi.webp",
+    "preview": "previews/shang-chi.webp",
+    "original": "originals/Shang Chi.png"
+  },
+  {
+    "name": "Shanks",
+    "slug": "shanks",
+    "filename": "Shanks.png",
+    "thumb": "thumbs/shanks.webp",
+    "preview": "previews/shanks.webp",
+    "original": "originals/Shanks.png"
+  },
+  {
+    "name": "She Hulk",
+    "slug": "she-hulk",
+    "filename": "She Hulk.png",
+    "thumb": "thumbs/she-hulk.webp",
+    "preview": "previews/she-hulk.webp",
+    "original": "originals/She Hulk.png"
+  },
+  {
+    "name": "Shigeo Kageyama",
+    "slug": "shigeo-kageyama",
+    "filename": "Shigeo Kageyama.png",
+    "thumb": "thumbs/shigeo-kageyama.webp",
+    "preview": "previews/shigeo-kageyama.webp",
+    "original": "originals/Shigeo Kageyama.png"
+  },
+  {
+    "name": "Shikamaru Nara",
+    "slug": "shikamaru-nara",
+    "filename": "Shikamaru Nara.png",
+    "thumb": "thumbs/shikamaru-nara.webp",
+    "preview": "previews/shikamaru-nara.webp",
+    "original": "originals/Shikamaru Nara.png"
+  },
+  {
+    "name": "Shinichi Izumi",
+    "slug": "shinichi-izumi",
+    "filename": "Shinichi Izumi.png",
+    "thumb": "thumbs/shinichi-izumi.webp",
+    "preview": "previews/shinichi-izumi.webp",
+    "original": "originals/Shinichi Izumi.png"
+  },
+  {
+    "name": "Shinji Ikari",
+    "slug": "shinji-ikari",
+    "filename": "Shinji Ikari.png",
+    "thumb": "thumbs/shinji-ikari.webp",
+    "preview": "previews/shinji-ikari.webp",
+    "original": "originals/Shinji Ikari.png"
+  },
+  {
+    "name": "Shinobu Kocho",
+    "slug": "shinobu-kocho",
+    "filename": "Shinobu Kocho.png",
+    "thumb": "thumbs/shinobu-kocho.webp",
+    "preview": "previews/shinobu-kocho.webp",
+    "original": "originals/Shinobu Kocho.png"
+  },
+  {
+    "name": "Shinra Kusakabe",
+    "slug": "shinra-kusakabe",
+    "filename": "Shinra Kusakabe.png",
+    "thumb": "thumbs/shinra-kusakabe.webp",
+    "preview": "previews/shinra-kusakabe.webp",
+    "original": "originals/Shinra Kusakabe.png"
+  },
+  {
+    "name": "Shotaro Kaneda",
+    "slug": "shotaro-kaneda",
+    "filename": "Shotaro Kaneda.png",
+    "thumb": "thumbs/shotaro-kaneda.webp",
+    "preview": "previews/shotaro-kaneda.webp",
+    "original": "originals/Shotaro Kaneda.png"
+  },
+  {
+    "name": "Shoto Todoroki",
+    "slug": "shoto-todoroki",
+    "filename": "Shoto Todoroki.png",
+    "thumb": "thumbs/shoto-todoroki.webp",
+    "preview": "previews/shoto-todoroki.webp",
+    "original": "originals/Shoto Todoroki.png"
+  },
+  {
+    "name": "Shrek",
+    "slug": "shrek",
+    "filename": "Shrek.png",
+    "thumb": "thumbs/shrek.webp",
+    "preview": "previews/shrek.webp",
+    "original": "originals/Shrek.png"
+  },
+  {
+    "name": "Silver Surfer",
+    "slug": "silver-surfer",
+    "filename": "Silver Surfer.png",
+    "thumb": "thumbs/silver-surfer.webp",
+    "preview": "previews/silver-surfer.webp",
+    "original": "originals/Silver Surfer.png"
+  },
+  {
+    "name": "Sinon",
+    "slug": "sinon",
+    "filename": "Sinon.png",
+    "thumb": "thumbs/sinon.webp",
+    "preview": "previews/sinon.webp",
+    "original": "originals/Sinon.png"
+  },
+  {
+    "name": "Sonny Corleone",
+    "slug": "sonny-corleone",
+    "filename": "Sonny Corleone.png",
+    "thumb": "thumbs/sonny-corleone.webp",
+    "preview": "previews/sonny-corleone.webp",
+    "original": "originals/Sonny Corleone.png"
+  },
+  {
+    "name": "Sosuke Aizen",
+    "slug": "sosuke-aizen",
+    "filename": "Sosuke Aizen.png",
+    "thumb": "thumbs/sosuke-aizen.webp",
+    "preview": "previews/sosuke-aizen.webp",
+    "original": "originals/Sosuke Aizen.png"
+  },
+  {
+    "name": "Spawn",
+    "slug": "spawn",
+    "filename": "Spawn.png",
+    "thumb": "thumbs/spawn.webp",
+    "preview": "previews/spawn.webp",
+    "original": "originals/Spawn.png"
+  },
+  {
+    "name": "Spike Spiegel",
+    "slug": "spike-spiegel",
+    "filename": "Spike Spiegel.png",
+    "thumb": "thumbs/spike-spiegel.webp",
+    "preview": "previews/spike-spiegel.webp",
+    "original": "originals/Spike Spiegel.png"
+  },
+  {
+    "name": "SpongeBob",
+    "slug": "spongebob",
+    "filename": "SpongeBob.png",
+    "thumb": "thumbs/spongebob.webp",
+    "preview": "previews/spongebob.webp",
+    "original": "originals/SpongeBob.png"
+  },
+  {
+    "name": "Squidward",
+    "slug": "squidward",
+    "filename": "Squidward.png",
+    "thumb": "thumbs/squidward.webp",
+    "preview": "previews/squidward.webp",
+    "original": "originals/Squidward.png"
+  },
+  {
+    "name": "Stark Frieren",
+    "slug": "stark-frieren",
+    "filename": "Stark Frieren.png",
+    "thumb": "thumbs/stark-frieren.webp",
+    "preview": "previews/stark-frieren.webp",
+    "original": "originals/Stark Frieren.png"
+  },
+  {
+    "name": "Stewie Griffin",
+    "slug": "stewie-griffin",
+    "filename": "Stewie Griffin.png",
+    "thumb": "thumbs/stewie-griffin.webp",
+    "preview": "previews/stewie-griffin.webp",
+    "original": "originals/Stewie Griffin.png"
+  },
+  {
+    "name": "Subaru Natsuki",
+    "slug": "subaru-natsuki",
+    "filename": "Subaru Natsuki.png",
+    "thumb": "thumbs/subaru-natsuki.webp",
+    "preview": "previews/subaru-natsuki.webp",
+    "original": "originals/Subaru Natsuki.png"
+  },
+  {
+    "name": "Sung Jinwoo",
+    "slug": "sung-jinwoo",
+    "filename": "Sung Jinwoo.png",
+    "thumb": "thumbs/sung-jinwoo.webp",
+    "preview": "previews/sung-jinwoo.webp",
+    "original": "originals/Sung Jinwoo.png"
+  },
+  {
+    "name": "Sunraku",
+    "slug": "sunraku",
+    "filename": "Sunraku.png",
+    "thumb": "thumbs/sunraku.webp",
+    "preview": "previews/sunraku.webp",
+    "original": "originals/Sunraku.png"
+  },
+  {
+    "name": "Superman",
+    "slug": "superman",
+    "filename": "Superman.png",
+    "thumb": "thumbs/superman.webp",
+    "preview": "previews/superman.webp",
+    "original": "originals/Superman.png"
+  },
+  {
+    "name": "Takemichi Hanagaki",
+    "slug": "takemichi-hanagaki",
+    "filename": "Takemichi Hanagaki.png",
+    "thumb": "thumbs/takemichi-hanagaki.webp",
+    "preview": "previews/takemichi-hanagaki.webp",
+    "original": "originals/Takemichi Hanagaki.png"
+  },
+  {
+    "name": "Tanjiro Kamado",
+    "slug": "tanjiro-kamado",
+    "filename": "Tanjiro Kamado.png",
+    "thumb": "thumbs/tanjiro-kamado.webp",
+    "preview": "previews/tanjiro-kamado.webp",
+    "original": "originals/Tanjiro Kamado.png"
+  },
+  {
+    "name": "Tanya von Degurechaff",
+    "slug": "tanya-von-degurechaff",
+    "filename": "Tanya von Degurechaff.png",
+    "thumb": "thumbs/tanya-von-degurechaff.webp",
+    "preview": "previews/tanya-von-degurechaff.webp",
+    "original": "originals/Tanya von Degurechaff.png"
+  },
+  {
+    "name": "Tatsumaki",
+    "slug": "tatsumaki",
+    "filename": "Tatsumaki.png",
+    "thumb": "thumbs/tatsumaki.webp",
+    "preview": "previews/tatsumaki.webp",
+    "original": "originals/Tatsumaki.png"
+  },
+  {
+    "name": "Tengen Uzui",
+    "slug": "tengen-uzui",
+    "filename": "Tengen Uzui.png",
+    "thumb": "thumbs/tengen-uzui.webp",
+    "preview": "previews/tengen-uzui.webp",
+    "original": "originals/Tengen Uzui.png"
+  },
+  {
+    "name": "Terminator",
+    "slug": "terminator",
+    "filename": "Terminator.png",
+    "thumb": "thumbs/terminator.webp",
+    "preview": "previews/terminator.webp",
+    "original": "originals/Terminator.png"
+  },
+  {
+    "name": "Tetsuo Shima",
+    "slug": "tetsuo-shima",
+    "filename": "Tetsuo Shima.png",
+    "thumb": "thumbs/tetsuo-shima.webp",
+    "preview": "previews/tetsuo-shima.webp",
+    "original": "originals/Tetsuo Shima.png"
+  },
+  {
+    "name": "Thanos",
+    "slug": "thanos",
+    "filename": "Thanos.png",
+    "thumb": "thumbs/thanos.webp",
+    "preview": "previews/thanos.webp",
+    "original": "originals/Thanos.png"
+  },
+  {
+    "name": "Theodore Bagwell",
+    "slug": "theodore-bagwell",
+    "filename": "Theodore Bagwell.png",
+    "thumb": "thumbs/theodore-bagwell.webp",
+    "preview": "previews/theodore-bagwell.webp",
+    "original": "originals/Theodore Bagwell.png"
+  },
+  {
+    "name": "Thor",
+    "slug": "thor",
+    "filename": "Thor.png",
+    "thumb": "thumbs/thor.webp",
+    "preview": "previews/thor.webp",
+    "original": "originals/Thor.png"
+  },
+  {
+    "name": "Thorfinn",
+    "slug": "thorfinn",
+    "filename": "Thorfinn.png",
+    "thumb": "thumbs/thorfinn.webp",
+    "preview": "previews/thorfinn.webp",
+    "original": "originals/Thorfinn.png"
+  },
+  {
+    "name": "Tobirama Senju",
+    "slug": "tobirama-senju",
+    "filename": "Tobirama Senju.png",
+    "thumb": "thumbs/tobirama-senju.webp",
+    "preview": "previews/tobirama-senju.webp",
+    "original": "originals/Tobirama Senju.png"
+  },
+  {
+    "name": "Toji Fushiguro",
+    "slug": "toji-fushiguro",
+    "filename": "Toji Fushiguro.png",
+    "thumb": "thumbs/toji-fushiguro.webp",
+    "preview": "previews/toji-fushiguro.webp",
+    "original": "originals/Toji Fushiguro.png"
+  },
+  {
+    "name": "Tony Soprano",
+    "slug": "tony-soprano",
+    "filename": "Tony Soprano.png",
+    "thumb": "thumbs/tony-soprano.webp",
+    "preview": "previews/tony-soprano.webp",
+    "original": "originals/Tony Soprano.png"
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "slug": "tony-tony-chopper",
+    "filename": "Tony Tony Chopper.png",
+    "thumb": "thumbs/tony-tony-chopper.webp",
+    "preview": "previews/tony-tony-chopper.webp",
+    "original": "originals/Tony Tony Chopper.png"
+  },
+  {
+    "name": "Torchic",
+    "slug": "torchic",
+    "filename": "Torchic.png",
+    "thumb": "thumbs/torchic.webp",
+    "preview": "previews/torchic.webp",
+    "original": "originals/Torchic.png"
+  },
+  {
+    "name": "Toshiro Hitsugaya",
+    "slug": "toshiro-hitsugaya",
+    "filename": "Toshiro Hitsugaya.png",
+    "thumb": "thumbs/toshiro-hitsugaya.webp",
+    "preview": "previews/toshiro-hitsugaya.webp",
+    "original": "originals/Toshiro Hitsugaya.png"
+  },
+  {
+    "name": "Totodile",
+    "slug": "totodile",
+    "filename": "Totodile.png",
+    "thumb": "thumbs/totodile.webp",
+    "preview": "previews/totodile.webp",
+    "original": "originals/Totodile.png"
+  },
+  {
+    "name": "Totoro",
+    "slug": "totoro",
+    "filename": "Totoro.png",
+    "thumb": "thumbs/totoro.webp",
+    "preview": "previews/totoro.webp",
+    "original": "originals/Totoro.png"
+  },
+  {
+    "name": "Trafalgar Law",
+    "slug": "trafalgar-law",
+    "filename": "Trafalgar Law.png",
+    "thumb": "thumbs/trafalgar-law.webp",
+    "preview": "previews/trafalgar-law.webp",
+    "original": "originals/Trafalgar Law.png"
+  },
+  {
+    "name": "Treecko",
+    "slug": "treecko",
+    "filename": "Treecko.png",
+    "thumb": "thumbs/treecko.webp",
+    "preview": "previews/treecko.webp",
+    "original": "originals/Treecko.png"
+  },
+  {
+    "name": "Trunks",
+    "slug": "trunks",
+    "filename": "Trunks.png",
+    "thumb": "thumbs/trunks.webp",
+    "preview": "previews/trunks.webp",
+    "original": "originals/Trunks.png"
+  },
+  {
+    "name": "Trunks Super Saiyan",
+    "slug": "trunks-super-saiyan",
+    "filename": "Trunks Super Saiyan.png",
+    "thumb": "thumbs/trunks-super-saiyan.webp",
+    "preview": "previews/trunks-super-saiyan.webp",
+    "original": "originals/Trunks Super Saiyan.png"
+  },
+  {
+    "name": "Tsunade",
+    "slug": "tsunade",
+    "filename": "Tsunade.png",
+    "thumb": "thumbs/tsunade.webp",
+    "preview": "previews/tsunade.webp",
+    "original": "originals/Tsunade.png"
+  },
+  {
+    "name": "Turnip Head",
+    "slug": "turnip-head",
+    "filename": "Turnip Head.png",
+    "thumb": "thumbs/turnip-head.webp",
+    "preview": "previews/turnip-head.webp",
+    "original": "originals/Turnip Head.png"
+  },
+  {
+    "name": "Two Face",
+    "slug": "two-face",
+    "filename": "Two Face.png",
+    "thumb": "thumbs/two-face.webp",
+    "preview": "previews/two-face.webp",
+    "original": "originals/Two Face.png"
+  },
+  {
+    "name": "Tyrion Lannister",
+    "slug": "tyrion-lannister",
+    "filename": "Tyrion Lannister.png",
+    "thumb": "thumbs/tyrion-lannister.webp",
+    "preview": "previews/tyrion-lannister.webp",
+    "original": "originals/Tyrion Lannister.png"
+  },
+  {
+    "name": "Ulquiorra Cifer",
+    "slug": "ulquiorra-cifer",
+    "filename": "Ulquiorra Cifer.png",
+    "thumb": "thumbs/ulquiorra-cifer.webp",
+    "preview": "previews/ulquiorra-cifer.webp",
+    "original": "originals/Ulquiorra Cifer.png"
+  },
+  {
+    "name": "Ultron",
+    "slug": "ultron",
+    "filename": "Ultron.png",
+    "thumb": "thumbs/ultron.webp",
+    "preview": "previews/ultron.webp",
+    "original": "originals/Ultron.png"
+  },
+  {
+    "name": "Usopp",
+    "slug": "usopp",
+    "filename": "Usopp.png",
+    "thumb": "thumbs/usopp.webp",
+    "preview": "previews/usopp.webp",
+    "original": "originals/Usopp.png"
+  },
+  {
+    "name": "Vash the Stampede",
+    "slug": "vash-the-stampede",
+    "filename": "Vash the Stampede.png",
+    "thumb": "thumbs/vash-the-stampede.webp",
+    "preview": "previews/vash-the-stampede.webp",
+    "original": "originals/Vash the Stampede.png"
+  },
+  {
+    "name": "Vegeta",
+    "slug": "vegeta",
+    "filename": "Vegeta.png",
+    "thumb": "thumbs/vegeta.webp",
+    "preview": "previews/vegeta.webp",
+    "original": "originals/Vegeta.png"
+  },
+  {
+    "name": "Vegeta Super Saiyan",
+    "slug": "vegeta-super-saiyan",
+    "filename": "Vegeta Super Saiyan.png",
+    "thumb": "thumbs/vegeta-super-saiyan.webp",
+    "preview": "previews/vegeta-super-saiyan.webp",
+    "original": "originals/Vegeta Super Saiyan.png"
+  },
+  {
+    "name": "Vegito",
+    "slug": "vegito",
+    "filename": "Vegito.png",
+    "thumb": "thumbs/vegito.webp",
+    "preview": "previews/vegito.webp",
+    "original": "originals/Vegito.png"
+  },
+  {
+    "name": "Velma Dinkley",
+    "slug": "velma-dinkley",
+    "filename": "Velma Dinkley.png",
+    "thumb": "thumbs/velma-dinkley.webp",
+    "preview": "previews/velma-dinkley.webp",
+    "original": "originals/Velma Dinkley.png"
+  },
+  {
+    "name": "Violet Evergarden",
+    "slug": "violet-evergarden",
+    "filename": "Violet Evergarden.png",
+    "thumb": "thumbs/violet-evergarden.webp",
+    "preview": "previews/violet-evergarden.webp",
+    "original": "originals/Violet Evergarden.png"
+  },
+  {
+    "name": "Vision",
+    "slug": "vision",
+    "filename": "Vision.png",
+    "thumb": "thumbs/vision.webp",
+    "preview": "previews/vision.webp",
+    "original": "originals/Vision.png"
+  },
+  {
+    "name": "Vito Corleone",
+    "slug": "vito-corleone",
+    "filename": "Vito Corleone.png",
+    "thumb": "thumbs/vito-corleone.webp",
+    "preview": "previews/vito-corleone.webp",
+    "original": "originals/Vito Corleone.png"
+  },
+  {
+    "name": "Voldemort",
+    "slug": "voldemort",
+    "filename": "Voldemort.png",
+    "thumb": "thumbs/voldemort.webp",
+    "preview": "previews/voldemort.webp",
+    "original": "originals/Voldemort.png"
+  },
+  {
+    "name": "Walter White",
+    "slug": "walter-white",
+    "filename": "Walter White.png",
+    "thumb": "thumbs/walter-white.webp",
+    "preview": "previews/walter-white.webp",
+    "original": "originals/Walter White.png"
+  },
+  {
+    "name": "Wasp",
+    "slug": "wasp",
+    "filename": "Wasp.png",
+    "thumb": "thumbs/wasp.webp",
+    "preview": "previews/wasp.webp",
+    "original": "originals/Wasp.png"
+  },
+  {
+    "name": "Whitebeard",
+    "slug": "whitebeard",
+    "filename": "Whitebeard.png",
+    "thumb": "thumbs/whitebeard.webp",
+    "preview": "previews/whitebeard.webp",
+    "original": "originals/Whitebeard.png"
+  },
+  {
+    "name": "Winter Soldier",
+    "slug": "winter-soldier",
+    "filename": "Winter Soldier.png",
+    "thumb": "thumbs/winter-soldier.webp",
+    "preview": "previews/winter-soldier.webp",
+    "original": "originals/Winter Soldier.png"
+  },
+  {
+    "name": "Yamato",
+    "slug": "yamato",
+    "filename": "Yamato.png",
+    "thumb": "thumbs/yamato.webp",
+    "preview": "previews/yamato.webp",
+    "original": "originals/Yamato.png"
+  },
+  {
+    "name": "Yami Sukehiro",
+    "slug": "yami-sukehiro",
+    "filename": "Yami Sukehiro.png",
+    "thumb": "thumbs/yami-sukehiro.webp",
+    "preview": "previews/yami-sukehiro.webp",
+    "original": "originals/Yami Sukehiro.png"
+  },
+  {
+    "name": "Yami Yugi",
+    "slug": "yami-yugi",
+    "filename": "Yami Yugi.png",
+    "thumb": "thumbs/yami-yugi.webp",
+    "preview": "previews/yami-yugi.webp",
+    "original": "originals/Yami Yugi.png"
+  },
+  {
+    "name": "Yato",
+    "slug": "yato",
+    "filename": "Yato.png",
+    "thumb": "thumbs/yato.webp",
+    "preview": "previews/yato.webp",
+    "original": "originals/Yato.png"
+  },
+  {
+    "name": "Yhwach",
+    "slug": "yhwach",
+    "filename": "Yhwach.png",
+    "thumb": "thumbs/yhwach.webp",
+    "preview": "previews/yhwach.webp",
+    "original": "originals/Yhwach.png"
+  },
+  {
+    "name": "Yoda",
+    "slug": "yoda",
+    "filename": "Yoda.png",
+    "thumb": "thumbs/yoda.webp",
+    "preview": "previews/yoda.webp",
+    "original": "originals/Yoda.png"
+  },
+  {
+    "name": "Yoichi Isagi",
+    "slug": "yoichi-isagi",
+    "filename": "Yoichi Isagi.png",
+    "thumb": "thumbs/yoichi-isagi.webp",
+    "preview": "previews/yoichi-isagi.webp",
+    "original": "originals/Yoichi Isagi.png"
+  },
+  {
+    "name": "Yor Forger",
+    "slug": "yor-forger",
+    "filename": "Yor Forger.png",
+    "thumb": "thumbs/yor-forger.webp",
+    "preview": "previews/yor-forger.webp",
+    "original": "originals/Yor Forger.png"
+  },
+  {
+    "name": "Yoriichi Tsugikuni",
+    "slug": "yoriichi-tsugikuni",
+    "filename": "Yoriichi Tsugikuni.png",
+    "thumb": "thumbs/yoriichi-tsugikuni.webp",
+    "preview": "previews/yoriichi-tsugikuni.webp",
+    "original": "originals/Yoriichi Tsugikuni.png"
+  },
+  {
+    "name": "Yoruichi Shihoin",
+    "slug": "yoruichi-shihoin",
+    "filename": "Yoruichi Shihoin.png",
+    "thumb": "thumbs/yoruichi-shihoin.webp",
+    "preview": "previews/yoruichi-shihoin.webp",
+    "original": "originals/Yoruichi Shihoin.png"
+  },
+  {
+    "name": "Yuno",
+    "slug": "yuno",
+    "filename": "Yuno.png",
+    "thumb": "thumbs/yuno.webp",
+    "preview": "previews/yuno.webp",
+    "original": "originals/Yuno.png"
+  },
+  {
+    "name": "Yuta Okkotsu",
+    "slug": "yuta-okkotsu",
+    "filename": "Yuta Okkotsu.png",
+    "thumb": "thumbs/yuta-okkotsu.webp",
+    "preview": "previews/yuta-okkotsu.webp",
+    "original": "originals/Yuta Okkotsu.png"
+  },
+  {
+    "name": "Yuuichi Katagiri",
+    "slug": "yuuichi-katagiri",
+    "filename": "Yuuichi Katagiri.png",
+    "thumb": "thumbs/yuuichi-katagiri.webp",
+    "preview": "previews/yuuichi-katagiri.webp",
+    "original": "originals/Yuuichi Katagiri.png"
+  },
+  {
+    "name": "Zaraki Kenpachi",
+    "slug": "zaraki-kenpachi",
+    "filename": "Zaraki Kenpachi.png",
+    "thumb": "thumbs/zaraki-kenpachi.webp",
+    "preview": "previews/zaraki-kenpachi.webp",
+    "original": "originals/Zaraki Kenpachi.png"
+  },
+  {
+    "name": "Zenitsu Agatsuma",
+    "slug": "zenitsu-agatsuma",
+    "filename": "Zenitsu Agatsuma.jpeg",
+    "thumb": "thumbs/zenitsu-agatsuma.webp",
+    "preview": "previews/zenitsu-agatsuma.webp",
+    "original": "originals/Zenitsu Agatsuma.jpeg"
+  },
+  {
+    "name": "Zenon Zogratis",
+    "slug": "zenon-zogratis",
+    "filename": "Zenon Zogratis.png",
+    "thumb": "thumbs/zenon-zogratis.webp",
+    "preview": "previews/zenon-zogratis.webp",
+    "original": "originals/Zenon Zogratis.png"
+  },
+  {
+    "name": "Zero Two",
+    "slug": "zero-two",
+    "filename": "Zero Two.png",
+    "thumb": "thumbs/zero-two.webp",
+    "preview": "previews/zero-two.webp",
+    "original": "originals/Zero Two.png"
+  },
+  {
+    "name": "2B",
+    "slug": "2b",
+    "filename": "2B.png",
+    "thumb": "thumbs/2b.webp",
+    "preview": "previews/2b.webp",
+    "original": "originals/2B.png"
+  },
+  {
+    "name": "A2",
+    "slug": "a2",
+    "filename": "A2.png",
+    "thumb": "thumbs/a2.webp",
+    "preview": "previews/a2.webp",
+    "original": "originals/A2.png"
+  },
+  {
+    "name": "Agent 47",
+    "slug": "agent-47",
+    "filename": "Agent 47.png",
+    "thumb": "thumbs/agent-47.webp",
+    "preview": "previews/agent-47.webp",
+    "original": "originals/Agent 47.png"
+  },
+  {
+    "name": "Ahsoka Tano",
+    "slug": "ahsoka-tano",
+    "filename": "Ahsoka Tano.png",
+    "thumb": "thumbs/ahsoka-tano.webp",
+    "preview": "previews/ahsoka-tano.webp",
+    "original": "originals/Ahsoka Tano.png"
+  },
+  {
+    "name": "Akainu",
+    "slug": "akainu",
+    "filename": "Akainu.png",
+    "thumb": "thumbs/akainu.webp",
+    "preview": "previews/akainu.webp",
+    "original": "originals/Akainu.png"
+  },
+  {
+    "name": "Akuma",
+    "slug": "akuma",
+    "filename": "Akuma.png",
+    "thumb": "thumbs/akuma.webp",
+    "preview": "previews/akuma.webp",
+    "original": "originals/Akuma.png"
+  },
+  {
+    "name": "Altair",
+    "slug": "altair",
+    "filename": "Altair.png",
+    "thumb": "thumbs/altair.webp",
+    "preview": "previews/altair.webp",
+    "original": "originals/Altair.png"
+  },
+  {
+    "name": "Among Us Crewmate",
+    "slug": "among-us-crewmate",
+    "filename": "Among Us Crewmate.png",
+    "thumb": "thumbs/among-us-crewmate.webp",
+    "preview": "previews/among-us-crewmate.webp",
+    "original": "originals/Among Us Crewmate.png"
+  },
+  {
+    "name": "Anakin Skywalker",
+    "slug": "anakin-skywalker",
+    "filename": "Anakin Skywalker.png",
+    "thumb": "thumbs/anakin-skywalker.webp",
+    "preview": "previews/anakin-skywalker.webp",
+    "original": "originals/Anakin Skywalker.png"
+  },
+  {
+    "name": "Aokiji",
+    "slug": "aokiji",
+    "filename": "Aokiji.png",
+    "thumb": "thumbs/aokiji.webp",
+    "preview": "previews/aokiji.webp",
+    "original": "originals/Aokiji.png"
+  },
+  {
+    "name": "Apocalypse",
+    "slug": "apocalypse",
+    "filename": "Apocalypse.png",
+    "thumb": "thumbs/apocalypse.webp",
+    "preview": "previews/apocalypse.webp",
+    "original": "originals/Apocalypse.png"
+  },
+  {
+    "name": "Aragorn",
+    "slug": "aragorn",
+    "filename": "Aragorn.png",
+    "thumb": "thumbs/aragorn.webp",
+    "preview": "previews/aragorn.webp",
+    "original": "originals/Aragorn.png"
+  },
+  {
+    "name": "Arthur Morgan",
+    "slug": "arthur-morgan",
+    "filename": "Arthur Morgan.png",
+    "thumb": "thumbs/arthur-morgan.webp",
+    "preview": "previews/arthur-morgan.webp",
+    "original": "originals/Arthur Morgan.png"
+  },
+  {
+    "name": "Ash Williams",
+    "slug": "ash-williams",
+    "filename": "Ash Williams.png",
+    "thumb": "thumbs/ash-williams.webp",
+    "preview": "previews/ash-williams.webp",
+    "original": "originals/Ash Williams.png"
+  },
+  {
+    "name": "Atreus",
+    "slug": "atreus",
+    "filename": "Atreus.png",
+    "thumb": "thumbs/atreus.webp",
+    "preview": "previews/atreus.webp",
+    "original": "originals/Atreus.png"
+  },
+  {
+    "name": "Austin Powers",
+    "slug": "austin-powers",
+    "filename": "Austin Powers.png",
+    "thumb": "thumbs/austin-powers.webp",
+    "preview": "previews/austin-powers.webp",
+    "original": "originals/Austin Powers.png"
+  },
+  {
+    "name": "Baki Hanma",
+    "slug": "baki-hanma",
+    "filename": "Baki Hanma.png",
+    "thumb": "thumbs/baki-hanma.webp",
+    "preview": "previews/baki-hanma.webp",
+    "original": "originals/Baki Hanma.png"
+  },
+  {
+    "name": "Bane",
+    "slug": "bane",
+    "filename": "Bane.png",
+    "thumb": "thumbs/bane.webp",
+    "preview": "previews/bane.webp",
+    "original": "originals/Bane.png"
+  },
+  {
+    "name": "Bartholomew Kuma",
+    "slug": "bartholomew-kuma",
+    "filename": "Bartholomew Kuma.png",
+    "thumb": "thumbs/bartholomew-kuma.webp",
+    "preview": "previews/bartholomew-kuma.webp",
+    "original": "originals/Bartholomew Kuma.png"
+  },
+  {
+    "name": "Bayonetta",
+    "slug": "bayonetta",
+    "filename": "Bayonetta.png",
+    "thumb": "thumbs/bayonetta.webp",
+    "preview": "previews/bayonetta.webp",
+    "original": "originals/Bayonetta.png"
+  },
+  {
+    "name": "Beetlejuice",
+    "slug": "beetlejuice",
+    "filename": "Beetlejuice.png",
+    "thumb": "thumbs/beetlejuice.webp",
+    "preview": "previews/beetlejuice.webp",
+    "original": "originals/Beetlejuice.png"
+  },
+  {
+    "name": "Big Daddy",
+    "slug": "big-daddy",
+    "filename": "Big Daddy.png",
+    "thumb": "thumbs/big-daddy.webp",
+    "preview": "previews/big-daddy.webp",
+    "original": "originals/Big Daddy.png"
+  },
+  {
+    "name": "Big Mom",
+    "slug": "big-mom",
+    "filename": "Big Mom.png",
+    "thumb": "thumbs/big-mom.webp",
+    "preview": "previews/big-mom.webp",
+    "original": "originals/Big Mom.png"
+  },
+  {
+    "name": "Bilbo Baggins",
+    "slug": "bilbo-baggins",
+    "filename": "Bilbo Baggins.png",
+    "thumb": "thumbs/bilbo-baggins.webp",
+    "preview": "previews/bilbo-baggins.webp",
+    "original": "originals/Bilbo Baggins.png"
+  },
+  {
+    "name": "Billy the Puppet",
+    "slug": "billy-the-puppet",
+    "filename": "Billy the Puppet.png",
+    "thumb": "thumbs/billy-the-puppet.webp",
+    "preview": "previews/billy-the-puppet.webp",
+    "original": "originals/Billy the Puppet.png"
+  },
+  {
+    "name": "Blackbeard",
+    "slug": "blackbeard",
+    "filename": "Blackbeard.png",
+    "thumb": "thumbs/blackbeard.webp",
+    "preview": "previews/blackbeard.webp",
+    "original": "originals/Blackbeard.png"
+  },
+  {
+    "name": "Blade",
+    "slug": "blade",
+    "filename": "Blade.png",
+    "thumb": "thumbs/blade.webp",
+    "preview": "previews/blade.webp",
+    "original": "originals/Blade.png"
+  },
+  {
+    "name": "Boba Fett",
+    "slug": "boba-fett",
+    "filename": "Boba Fett.png",
+    "thumb": "thumbs/boba-fett.webp",
+    "preview": "previews/boba-fett.webp",
+    "original": "originals/Boba Fett.png"
+  },
+  {
+    "name": "Borat",
+    "slug": "borat",
+    "filename": "Borat.png",
+    "thumb": "thumbs/borat.webp",
+    "preview": "previews/borat.webp",
+    "original": "originals/Borat.png"
+  },
+  {
+    "name": "Brainiac",
+    "slug": "brainiac",
+    "filename": "Brainiac.png",
+    "thumb": "thumbs/brainiac.webp",
+    "preview": "previews/brainiac.webp",
+    "original": "originals/Brainiac.png"
+  },
+  {
+    "name": "Bruno Bucciarati",
+    "slug": "bruno-bucciarati",
+    "filename": "Bruno Bucciarati.png",
+    "thumb": "thumbs/bruno-bucciarati.webp",
+    "preview": "previews/bruno-bucciarati.webp",
+    "original": "originals/Bruno Bucciarati.png"
+  },
+  {
+    "name": "Bugs Bunny",
+    "slug": "bugs-bunny",
+    "filename": "Bugs Bunny.png",
+    "thumb": "thumbs/bugs-bunny.webp",
+    "preview": "previews/bugs-bunny.webp",
+    "original": "originals/Bugs Bunny.png"
+  },
+  {
+    "name": "Cable",
+    "slug": "cable",
+    "filename": "Cable.png",
+    "thumb": "thumbs/cable.webp",
+    "preview": "previews/cable.webp",
+    "original": "originals/Cable.png"
+  },
+  {
+    "name": "Captain Salazar",
+    "slug": "captain-salazar",
+    "filename": "Captain Salazar.png",
+    "thumb": "thumbs/captain-salazar.webp",
+    "preview": "previews/captain-salazar.webp",
+    "original": "originals/Captain Salazar.png"
+  },
+  {
+    "name": "Cassidy",
+    "slug": "cassidy",
+    "filename": "Cassidy.png",
+    "thumb": "thumbs/cassidy.webp",
+    "preview": "previews/cassidy.webp",
+    "original": "originals/Cassidy.png"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "slug": "charlie-chaplin",
+    "filename": "Charlie Chaplin.png",
+    "thumb": "thumbs/charlie-chaplin.webp",
+    "preview": "previews/charlie-chaplin.webp",
+    "original": "originals/Charlie Chaplin.png"
+  },
+  {
+    "name": "Chell",
+    "slug": "chell",
+    "filename": "Chell.png",
+    "thumb": "thumbs/chell.webp",
+    "preview": "previews/chell.webp",
+    "original": "originals/Chell.png"
+  },
+  {
+    "name": "Chun-Li",
+    "slug": "chun-li",
+    "filename": "Chun-Li.png",
+    "thumb": "thumbs/chun-li.webp",
+    "preview": "previews/chun-li.webp",
+    "original": "originals/Chun-Li.png"
+  },
+  {
+    "name": "Clank",
+    "slug": "clank",
+    "filename": "Clank.png",
+    "thumb": "thumbs/clank.webp",
+    "preview": "previews/clank.webp",
+    "original": "originals/Clank.png"
+  },
+  {
+    "name": "Cloud Strife",
+    "slug": "cloud-strife",
+    "filename": "Cloud Strife.png",
+    "thumb": "thumbs/cloud-strife.webp",
+    "preview": "previews/cloud-strife.webp",
+    "original": "originals/Cloud Strife.png"
+  },
+  {
+    "name": "Count Dooku",
+    "slug": "count-dooku",
+    "filename": "Count Dooku.png",
+    "thumb": "thumbs/count-dooku.webp",
+    "preview": "previews/count-dooku.webp",
+    "original": "originals/Count Dooku.png"
+  },
+  {
+    "name": "Courage the Cowardly Dog",
+    "slug": "courage-the-cowardly-dog",
+    "filename": "Courage the Cowardly Dog.png",
+    "thumb": "thumbs/courage-the-cowardly-dog.webp",
+    "preview": "previews/courage-the-cowardly-dog.webp",
+    "original": "originals/Courage the Cowardly Dog.png"
+  },
+  {
+    "name": "Crash Bandicoot",
+    "slug": "crash-bandicoot",
+    "filename": "Crash Bandicoot.png",
+    "thumb": "thumbs/crash-bandicoot.webp",
+    "preview": "previews/crash-bandicoot.webp",
+    "original": "originals/Crash Bandicoot.png"
+  },
+  {
+    "name": "Cuphead",
+    "slug": "cuphead",
+    "filename": "Cuphead.png",
+    "thumb": "thumbs/cuphead.webp",
+    "preview": "previews/cuphead.webp",
+    "original": "originals/Cuphead.png"
+  },
+  {
+    "name": "Dante",
+    "slug": "dante",
+    "filename": "Dante.png",
+    "thumb": "thumbs/dante.webp",
+    "preview": "previews/dante.webp",
+    "original": "originals/Dante.png"
+  },
+  {
+    "name": "Dark Magician",
+    "slug": "dark-magician",
+    "filename": "Dark Magician.png",
+    "thumb": "thumbs/dark-magician.webp",
+    "preview": "previews/dark-magician.webp",
+    "original": "originals/Dark Magician.png"
+  },
+  {
+    "name": "Daxter",
+    "slug": "daxter",
+    "filename": "Daxter.png",
+    "thumb": "thumbs/daxter.webp",
+    "preview": "previews/daxter.webp",
+    "original": "originals/Daxter.png"
+  },
+  {
+    "name": "Dee Dee",
+    "slug": "dee-dee",
+    "filename": "Dee Dee.png",
+    "thumb": "thumbs/dee-dee.webp",
+    "preview": "previews/dee-dee.webp",
+    "original": "originals/Dee Dee.png"
+  },
+  {
+    "name": "Dexter",
+    "slug": "dexter",
+    "filename": "Dexter.png",
+    "thumb": "thumbs/dexter.webp",
+    "preview": "previews/dexter.webp",
+    "original": "originals/Dexter.png"
+  },
+  {
+    "name": "Diavolo",
+    "slug": "diavolo",
+    "filename": "Diavolo.png",
+    "thumb": "thumbs/diavolo.webp",
+    "preview": "previews/diavolo.webp",
+    "original": "originals/Diavolo.png"
+  },
+  {
+    "name": "Dobby",
+    "slug": "dobby",
+    "filename": "Dobby.png",
+    "thumb": "thumbs/dobby.webp",
+    "preview": "previews/dobby.webp",
+    "original": "originals/Dobby.png"
+  },
+  {
+    "name": "Doctor Octopus",
+    "slug": "doctor-octopus",
+    "filename": "Doctor Octopus.png",
+    "thumb": "thumbs/doctor-octopus.webp",
+    "preview": "previews/doctor-octopus.webp",
+    "original": "originals/Doctor Octopus.png"
+  },
+  {
+    "name": "Donatello",
+    "slug": "donatello",
+    "filename": "Donatello.png",
+    "thumb": "thumbs/donatello.webp",
+    "preview": "previews/donatello.webp",
+    "original": "originals/Donatello.png"
+  },
+  {
+    "name": "Doom Slayer",
+    "slug": "doom-slayer",
+    "filename": "Doom Slayer.png",
+    "thumb": "thumbs/doom-slayer.webp",
+    "preview": "previews/doom-slayer.webp",
+    "original": "originals/Doom Slayer.png"
+  },
+  {
+    "name": "Dr Eggman",
+    "slug": "dr-eggman",
+    "filename": "Dr Eggman.png",
+    "thumb": "thumbs/dr-eggman.webp",
+    "preview": "previews/dr-eggman.webp",
+    "original": "originals/Dr Eggman.png"
+  },
+  {
+    "name": "Dragonborn",
+    "slug": "dragonborn",
+    "filename": "Dragonborn.png",
+    "thumb": "thumbs/dragonborn.webp",
+    "preview": "previews/dragonborn.webp",
+    "original": "originals/Dragonborn.png"
+  },
+  {
+    "name": "Duke Nukem",
+    "slug": "duke-nukem",
+    "filename": "Duke Nukem.png",
+    "thumb": "thumbs/duke-nukem.webp",
+    "preview": "previews/duke-nukem.webp",
+    "original": "originals/Duke Nukem.png"
+  },
+  {
+    "name": "Edward Scissorhands",
+    "slug": "edward-scissorhands",
+    "filename": "Edward Scissorhands.png",
+    "thumb": "thumbs/edward-scissorhands.webp",
+    "preview": "previews/edward-scissorhands.webp",
+    "original": "originals/Edward Scissorhands.png"
+  },
+  {
+    "name": "Ellie Williams",
+    "slug": "ellie-williams",
+    "filename": "Ellie Williams.png",
+    "thumb": "thumbs/ellie-williams.webp",
+    "preview": "previews/ellie-williams.webp",
+    "original": "originals/Ellie Williams.png"
+  },
+  {
+    "name": "Elmer Fudd",
+    "slug": "elmer-fudd",
+    "filename": "Elmer Fudd.png",
+    "thumb": "thumbs/elmer-fudd.webp",
+    "preview": "previews/elmer-fudd.webp",
+    "original": "originals/Elmer Fudd.png"
+  },
+  {
+    "name": "Emperor Palpatine",
+    "slug": "emperor-palpatine",
+    "filename": "Emperor Palpatine.png",
+    "thumb": "thumbs/emperor-palpatine.webp",
+    "preview": "previews/emperor-palpatine.webp",
+    "original": "originals/Emperor Palpatine.png"
+  },
+  {
+    "name": "Enel",
+    "slug": "enel",
+    "filename": "Enel.png",
+    "thumb": "thumbs/enel.webp",
+    "preview": "previews/enel.webp",
+    "original": "originals/Enel.png"
+  },
+  {
+    "name": "Ezio Auditore",
+    "slug": "ezio-auditore",
+    "filename": "Ezio Auditore.png",
+    "thumb": "thumbs/ezio-auditore.webp",
+    "preview": "previews/ezio-auditore.webp",
+    "original": "originals/Ezio Auditore.png"
+  },
+  {
+    "name": "Foghorn Leghorn",
+    "slug": "foghorn-leghorn",
+    "filename": "Foghorn Leghorn.png",
+    "thumb": "thumbs/foghorn-leghorn.webp",
+    "preview": "previews/foghorn-leghorn.webp",
+    "original": "originals/Foghorn Leghorn.png"
+  },
+  {
+    "name": "Fred Flintstone",
+    "slug": "fred-flintstone",
+    "filename": "Fred Flintstone.png",
+    "thumb": "thumbs/fred-flintstone.webp",
+    "preview": "previews/fred-flintstone.webp",
+    "original": "originals/Fred Flintstone.png"
+  },
+  {
+    "name": "Freddy Fazbear",
+    "slug": "freddy-fazbear",
+    "filename": "Freddy Fazbear.png",
+    "thumb": "thumbs/freddy-fazbear.webp",
+    "preview": "previews/freddy-fazbear.webp",
+    "original": "originals/Freddy Fazbear.png"
+  },
+  {
+    "name": "Gambit",
+    "slug": "gambit",
+    "filename": "Gambit.png",
+    "thumb": "thumbs/gambit.webp",
+    "preview": "previews/gambit.webp",
+    "original": "originals/Gambit.png"
+  },
+  {
+    "name": "Ganondorf",
+    "slug": "ganondorf",
+    "filename": "Ganondorf.png",
+    "thumb": "thumbs/ganondorf.webp",
+    "preview": "previews/ganondorf.webp",
+    "original": "originals/Ganondorf.png"
+  },
+  {
+    "name": "Genryusai Yamamoto",
+    "slug": "genryusai-yamamoto",
+    "filename": "Genryusai Yamamoto.png",
+    "thumb": "thumbs/genryusai-yamamoto.webp",
+    "preview": "previews/genryusai-yamamoto.webp",
+    "original": "originals/Genryusai Yamamoto.png"
+  },
+  {
+    "name": "Giyu Tomioka",
+    "slug": "giyu-tomioka",
+    "filename": "Giyu Tomioka.png",
+    "thumb": "thumbs/giyu-tomioka.webp",
+    "preview": "previews/giyu-tomioka.webp",
+    "original": "originals/Giyu Tomioka.png"
+  },
+  {
+    "name": "GLaDOS",
+    "slug": "glados",
+    "filename": "GLaDOS.png",
+    "thumb": "thumbs/glados.webp",
+    "preview": "previews/glados.webp",
+    "original": "originals/GLaDOS.png"
+  },
+  {
+    "name": "Gomez Addams",
+    "slug": "gomez-addams",
+    "filename": "Gomez Addams.png",
+    "thumb": "thumbs/gomez-addams.webp",
+    "preview": "previews/gomez-addams.webp",
+    "original": "originals/Gomez Addams.png"
+  },
+  {
+    "name": "Gordon Freeman",
+    "slug": "gordon-freeman",
+    "filename": "Gordon Freeman.png",
+    "thumb": "thumbs/gordon-freeman.webp",
+    "preview": "previews/gordon-freeman.webp",
+    "original": "originals/Gordon Freeman.png"
+  },
+  {
+    "name": "Green Goblin",
+    "slug": "green-goblin",
+    "filename": "Green Goblin.png",
+    "thumb": "thumbs/green-goblin.webp",
+    "preview": "previews/green-goblin.webp",
+    "original": "originals/Green Goblin.png"
+  },
+  {
+    "name": "Gyomei Himejima",
+    "slug": "gyomei-himejima",
+    "filename": "Gyomei Himejima.png",
+    "thumb": "thumbs/gyomei-himejima.webp",
+    "preview": "previews/gyomei-himejima.webp",
+    "original": "originals/Gyomei Himejima.png"
+  },
+  {
+    "name": "Han Solo",
+    "slug": "han-solo",
+    "filename": "Han Solo.png",
+    "thumb": "thumbs/han-solo.webp",
+    "preview": "previews/han-solo.webp",
+    "original": "originals/Han Solo.png"
+  },
+  {
+    "name": "He-Man",
+    "slug": "he-man",
+    "filename": "He-Man.png",
+    "thumb": "thumbs/he-man.webp",
+    "preview": "previews/he-man.webp",
+    "original": "originals/He-Man.png"
+  },
+  {
+    "name": "Hellboy",
+    "slug": "hellboy",
+    "filename": "Hellboy.png",
+    "thumb": "thumbs/hellboy.webp",
+    "preview": "previews/hellboy.webp",
+    "original": "originals/Hellboy.png"
+  },
+  {
+    "name": "Hiei",
+    "slug": "hiei",
+    "filename": "Hiei.png",
+    "thumb": "thumbs/hiei.webp",
+    "preview": "previews/hiei.webp",
+    "original": "originals/Hiei.png"
+  },
+  {
+    "name": "Hollow Knight",
+    "slug": "hollow-knight",
+    "filename": "Hollow Knight.png",
+    "thumb": "thumbs/hollow-knight.webp",
+    "preview": "previews/hollow-knight.webp",
+    "original": "originals/Hollow Knight.png"
+  },
+  {
+    "name": "HUNK",
+    "slug": "hunk",
+    "filename": "HUNK.png",
+    "thumb": "thumbs/hunk.webp",
+    "preview": "previews/hunk.webp",
+    "original": "originals/HUNK.png"
+  },
+  {
+    "name": "Indiana Jones",
+    "slug": "indiana-jones",
+    "filename": "Indiana Jones.png",
+    "thumb": "thumbs/indiana-jones.webp",
+    "preview": "previews/indiana-jones.webp",
+    "original": "originals/Indiana Jones.png"
+  },
+  {
+    "name": "Inspector Gadget",
+    "slug": "inspector-gadget",
+    "filename": "Inspector Gadget.png",
+    "thumb": "thumbs/inspector-gadget.webp",
+    "preview": "previews/inspector-gadget.webp",
+    "original": "originals/Inspector Gadget.png"
+  },
+  {
+    "name": "Isaac Clarke",
+    "slug": "isaac-clarke",
+    "filename": "Isaac Clarke.png",
+    "thumb": "thumbs/isaac-clarke.webp",
+    "preview": "previews/isaac-clarke.webp",
+    "original": "originals/Isaac Clarke.png"
+  },
+  {
+    "name": "Jak",
+    "slug": "jak",
+    "filename": "Jak.png",
+    "thumb": "thumbs/jak.webp",
+    "preview": "previews/jak.webp",
+    "original": "originals/Jak.png"
+  },
+  {
+    "name": "Jean Pierre Polnareff",
+    "slug": "jean-pierre-polnareff",
+    "filename": "Jean Pierre Polnareff.png",
+    "thumb": "thumbs/jean-pierre-polnareff.webp",
+    "preview": "previews/jean-pierre-polnareff.webp",
+    "original": "originals/Jean Pierre Polnareff.png"
+  },
+  {
+    "name": "Jerry",
+    "slug": "jerry",
+    "filename": "Jerry.png",
+    "thumb": "thumbs/jerry.webp",
+    "preview": "previews/jerry.webp",
+    "original": "originals/Jerry.png"
+  },
+  {
+    "name": "Jigsaw John Kramer",
+    "slug": "jigsaw-john-kramer",
+    "filename": "Jigsaw John Kramer.png",
+    "thumb": "thumbs/jigsaw-john-kramer.webp",
+    "preview": "previews/jigsaw-john-kramer.webp",
+    "original": "originals/Jigsaw John Kramer.png"
+  },
+  {
+    "name": "Jill Valentine",
+    "slug": "jill-valentine",
+    "filename": "Jill Valentine.png",
+    "thumb": "thumbs/jill-valentine.webp",
+    "preview": "previews/jill-valentine.webp",
+    "original": "originals/Jill Valentine.png"
+  },
+  {
+    "name": "Jin Sakai",
+    "slug": "jin-sakai",
+    "filename": "Jin Sakai.png",
+    "thumb": "thumbs/jin-sakai.webp",
+    "preview": "previews/jin-sakai.webp",
+    "original": "originals/Jin Sakai.png"
+  },
+  {
+    "name": "Joel Miller",
+    "slug": "joel-miller",
+    "filename": "Joel Miller.png",
+    "thumb": "thumbs/joel-miller.webp",
+    "preview": "previews/joel-miller.webp",
+    "original": "originals/Joel Miller.png"
+  },
+  {
+    "name": "Jogo",
+    "slug": "jogo",
+    "filename": "Jogo.png",
+    "thumb": "thumbs/jogo.webp",
+    "preview": "previews/jogo.webp",
+    "original": "originals/Jogo.png"
+  },
+  {
+    "name": "John Wick",
+    "slug": "john-wick",
+    "filename": "John Wick.png",
+    "thumb": "thumbs/john-wick.webp",
+    "preview": "previews/john-wick.webp",
+    "original": "originals/John Wick.png"
+  },
+  {
+    "name": "Johnny Bravo",
+    "slug": "johnny-bravo",
+    "filename": "Johnny Bravo.png",
+    "thumb": "thumbs/johnny-bravo.webp",
+    "preview": "previews/johnny-bravo.webp",
+    "original": "originals/Johnny Bravo.png"
+  },
+  {
+    "name": "Johnny Silverhand",
+    "slug": "johnny-silverhand",
+    "filename": "Johnny Silverhand.png",
+    "thumb": "thumbs/johnny-silverhand.webp",
+    "preview": "previews/johnny-silverhand.webp",
+    "original": "originals/Johnny Silverhand.png"
+  },
+  {
+    "name": "Jolyne Cujoh",
+    "slug": "jolyne-cujoh",
+    "filename": "Jolyne Cujoh.png",
+    "thumb": "thumbs/jolyne-cujoh.webp",
+    "preview": "previews/jolyne-cujoh.webp",
+    "original": "originals/Jolyne Cujoh.png"
+  },
+  {
+    "name": "Jonathan Joestar",
+    "slug": "jonathan-joestar",
+    "filename": "Jonathan Joestar.png",
+    "thumb": "thumbs/jonathan-joestar.webp",
+    "preview": "previews/jonathan-joestar.webp",
+    "original": "originals/Jonathan Joestar.png"
+  },
+  {
+    "name": "Joseph Joestar",
+    "slug": "joseph-joestar",
+    "filename": "Joseph Joestar.png",
+    "thumb": "thumbs/joseph-joestar.webp",
+    "preview": "previews/joseph-joestar.webp",
+    "original": "originals/Joseph Joestar.png"
+  },
+  {
+    "name": "Josuke Higashikata",
+    "slug": "josuke-higashikata",
+    "filename": "Josuke Higashikata.png",
+    "thumb": "thumbs/josuke-higashikata.webp",
+    "preview": "previews/josuke-higashikata.webp",
+    "original": "originals/Josuke Higashikata.png"
+  },
+  {
+    "name": "Juggernaut",
+    "slug": "juggernaut",
+    "filename": "Juggernaut.png",
+    "thumb": "thumbs/juggernaut.webp",
+    "preview": "previews/juggernaut.webp",
+    "original": "originals/Juggernaut.png"
+  },
+  {
+    "name": "Kaido",
+    "slug": "kaido",
+    "filename": "Kaido.png",
+    "thumb": "thumbs/kaido.webp",
+    "preview": "previews/kaido.webp",
+    "original": "originals/Kaido.png"
+  },
+  {
+    "name": "Kanao Tsuyuri",
+    "slug": "kanao-tsuyuri",
+    "filename": "Kanao Tsuyuri.png",
+    "thumb": "thumbs/kanao-tsuyuri.webp",
+    "preview": "previews/kanao-tsuyuri.webp",
+    "original": "originals/Kanao Tsuyuri.png"
+  },
+  {
+    "name": "King",
+    "slug": "king",
+    "filename": "King.png",
+    "thumb": "thumbs/king.webp",
+    "preview": "previews/king.webp",
+    "original": "originals/King.png"
+  },
+  {
+    "name": "Kingpin",
+    "slug": "kingpin",
+    "filename": "Kingpin.png",
+    "thumb": "thumbs/kingpin.webp",
+    "preview": "previews/kingpin.webp",
+    "original": "originals/Kingpin.png"
+  },
+  {
+    "name": "Kirby",
+    "slug": "kirby",
+    "filename": "Kirby.png",
+    "thumb": "thumbs/kirby.webp",
+    "preview": "previews/kirby.webp",
+    "original": "originals/Kirby.png"
+  },
+  {
+    "name": "Kitana",
+    "slug": "kitana",
+    "filename": "Kitana.png",
+    "thumb": "thumbs/kitana.webp",
+    "preview": "previews/kitana.webp",
+    "original": "originals/Kitana.png"
+  },
+  {
+    "name": "Kizaru",
+    "slug": "kizaru",
+    "filename": "Kizaru.png",
+    "thumb": "thumbs/kizaru.webp",
+    "preview": "previews/kizaru.webp",
+    "original": "originals/Kizaru.png"
+  },
+  {
+    "name": "Knuckles",
+    "slug": "knuckles",
+    "filename": "Knuckles.png",
+    "thumb": "thumbs/knuckles.webp",
+    "preview": "previews/knuckles.webp",
+    "original": "originals/Knuckles.png"
+  },
+  {
+    "name": "Kokushibo",
+    "slug": "kokushibo",
+    "filename": "Kokushibo.png",
+    "thumb": "thumbs/kokushibo.webp",
+    "preview": "previews/kokushibo.webp",
+    "original": "originals/Kokushibo.png"
+  },
+  {
+    "name": "Kratos",
+    "slug": "kratos",
+    "filename": "Kratos.png",
+    "thumb": "thumbs/kratos.webp",
+    "preview": "previews/kratos.webp",
+    "original": "originals/Kratos.png"
+  },
+  {
+    "name": "Kurapika",
+    "slug": "kurapika",
+    "filename": "Kurapika.png",
+    "thumb": "thumbs/kurapika.webp",
+    "preview": "previews/kurapika.webp",
+    "original": "originals/Kurapika.png"
+  },
+  {
+    "name": "Lara Croft",
+    "slug": "lara-croft",
+    "filename": "Lara Croft.png",
+    "thumb": "thumbs/lara-croft.webp",
+    "preview": "previews/lara-croft.webp",
+    "original": "originals/Lara Croft.png"
+  },
+  {
+    "name": "Leon S Kennedy",
+    "slug": "leon-s-kennedy",
+    "filename": "Leon S Kennedy.png",
+    "thumb": "thumbs/leon-s-kennedy.webp",
+    "preview": "previews/leon-s-kennedy.webp",
+    "original": "originals/Leon S Kennedy.png"
+  },
+  {
+    "name": "Leonardo",
+    "slug": "leonardo",
+    "filename": "Leonardo.png",
+    "thumb": "thumbs/leonardo.webp",
+    "preview": "previews/leonardo.webp",
+    "original": "originals/Leonardo.png"
+  },
+  {
+    "name": "Leorio",
+    "slug": "leorio",
+    "filename": "Leorio.png",
+    "thumb": "thumbs/leorio.webp",
+    "preview": "previews/leorio.webp",
+    "original": "originals/Leorio.png"
+  },
+  {
+    "name": "Link",
+    "slug": "link",
+    "filename": "Link.png",
+    "thumb": "thumbs/link.webp",
+    "preview": "previews/link.webp",
+    "original": "originals/Link.png"
+  },
+  {
+    "name": "Lobo",
+    "slug": "lobo",
+    "filename": "Lobo.png",
+    "thumb": "thumbs/lobo.webp",
+    "preview": "previews/lobo.webp",
+    "original": "originals/Lobo.png"
+  },
+  {
+    "name": "Luke Skywalker",
+    "slug": "luke-skywalker",
+    "filename": "Luke Skywalker.png",
+    "thumb": "thumbs/luke-skywalker.webp",
+    "preview": "previews/luke-skywalker.webp",
+    "original": "originals/Luke Skywalker.png"
+  },
+  {
+    "name": "Mad Max",
+    "slug": "mad-max",
+    "filename": "Mad Max.png",
+    "thumb": "thumbs/mad-max.webp",
+    "preview": "previews/mad-max.webp",
+    "original": "originals/Mad Max.png"
+  },
+  {
+    "name": "Mad-Eye Moody",
+    "slug": "mad-eye-moody",
+    "filename": "Mad-Eye Moody.png",
+    "thumb": "thumbs/mad-eye-moody.webp",
+    "preview": "previews/mad-eye-moody.webp",
+    "original": "originals/Mad-Eye Moody.png"
+  },
+  {
+    "name": "Magneto",
+    "slug": "magneto",
+    "filename": "Magneto.png",
+    "thumb": "thumbs/magneto.webp",
+    "preview": "previews/magneto.webp",
+    "original": "originals/Magneto.png"
+  },
+  {
+    "name": "Mari Makinami",
+    "slug": "mari-makinami",
+    "filename": "Mari Makinami.png",
+    "thumb": "thumbs/mari-makinami.webp",
+    "preview": "previews/mari-makinami.webp",
+    "original": "originals/Mari Makinami.png"
+  },
+  {
+    "name": "Master Chief",
+    "slug": "master-chief",
+    "filename": "Master Chief.png",
+    "thumb": "thumbs/master-chief.webp",
+    "preview": "previews/master-chief.webp",
+    "original": "originals/Master Chief.png"
+  },
+  {
+    "name": "Mega Man",
+    "slug": "mega-man",
+    "filename": "Mega Man.png",
+    "thumb": "thumbs/mega-man.webp",
+    "preview": "previews/mega-man.webp",
+    "original": "originals/Mega Man.png"
+  },
+  {
+    "name": "Megatron",
+    "slug": "megatron",
+    "filename": "Megatron.png",
+    "thumb": "thumbs/megatron.webp",
+    "preview": "previews/megatron.webp",
+    "original": "originals/Megatron.png"
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "slug": "megumi-fushiguro",
+    "filename": "Megumi Fushiguro.png",
+    "thumb": "thumbs/megumi-fushiguro.webp",
+    "preview": "previews/megumi-fushiguro.webp",
+    "original": "originals/Megumi Fushiguro.png"
+  },
+  {
+    "name": "Mercy",
+    "slug": "mercy",
+    "filename": "Mercy.png",
+    "thumb": "thumbs/mercy.webp",
+    "preview": "previews/mercy.webp",
+    "original": "originals/Mercy.png"
+  },
+  {
+    "name": "Michelangelo",
+    "slug": "michelangelo",
+    "filename": "Michelangelo.png",
+    "thumb": "thumbs/michelangelo.webp",
+    "preview": "previews/michelangelo.webp",
+    "original": "originals/Michelangelo.png"
+  },
+  {
+    "name": "Mileena",
+    "slug": "mileena",
+    "filename": "Mileena.png",
+    "thumb": "thumbs/mileena.webp",
+    "preview": "previews/mileena.webp",
+    "original": "originals/Mileena.png"
+  },
+  {
+    "name": "Mojo Jojo",
+    "slug": "mojo-jojo",
+    "filename": "Mojo Jojo.png",
+    "thumb": "thumbs/mojo-jojo.webp",
+    "preview": "previews/mojo-jojo.webp",
+    "original": "originals/Mojo Jojo.png"
+  },
+  {
+    "name": "Monkey D. Garp",
+    "slug": "monkey-d-garp",
+    "filename": "Monkey D. Garp.png",
+    "thumb": "thumbs/monkey-d-garp.webp",
+    "preview": "previews/monkey-d-garp.webp",
+    "original": "originals/Monkey D. Garp.png"
+  },
+  {
+    "name": "Morpheus",
+    "slug": "morpheus",
+    "filename": "Morpheus.png",
+    "thumb": "thumbs/morpheus.webp",
+    "preview": "previews/morpheus.webp",
+    "original": "originals/Morpheus.png"
+  },
+  {
+    "name": "Mr. Bean",
+    "slug": "mr-bean",
+    "filename": "Mr. Bean.png",
+    "thumb": "thumbs/mr-bean.webp",
+    "preview": "previews/mr-bean.webp",
+    "original": "originals/Mr. Bean.png"
+  },
+  {
+    "name": "Muichiro Tokito",
+    "slug": "muichiro-tokito",
+    "filename": "Muichiro Tokito.png",
+    "thumb": "thumbs/muichiro-tokito.webp",
+    "preview": "previews/muichiro-tokito.webp",
+    "original": "originals/Muichiro Tokito.png"
+  },
+  {
+    "name": "Mysterio",
+    "slug": "mysterio",
+    "filename": "Mysterio.png",
+    "thumb": "thumbs/mysterio.webp",
+    "preview": "previews/mysterio.webp",
+    "original": "originals/Mysterio.png"
+  },
+  {
+    "name": "Nathan Drake",
+    "slug": "nathan-drake",
+    "filename": "Nathan Drake.png",
+    "thumb": "thumbs/nathan-drake.webp",
+    "preview": "previews/nathan-drake.webp",
+    "original": "originals/Nathan Drake.png"
+  },
+  {
+    "name": "Negan",
+    "slug": "negan",
+    "filename": "Negan.png",
+    "thumb": "thumbs/negan.webp",
+    "preview": "previews/negan.webp",
+    "original": "originals/Negan.png"
+  },
+  {
+    "name": "Nemesis",
+    "slug": "nemesis",
+    "filename": "Nemesis.png",
+    "thumb": "thumbs/nemesis.webp",
+    "preview": "previews/nemesis.webp",
+    "original": "originals/Nemesis.png"
+  },
+  {
+    "name": "Neo",
+    "slug": "neo",
+    "filename": "Neo.png",
+    "thumb": "thumbs/neo.webp",
+    "preview": "previews/neo.webp",
+    "original": "originals/Neo.png"
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "slug": "nobara-kugisaki",
+    "filename": "Nobara Kugisaki.png",
+    "thumb": "thumbs/nobara-kugisaki.webp",
+    "preview": "previews/nobara-kugisaki.webp",
+    "original": "originals/Nobara Kugisaki.png"
+  },
+  {
+    "name": "Noob Saibot",
+    "slug": "noob-saibot",
+    "filename": "Noob Saibot.png",
+    "thumb": "thumbs/noob-saibot.webp",
+    "preview": "previews/noob-saibot.webp",
+    "original": "originals/Noob Saibot.png"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "slug": "obi-wan-kenobi",
+    "filename": "Obi-Wan Kenobi.png",
+    "thumb": "thumbs/obi-wan-kenobi.webp",
+    "preview": "previews/obi-wan-kenobi.webp",
+    "original": "originals/Obi-Wan Kenobi.png"
+  },
+  {
+    "name": "Oogie Boogie",
+    "slug": "oogie-boogie",
+    "filename": "Oogie Boogie.png",
+    "thumb": "thumbs/oogie-boogie.webp",
+    "preview": "previews/oogie-boogie.webp",
+    "original": "originals/Oogie Boogie.png"
+  },
+  {
+    "name": "Optimus Prime",
+    "slug": "optimus-prime",
+    "filename": "Optimus Prime.png",
+    "thumb": "thumbs/optimus-prime.webp",
+    "preview": "previews/optimus-prime.webp",
+    "original": "originals/Optimus Prime.png"
+  },
+  {
+    "name": "Pac-Man",
+    "slug": "pac-man",
+    "filename": "Pac-Man.png",
+    "thumb": "thumbs/pac-man.webp",
+    "preview": "previews/pac-man.webp",
+    "original": "originals/Pac-Man.png"
+  },
+  {
+    "name": "Pegasus",
+    "slug": "pegasus",
+    "filename": "Pegasus.png",
+    "thumb": "thumbs/pegasus.webp",
+    "preview": "previews/pegasus.webp",
+    "original": "originals/Pegasus.png"
+  },
+  {
+    "name": "Pinhead",
+    "slug": "pinhead",
+    "filename": "Pinhead.png",
+    "thumb": "thumbs/pinhead.webp",
+    "preview": "previews/pinhead.webp",
+    "original": "originals/Pinhead.png"
+  },
+  {
+    "name": "Pink Panther",
+    "slug": "pink-panther",
+    "filename": "Pink Panther.png",
+    "thumb": "thumbs/pink-panther.webp",
+    "preview": "previews/pink-panther.webp",
+    "original": "originals/Pink Panther.png"
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "filename": "Po.png",
+    "thumb": "thumbs/po.webp",
+    "preview": "previews/po.webp",
+    "original": "originals/Po.png"
+  },
+  {
+    "name": "Popeye",
+    "slug": "popeye",
+    "filename": "Popeye.png",
+    "thumb": "thumbs/popeye.webp",
+    "preview": "previews/popeye.webp",
+    "original": "originals/Popeye.png"
+  },
+  {
+    "name": "Predator",
+    "slug": "predator",
+    "filename": "Predator.png",
+    "thumb": "thumbs/predator.webp",
+    "preview": "previews/predator.webp",
+    "original": "originals/Predator.png"
+  },
+  {
+    "name": "Princess Leia",
+    "slug": "princess-leia",
+    "filename": "Princess Leia.png",
+    "thumb": "thumbs/princess-leia.webp",
+    "preview": "previews/princess-leia.webp",
+    "original": "originals/Princess Leia.png"
+  },
+  {
+    "name": "Princess Zelda",
+    "slug": "princess-zelda",
+    "filename": "Princess Zelda.png",
+    "thumb": "thumbs/princess-zelda.webp",
+    "preview": "previews/princess-zelda.webp",
+    "original": "originals/Princess Zelda.png"
+  },
+  {
+    "name": "Punisher",
+    "slug": "punisher",
+    "filename": "Punisher.png",
+    "thumb": "thumbs/punisher.webp",
+    "preview": "previews/punisher.webp",
+    "original": "originals/Punisher.png"
+  },
+  {
+    "name": "Pyramid Head",
+    "slug": "pyramid-head",
+    "filename": "Pyramid Head.png",
+    "thumb": "thumbs/pyramid-head.webp",
+    "preview": "previews/pyramid-head.webp",
+    "original": "originals/Pyramid Head.png"
+  },
+  {
+    "name": "Raiden",
+    "slug": "raiden",
+    "filename": "Raiden.png",
+    "thumb": "thumbs/raiden.webp",
+    "preview": "previews/raiden.webp",
+    "original": "originals/Raiden.png"
+  },
+  {
+    "name": "Rambo",
+    "slug": "rambo",
+    "filename": "Rambo.png",
+    "thumb": "thumbs/rambo.webp",
+    "preview": "previews/rambo.webp",
+    "original": "originals/Rambo.png"
+  },
+  {
+    "name": "Raphael",
+    "slug": "raphael",
+    "filename": "Raphael.png",
+    "thumb": "thumbs/raphael.webp",
+    "preview": "previews/raphael.webp",
+    "original": "originals/Raphael.png"
+  },
+  {
+    "name": "Ratchet",
+    "slug": "ratchet",
+    "filename": "Ratchet.png",
+    "thumb": "thumbs/ratchet.webp",
+    "preview": "previews/ratchet.webp",
+    "original": "originals/Ratchet.png"
+  },
+  {
+    "name": "Rayman",
+    "slug": "rayman",
+    "filename": "Rayman.png",
+    "thumb": "thumbs/rayman.webp",
+    "preview": "previews/rayman.webp",
+    "original": "originals/Rayman.png"
+  },
+  {
+    "name": "Reaper",
+    "slug": "reaper",
+    "filename": "Reaper.png",
+    "thumb": "thumbs/reaper.webp",
+    "preview": "previews/reaper.webp",
+    "original": "originals/Reaper.png"
+  },
+  {
+    "name": "Red Skull",
+    "slug": "red-skull",
+    "filename": "Red Skull.png",
+    "thumb": "thumbs/red-skull.webp",
+    "preview": "previews/red-skull.webp",
+    "original": "originals/Red Skull.png"
+  },
+  {
+    "name": "Rob Lucci",
+    "slug": "rob-lucci",
+    "filename": "Rob Lucci.png",
+    "thumb": "thumbs/rob-lucci.webp",
+    "preview": "previews/rob-lucci.webp",
+    "original": "originals/Rob Lucci.png"
+  },
+  {
+    "name": "RoboCop",
+    "slug": "robocop",
+    "filename": "RoboCop.png",
+    "thumb": "thumbs/robocop.webp",
+    "preview": "previews/robocop.webp",
+    "original": "originals/RoboCop.png"
+  },
+  {
+    "name": "Rocky Balboa",
+    "slug": "rocky-balboa",
+    "filename": "Rocky Balboa.png",
+    "thumb": "thumbs/rocky-balboa.webp",
+    "preview": "previews/rocky-balboa.webp",
+    "original": "originals/Rocky Balboa.png"
+  },
+  {
+    "name": "Ryu",
+    "slug": "ryu",
+    "filename": "Ryu.png",
+    "thumb": "thumbs/ryu.webp",
+    "preview": "previews/ryu.webp",
+    "original": "originals/Ryu.png"
+  },
+  {
+    "name": "Sackboy",
+    "slug": "sackboy",
+    "filename": "Sackboy.png",
+    "thumb": "thumbs/sackboy.webp",
+    "preview": "previews/sackboy.webp",
+    "original": "originals/Sackboy.png"
+  },
+  {
+    "name": "Sailor Moon",
+    "slug": "sailor-moon-2",
+    "filename": "Sailor Moon (2).png",
+    "thumb": "thumbs/sailor-moon-2.webp",
+    "preview": "previews/sailor-moon-2.webp",
+    "original": "originals/Sailor Moon (2).png",
+    "variant": 2
+  },
+  {
+    "name": "Sakura Haruno",
+    "slug": "sakura-haruno",
+    "filename": "Sakura Haruno.png",
+    "thumb": "thumbs/sakura-haruno.webp",
+    "preview": "previews/sakura-haruno.webp",
+    "original": "originals/Sakura Haruno.png"
+  },
+  {
+    "name": "Sam Fisher",
+    "slug": "sam-fisher",
+    "filename": "Sam Fisher.png",
+    "thumb": "thumbs/sam-fisher.webp",
+    "preview": "previews/sam-fisher.webp",
+    "original": "originals/Sam Fisher.png"
+  },
+  {
+    "name": "Samurai Jack",
+    "slug": "samurai-jack",
+    "filename": "Samurai Jack.png",
+    "thumb": "thumbs/samurai-jack.webp",
+    "preview": "previews/samurai-jack.webp",
+    "original": "originals/Samurai Jack.png"
+  },
+  {
+    "name": "Sans",
+    "slug": "sans",
+    "filename": "Sans.png",
+    "thumb": "thumbs/sans.webp",
+    "preview": "previews/sans.webp",
+    "original": "originals/Sans.png"
+  },
+  {
+    "name": "Saruman",
+    "slug": "saruman",
+    "filename": "Saruman.png",
+    "thumb": "thumbs/saruman.webp",
+    "preview": "previews/saruman.webp",
+    "original": "originals/Saruman.png"
+  },
+  {
+    "name": "Sauron",
+    "slug": "sauron",
+    "filename": "Sauron.png",
+    "thumb": "thumbs/sauron.webp",
+    "preview": "previews/sauron.webp",
+    "original": "originals/Sauron.png"
+  },
+  {
+    "name": "Scorpion",
+    "slug": "scorpion",
+    "filename": "Scorpion.png",
+    "thumb": "thumbs/scorpion.webp",
+    "preview": "previews/scorpion.webp",
+    "original": "originals/Scorpion.png"
+  },
+  {
+    "name": "Sengoku",
+    "slug": "sengoku",
+    "filename": "Sengoku.png",
+    "thumb": "thumbs/sengoku.webp",
+    "preview": "previews/sengoku.webp",
+    "original": "originals/Sengoku.png"
+  },
+  {
+    "name": "Sephiroth",
+    "slug": "sephiroth",
+    "filename": "Sephiroth.png",
+    "thumb": "thumbs/sephiroth.webp",
+    "preview": "previews/sephiroth.webp",
+    "original": "originals/Sephiroth.png"
+  },
+  {
+    "name": "Shadow",
+    "slug": "shadow",
+    "filename": "Shadow.png",
+    "thumb": "thumbs/shadow.webp",
+    "preview": "previews/shadow.webp",
+    "original": "originals/Shadow.png"
+  },
+  {
+    "name": "Shao Kahn",
+    "slug": "shao-kahn",
+    "filename": "Shao Kahn.png",
+    "thumb": "thumbs/shao-kahn.webp",
+    "preview": "previews/shao-kahn.webp",
+    "original": "originals/Shao Kahn.png"
+  },
+  {
+    "name": "Shredder",
+    "slug": "shredder",
+    "filename": "Shredder.png",
+    "thumb": "thumbs/shredder.webp",
+    "preview": "previews/shredder.webp",
+    "original": "originals/Shredder.png"
+  },
+  {
+    "name": "Shunsui Kyoraku",
+    "slug": "shunsui-kyoraku",
+    "filename": "Shunsui Kyoraku.png",
+    "thumb": "thumbs/shunsui-kyoraku.webp",
+    "preview": "previews/shunsui-kyoraku.webp",
+    "original": "originals/Shunsui Kyoraku.png"
+  },
+  {
+    "name": "Simon Ghost Riley",
+    "slug": "simon-ghost-riley",
+    "filename": "Simon Ghost Riley.png",
+    "thumb": "thumbs/simon-ghost-riley.webp",
+    "preview": "previews/simon-ghost-riley.webp",
+    "original": "originals/Simon Ghost Riley.png"
+  },
+  {
+    "name": "Sinestro",
+    "slug": "sinestro",
+    "filename": "Sinestro.png",
+    "thumb": "thumbs/sinestro.webp",
+    "preview": "previews/sinestro.webp",
+    "original": "originals/Sinestro.png"
+  },
+  {
+    "name": "Skeletor",
+    "slug": "skeletor",
+    "filename": "Skeletor.png",
+    "thumb": "thumbs/skeletor.webp",
+    "preview": "previews/skeletor.webp",
+    "original": "originals/Skeletor.png"
+  },
+  {
+    "name": "Snorlax",
+    "slug": "snorlax",
+    "filename": "Snorlax.png",
+    "thumb": "thumbs/snorlax.webp",
+    "preview": "previews/snorlax.webp",
+    "original": "originals/Snorlax.png"
+  },
+  {
+    "name": "Solaire of Astora",
+    "slug": "solaire-of-astora",
+    "filename": "Solaire of Astora.png",
+    "thumb": "thumbs/solaire-of-astora.webp",
+    "preview": "previews/solaire-of-astora.webp",
+    "original": "originals/Solaire of Astora.png"
+  },
+  {
+    "name": "Solid Snake",
+    "slug": "solid-snake",
+    "filename": "Solid Snake.png",
+    "thumb": "thumbs/solid-snake.webp",
+    "preview": "previews/solid-snake.webp",
+    "original": "originals/Solid Snake.png"
+  },
+  {
+    "name": "Sonic",
+    "slug": "sonic",
+    "filename": "Sonic.png",
+    "thumb": "thumbs/sonic.webp",
+    "preview": "previews/sonic.webp",
+    "original": "originals/Sonic.png"
+  },
+  {
+    "name": "Speedy Gonzales",
+    "slug": "speedy-gonzales",
+    "filename": "Speedy Gonzales.png",
+    "thumb": "thumbs/speedy-gonzales.webp",
+    "preview": "previews/speedy-gonzales.webp",
+    "original": "originals/Speedy Gonzales.png"
+  },
+  {
+    "name": "Spyro",
+    "slug": "spyro",
+    "filename": "Spyro.png",
+    "thumb": "thumbs/spyro.webp",
+    "preview": "previews/spyro.webp",
+    "original": "originals/Spyro.png"
+  },
+  {
+    "name": "Squall Leonhart",
+    "slug": "squall-leonhart",
+    "filename": "Squall Leonhart.png",
+    "thumb": "thumbs/squall-leonhart.webp",
+    "preview": "previews/squall-leonhart.webp",
+    "original": "originals/Squall Leonhart.png"
+  },
+  {
+    "name": "Steve from Minecraft",
+    "slug": "steve-from-minecraft",
+    "filename": "Steve from Minecraft.png",
+    "thumb": "thumbs/steve-from-minecraft.webp",
+    "preview": "previews/steve-from-minecraft.webp",
+    "original": "originals/Steve from Minecraft.png"
+  },
+  {
+    "name": "Sub-Zero",
+    "slug": "sub-zero",
+    "filename": "Sub-Zero.png",
+    "thumb": "thumbs/sub-zero.webp",
+    "preview": "previews/sub-zero.webp",
+    "original": "originals/Sub-Zero.png"
+  },
+  {
+    "name": "Suguru Geto",
+    "slug": "suguru-geto",
+    "filename": "Suguru Geto.png",
+    "thumb": "thumbs/suguru-geto.webp",
+    "preview": "previews/suguru-geto.webp",
+    "original": "originals/Suguru Geto.png"
+  },
+  {
+    "name": "Tails",
+    "slug": "tails",
+    "filename": "Tails.png",
+    "thumb": "thumbs/tails.webp",
+    "preview": "previews/tails.webp",
+    "original": "originals/Tails.png"
+  },
+  {
+    "name": "Taskmaster",
+    "slug": "taskmaster",
+    "filename": "Taskmaster.png",
+    "thumb": "thumbs/taskmaster.webp",
+    "preview": "previews/taskmaster.webp",
+    "original": "originals/Taskmaster.png"
+  },
+  {
+    "name": "Taz",
+    "slug": "taz",
+    "filename": "Taz.png",
+    "thumb": "thumbs/taz.webp",
+    "preview": "previews/taz.webp",
+    "original": "originals/Taz.png"
+  },
+  {
+    "name": "The Mask",
+    "slug": "the-mask",
+    "filename": "The Mask.png",
+    "thumb": "thumbs/the-mask.webp",
+    "preview": "previews/the-mask.webp",
+    "original": "originals/The Mask.png"
+  },
+  {
+    "name": "Thomas Shelby",
+    "slug": "thomas-shelby",
+    "filename": "Thomas Shelby.png",
+    "thumb": "thumbs/thomas-shelby.webp",
+    "preview": "previews/thomas-shelby.webp",
+    "original": "originals/Thomas Shelby.png"
+  },
+  {
+    "name": "Tom",
+    "slug": "tom",
+    "filename": "Tom.png",
+    "thumb": "thumbs/tom.webp",
+    "preview": "previews/tom.webp",
+    "original": "originals/Tom.png"
+  },
+  {
+    "name": "Tony Montana",
+    "slug": "tony-montana",
+    "filename": "Tony Montana.png",
+    "thumb": "thumbs/tony-montana.webp",
+    "preview": "previews/tony-montana.webp",
+    "original": "originals/Tony Montana.png"
+  },
+  {
+    "name": "Tracer",
+    "slug": "tracer",
+    "filename": "Tracer.png",
+    "thumb": "thumbs/tracer.webp",
+    "preview": "previews/tracer.webp",
+    "original": "originals/Tracer.png"
+  },
+  {
+    "name": "Travis Bickle",
+    "slug": "travis-bickle",
+    "filename": "Travis Bickle.png",
+    "thumb": "thumbs/travis-bickle.webp",
+    "preview": "previews/travis-bickle.webp",
+    "original": "originals/Travis Bickle.png"
+  },
+  {
+    "name": "Tyler Durden",
+    "slug": "tyler-durden",
+    "filename": "Tyler Durden.png",
+    "thumb": "thumbs/tyler-durden.webp",
+    "preview": "previews/tyler-durden.webp",
+    "original": "originals/Tyler Durden.png"
+  },
+  {
+    "name": "Uncle Fester",
+    "slug": "uncle-fester",
+    "filename": "Uncle Fester.png",
+    "thumb": "thumbs/uncle-fester.webp",
+    "preview": "previews/uncle-fester.webp",
+    "original": "originals/Uncle Fester.png"
+  },
+  {
+    "name": "Uryu Ishida",
+    "slug": "uryu-ishida",
+    "filename": "Uryu Ishida.png",
+    "thumb": "thumbs/uryu-ishida.webp",
+    "preview": "previews/uryu-ishida.webp",
+    "original": "originals/Uryu Ishida.png"
+  },
+  {
+    "name": "Vergil",
+    "slug": "vergil",
+    "filename": "Vergil.png",
+    "thumb": "thumbs/vergil.webp",
+    "preview": "previews/vergil.webp",
+    "original": "originals/Vergil.png"
+  },
+  {
+    "name": "Wednesday Addams",
+    "slug": "wednesday-addams",
+    "filename": "Wednesday Addams.png",
+    "thumb": "thumbs/wednesday-addams.webp",
+    "preview": "previews/wednesday-addams.webp",
+    "original": "originals/Wednesday Addams.png"
+  },
+  {
+    "name": "Widowmaker",
+    "slug": "widowmaker",
+    "filename": "Widowmaker.png",
+    "thumb": "thumbs/widowmaker.webp",
+    "preview": "previews/widowmaker.webp",
+    "original": "originals/Widowmaker.png"
+  },
+  {
+    "name": "Willy Wonka",
+    "slug": "willy-wonka",
+    "filename": "Willy Wonka.png",
+    "thumb": "thumbs/willy-wonka.webp",
+    "preview": "previews/willy-wonka.webp",
+    "original": "originals/Willy Wonka.png"
+  },
+  {
+    "name": "Woody",
+    "slug": "woody",
+    "filename": "Woody.png",
+    "thumb": "thumbs/woody.webp",
+    "preview": "previews/woody.webp",
+    "original": "originals/Woody.png"
+  },
+  {
+    "name": "Wrecking Ball",
+    "slug": "wrecking-ball",
+    "filename": "Wrecking Ball.png",
+    "thumb": "thumbs/wrecking-ball.webp",
+    "preview": "previews/wrecking-ball.webp",
+    "original": "originals/Wrecking Ball.png"
+  },
+  {
+    "name": "Xenomorph",
+    "slug": "xenomorph",
+    "filename": "Xenomorph.png",
+    "thumb": "thumbs/xenomorph.webp",
+    "preview": "previews/xenomorph.webp",
+    "original": "originals/Xenomorph.png"
+  },
+  {
+    "name": "Yoshikage Kira",
+    "slug": "yoshikage-kira",
+    "filename": "Yoshikage Kira.png",
+    "thumb": "thumbs/yoshikage-kira.webp",
+    "preview": "previews/yoshikage-kira.webp",
+    "original": "originals/Yoshikage Kira.png"
+  },
+  {
+    "name": "Yuji Itadori",
+    "slug": "yuji-itadori",
+    "filename": "Yuji Itadori.png",
+    "thumb": "thumbs/yuji-itadori.webp",
+    "preview": "previews/yuji-itadori.webp",
+    "original": "originals/Yuji Itadori.png"
+  },
+  {
+    "name": "Yusuke Urameshi",
+    "slug": "yusuke-urameshi",
+    "filename": "Yusuke Urameshi.png",
+    "thumb": "thumbs/yusuke-urameshi.webp",
+    "preview": "previews/yusuke-urameshi.webp",
+    "original": "originals/Yusuke Urameshi.png"
+  },
+  {
+    "name": "SSJ4 Goku",
+    "slug": "ssj4-goku",
+    "filename": "SSJ4 Goku.png",
+    "thumb": "thumbs/ssj4-goku.webp",
+    "preview": "previews/ssj4-goku.webp",
+    "original": "originals/SSJ4 Goku.png"
+  },
+  {
+    "name": "SSJ4 Vegeta",
+    "slug": "ssj4-vegeta",
+    "filename": "SSJ4 Vegeta.png",
+    "thumb": "thumbs/ssj4-vegeta.webp",
+    "preview": "previews/ssj4-vegeta.webp",
+    "original": "originals/SSJ4 Vegeta.png"
+  },
+  {
+    "name": "Super 17",
+    "slug": "super-17",
+    "filename": "Super 17.png",
+    "thumb": "thumbs/super-17.webp",
+    "preview": "previews/super-17.webp",
+    "original": "originals/Super 17.png"
+  },
+  {
+    "name": "Baby Vegeta",
+    "slug": "baby-vegeta",
+    "filename": "Baby Vegeta.png",
+    "thumb": "thumbs/baby-vegeta.webp",
+    "preview": "previews/baby-vegeta.webp",
+    "original": "originals/Baby Vegeta.png"
+  },
+  {
+    "name": "Golden Great Ape Baby",
+    "slug": "golden-great-ape-baby",
+    "filename": "Golden Great Ape Baby.png",
+    "thumb": "thumbs/golden-great-ape-baby.webp",
+    "preview": "previews/golden-great-ape-baby.webp",
+    "original": "originals/Golden Great Ape Baby.png"
+  },
+  {
+    "name": "Golden Great Ape",
+    "slug": "golden-great-ape",
+    "filename": "Golden Great Ape.png",
+    "thumb": "thumbs/golden-great-ape.webp",
+    "preview": "previews/golden-great-ape.webp",
+    "original": "originals/Golden Great Ape.png"
+  },
+  {
+    "name": "Majuub",
+    "slug": "majuub",
+    "filename": "Majuub.png",
+    "thumb": "thumbs/majuub.webp",
+    "preview": "previews/majuub.webp",
+    "original": "originals/Majuub.png"
+  },
+  {
+    "name": "Super Baby Vegeta 2",
+    "slug": "super-baby-vegeta-2",
+    "filename": "Super Baby Vegeta 2.png",
+    "thumb": "thumbs/super-baby-vegeta-2.webp",
+    "preview": "previews/super-baby-vegeta-2.webp",
+    "original": "originals/Super Baby Vegeta 2.png"
+  },
+  {
+    "name": "Super Baby Vegeta",
+    "slug": "super-baby-vegeta",
+    "filename": "Super Baby Vegeta.png",
+    "thumb": "thumbs/super-baby-vegeta.webp",
+    "preview": "previews/super-baby-vegeta.webp",
+    "original": "originals/Super Baby Vegeta.png"
+  },
+  {
+    "name": "SSJ4 Gogeta",
+    "slug": "ssj4-gogeta",
+    "filename": "SSJ4 Gogeta.png",
+    "thumb": "thumbs/ssj4-gogeta.webp",
+    "preview": "previews/ssj4-gogeta.webp",
+    "original": "originals/SSJ4 Gogeta.png"
+  },
+  {
+    "name": "SSJ3 Goku",
+    "slug": "ssj3-goku",
+    "filename": "SSJ3 Goku.png",
+    "thumb": "thumbs/ssj3-goku.webp",
+    "preview": "previews/ssj3-goku.webp",
+    "original": "originals/SSJ3 Goku.png"
+  },
+  {
+    "name": "Goku Super Saiyan",
+    "slug": "goku-super-saiyan",
+    "filename": "Goku Super Saiyan.png",
+    "thumb": "thumbs/goku-super-saiyan.webp",
+    "preview": "previews/goku-super-saiyan.webp",
+    "original": "originals/Goku Super Saiyan.png"
+  },
+  {
+    "name": "Gohan Super Saiyan 2",
+    "slug": "gohan-super-saiyan-2",
+    "filename": "Gohan Super Saiyan 2.png",
+    "thumb": "thumbs/gohan-super-saiyan-2.webp",
+    "preview": "previews/gohan-super-saiyan-2.webp",
+    "original": "originals/Gohan Super Saiyan 2.png"
+  },
+  {
+    "name": "SSJ Blue Goku",
+    "slug": "ssj-blue-goku",
+    "filename": "SSJ Blue Goku.png",
+    "thumb": "thumbs/ssj-blue-goku.webp",
+    "preview": "previews/ssj-blue-goku.webp",
+    "original": "originals/SSJ Blue Goku.png"
+  },
+  {
+    "name": "SSJ Blue Vegeta",
+    "slug": "ssj-blue-vegeta",
+    "filename": "SSJ Blue Vegeta.png",
+    "thumb": "thumbs/ssj-blue-vegeta.webp",
+    "preview": "previews/ssj-blue-vegeta.webp",
+    "original": "originals/SSJ Blue Vegeta.png"
+  },
+  {
+    "name": "Ultra Instinct Goku",
+    "slug": "ultra-instinct-goku",
+    "filename": "Ultra Instinct Goku.png",
+    "thumb": "thumbs/ultra-instinct-goku.webp",
+    "preview": "previews/ultra-instinct-goku.webp",
+    "original": "originals/Ultra Instinct Goku.png"
+  }
+]

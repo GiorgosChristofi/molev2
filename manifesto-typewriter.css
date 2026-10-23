@@ -1,0 +1,6 @@
+.manifesto-letter{opacity:0;transition:opacity .12s ease}
+.manifesto-letter.typed{opacity:1}
+.manifesto-letter.typing-caret{position:relative}
+.manifesto-letter.typing-caret::after{content:"";position:absolute;right:-2px;top:.12em;width:1px;height:1em;background:#d39754;box-shadow:0 0 5px #f18a3033;pointer-events:none}
+@media(prefers-reduced-motion:reduce){.manifesto-letter{opacity:1;transition:none}.manifesto-letter.typing-caret::after{display:none}}
+@media(max-width:760px),(pointer:coarse){.manifesto-letter{opacity:1;transition:none}.manifesto-letter.typing-caret::after{display:none}}

@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en" class="page-entering">
+<head>
+ <meta charset="utf-8">
+ <meta name="color-scheme" content="dark">
+ <style id="navigation-first-paint">
+  html,body{background:#000;color-scheme:dark}
+  body{opacity:1;transition:opacity 440ms cubic-bezier(.22,.61,.36,1)}
+  html::after{content:"";position:fixed;inset:0;background:#000;z-index:2147483647;pointer-events:none;opacity:0;transition:opacity 440ms cubic-bezier(.22,.61,.36,1)}
+  html.page-entering::after{opacity:1;pointer-events:auto;transition:none}
+  html.page-entering body{opacity:0;transition:none}
+  html.page-leaving::after{opacity:1;pointer-events:auto;transition:opacity 300ms ease-in-out}
+  html.page-leaving body{opacity:0;transition:opacity 300ms ease-in-out}
+  html.page-leaving #pointer,html.page-leaving #lighter{visibility:hidden!important}
+  @media(prefers-reduced-motion:reduce){body,html::after,html.page-leaving body,html.page-leaving::after{transition:none}}
+ </style>
+ <noscript><style>html.page-entering body{opacity:1}html.page-entering::after{display:none}</style></noscript>
+ <script src="page-transition.js?v=2-artwork-ready"></script>
+ <meta name="viewport" content="width=device-width,initial-scale=1">
+ <meta name="theme-color" content="#000000">
+ <meta name="description" content="MOLE. Private by default. Underground by choice.">
+ <title>MOLE — Go underground</title>
+ <link rel="stylesheet" href="homepage.css?v=9-larger-scroll-cue">
+ <link rel="stylesheet" href="community.css?v=3-origin-token">
+ <link rel="stylesheet" href="site-polish.css?v=2-cursors">
+ <link rel="stylesheet" href="home-vault.css?v=2-manifesto-art">
+ <link rel="stylesheet" href="header-socials.css?v=52-x-group">
+ <link rel="stylesheet" href="manifesto-typewriter.css?v=53-mobile-ui">
+ <link rel="stylesheet" href="readability.css?v=1">
+ <link rel="stylesheet" href="mobile-polish.css?v=53-mobile-ui">
+ <link rel="icon" href="favicon.ico?v=54" sizes="16x16 32x32 48x48 64x64">
+ <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png?v=54">
+ <link rel="icon" type="image/svg+xml" sizes="any" href="assets/favicon.svg?v=54">
+ <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png?v=54">
+</head>
+<body>
+<a class="skip-link" href="#burrow">Skip to the burrow</a>
+<div class="reading-progress" aria-hidden="true"><i id="readingProgress"></i></div>
+  <header class="site-header" id="siteHeader">
+   <a class="brand" href="#top" aria-label="MOLE home"><img src="assets/mole-wordmark.svg?v=2-inset" width="254" height="76" alt="MOLE"></a>
+   <nav class="navigation" aria-label="Social channels">
+    
+    
+    
+    <div class="header-socials" role="group" aria-label="Official MOLE social channels"><a href="https://x.com/MoneroMole" target="_blank" rel="noopener noreferrer" aria-label="MoneroMole on X" title="MoneroMole on X" class="mole-channel"><svg class="x-logo" viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.64 7.584H.47l8.6-9.835L0 1.154h7.594l5.243 6.932zm-1.29 19.493h2.039L6.487 3.24H4.3z"/></svg><span>@MoneroMole</span></a><a href="https://x.com/i/chat/group_join/g2112824508704825820/SL9pRKL8Z6" target="_blank" rel="noopener noreferrer" aria-label="Join the MOLE X group" title="Join the MOLE X group" data-channel="x-group" class="x-group-channel"><svg class="x-logo" viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.64 7.584H.47l8.6-9.835L0 1.154h7.594l5.243 6.932zm-1.29 19.493h2.039L6.487 3.24H4.3z"/></svg><span class="group-label-full">Join group</span><span class="group-label-short">Join</span></a><div class="shorts-channels" role="group" aria-label="The Bottom Files — Shorts"><a href="https://www.instagram.com/thebottomfiles/" target="_blank" rel="noopener noreferrer" aria-label="The Bottom Files on Instagram" title="The Bottom Files on Instagram" data-channel="instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="5"/><circle cx="12" cy="12" r="3.6"/><circle cx="17.2" cy="6.9" r=".8" fill="currentColor" stroke="none"/></svg></a><a href="https://www.tiktok.com/@thebottomfiles_mole" target="_blank" rel="noopener noreferrer" aria-label="The Bottom Files on TikTok" title="The Bottom Files on TikTok" data-channel="tiktok"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4v11.2a4.2 4.2 0 1 1-3.5-4.1M14 4c.4 3.6 2.4 5 5 5V6.5c-1.6-.1-2.5-1-2.5-2.5H14Z"/></svg></a><a href="https://x.com/TheBottomFiles" target="_blank" rel="noopener noreferrer" aria-label="The Bottom Files on X" title="The Bottom Files on X" data-channel="x"><svg class="x-logo" viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.64 7.584H.47l8.6-9.835L0 1.154h7.594l5.243 6.932zm-1.29 19.493h2.039L6.487 3.24H4.3z"/></svg></a></div></div>
+    
+   </nav>
+  </header>
+<main>
+ <section class="hero" id="top" aria-label="MOLE — underground money">
+  <h1 class="sr">MOLE. Private by default. Underground money.</h1>
+
+  <section class="stage" id="stage" aria-label="Moleius with his unlit cigar">
+   <div class="artwork">
+    <img draggable="false" src="mole-ready-1080.png" alt="Moleius seated on the MOLE lettering, with his cigar and Macallan 1926" width="1920" height="1080">
+    <video draggable="false" id="sequence" muted playsinline preload="none" aria-hidden="true"><source src="mole-performance-1080.mp4" type="video/mp4"></video>
+    <img draggable="false" id="stillLit" src="mole-lit-1080.png" alt="" hidden>
+    <video draggable="false" id="idle" muted playsinline loop preload="none" aria-hidden="true" poster="mole-lit-1080.png"><source src="mole-resting-smoke-1080.mp4" type="video/mp4"></video>
+    <span class="bottle-label" id="bottleLabel" aria-hidden="true"><img draggable="false" src="assets/macallan-label-v5.svg" alt=""></span>
+   </div>
+   <div class="lamp-window"><video draggable="false" id="lamp" muted playsinline autoplay loop preload="auto" aria-hidden="true"><source src="mole-bulb-ambient-hd.mp4" type="video/mp4"></video></div>
+   <span class="halo" aria-hidden="true"></span>
+   <button class="target" id="target" type="button" aria-label="Light Moleius's cigar. Hold with mouse or touch, or press Enter."></button>
+   <span class="light-hint" aria-hidden="true">Hold to light</span>
+  </section>
+  <button class="touch-light" id="touchLight" type="button">LIGHT HIS CIGAR</button>
+  <a class="scroll-cue" href="#burrow"><span>GO UNDERGROUND</span><svg viewBox="0 0 28 16" aria-hidden="true"><path d="M2 2L14 14 26 2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+ </section>
+
+ <section class="community" id="burrow" aria-label="The Burrow">
+  <div class="chapter-rule"><span>01 / THE BURROW</span><span>NO PUBLIC IDENTITY</span></div>
+  <div class="origin-intro">
+   <figure class="classified-file">
+    <span class="folder-tab">MF—000 / THE ORIGIN</span>
+    <div class="file-sheet">
+     <div class="file-punches" aria-hidden="true"><i></i><i></i></div>
+     <div class="file-meta"><span>SUBJECT / 000</span><span>ACCESS RESTRICTED</span></div>
+     <div class="evidence-photo"><picture><source srcset="assets/original-mole.webp" type="image/webp"><img src="assets/original-mole.png" width="829" height="422" loading="lazy" alt="The original Monero Mole in the earth wearing its Monero pendant"></picture><span class="photo-number">EXHIBIT 001</span></div>
+     <figcaption><span>The original mole.</span><small>same ground. different money.</small></figcaption>
+     <span class="classification-stamp">CLASSIFIED</span>
+     <span class="file-redaction" aria-hidden="true"></span>
+     <span class="file-bottom">UNDERGROUND SINCE DAY 1 · PRIVACY · FREEDOM · SOVEREIGNTY</span>
+    </div>
+    <span class="paperclip" aria-hidden="true"></span>
+   </figure>
+   <div class="origin-copy token-copy origin-token" id="token" aria-labelledby="tokenHeading"><span class="eyebrow">UNDERGROUND MONEY</span><h2 id="tokenHeading">Private by default.</h2><p class="token-subtitle">Underground money.</p><div class="trade-actions"><a class="trade-button" id="tradeLink" href="https://pump.fun/coin/6rk8pkB572s5ConYzCJMytTF8RoMrTwpurEpNKs4pump" target="_blank" rel="noopener noreferrer">Trade $MOLE <svg class="ui-arrow" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7 17 17 7M7 7h10v10"/></svg></a><a class="outline-button" href="#manifesto">Read the manifesto <svg class="ui-arrow" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 4v16m-6-6 6 6 6-6"/></svg></a></div><div class="contract-field"><span>CA:</span><code id="caText">6rk8pkB572s5ConYzCJMytTF8RoMrTwpurEpNKs4pump</code><button type="button" id="copyCA" aria-label="Copy contract address">COPY</button></div><span class="no-trace prompt" aria-live="off">DIG DEEPER.<span class="cursor"></span></span></div>
+  </div>
+  <section class="identity-vault-section" id="aliases" aria-label="The Identity Vault">
+   <iframe id="homeIdentityVault" class="identity-vault-frame" src="home-identity-vault/index.html?v=56-close-centered" title="MOLE Identity Vault — explore and reveal an alias" loading="lazy" allow="autoplay" height="700"></iframe>
+   <noscript><p><a href="identity-paradox/index.html">Browse the identity archive ↗</a></p></noscript>
+  </section>
+ </section>
+
+ <section class="manifesto-section page-section" id="manifesto" aria-labelledby="manifestoHeading">
+  <div class="editorial-heading"><span class="eyebrow">02 / THE MANIFESTO</span><h2 id="manifestoHeading">Below<br>the surface.</h2><span class="section-tagline">PRIVACY · SOVEREIGNTY · SELF-CUSTODY</span><figure class="manifesto-art"><picture><source srcset="assets/moleius-underground-throne.webp" type="image/webp"><img src="assets/moleius-underground-throne.png" width="1122" height="1402" loading="lazy" decoding="async" alt="Moleius Maximus seated on his throne in an underground chamber beneath the crowned Monero emblem"></picture></figure></div>
+  <div class="manifesto-copy"><p>Privacy was never supposed to be a feature.<br>It was supposed to be <em>the default.</em></p><p>The modern internet inverted that idea. Identity became infrastructure. Activity became data. Data became a product. Every click, payment, movement and relationship became something to log, index and sell.</p><p>Monero took the opposite path.</p><blockquote>No public balances.<br>No public transaction graph.<br>No permission required.</blockquote><p>$MOLE exists as the meme of that idea.</p><p class="quiet-copy">Not a promise of utility.<br>Not another roadmap pretending to be a revolution.</p><p>A mascot for private money, cypherpunk culture, and the belief that financial privacy should not require an explanation.</p><p class="manifesto-signoff">No trace.<br>No spectacle.<br>No apology.<br><em>Private by default.</em></p><div class="cipher-art">
+            <div class="cipher-text">
+              <div class="binary" aria-label="Binary: ain't seen nothing. matter of fact, i am blind.">
+                <span>01000001 01001001 01001110 00100111 01010100</span>
+                <span>01010011 01000101 01000101 01001110</span>
+                <span>01001110 01001111 01010100 01001000 01001001 01001110 01000111 00101110</span>
+                <span>01001101 01000001 01010100 01010100 01000101 01010010</span>
+                <span>01001111 01000110</span>
+                <span>01000110 01000001 01000011 01010100 00101100</span>
+                <span>01001001</span>
+                <span>01000001 01001101</span>
+                <span>01000010 01001100 01001001 01001110 01000100 00101110</span>
+              </div>
+              <div class="cipher-caption">
+                <span>[ encrypted // no public identity ]</span>
+                <span>anon // encrypted // unseen</span>
+              </div>
+            </div>
+            
+          </div></div>
+ </section>
+ <section class="tribute-section page-section" id="tribute" aria-labelledby="tributeHeading">
+  <div class="tribute-intro"><div class="editorial-heading"><span class="eyebrow">03 / THE TRIBUTE</span><h2 id="tributeHeading">The mole<br>pays tribute.</h2></div><div class="tribute-copy"><p>Privacy is not free. Someone writes the code. Someone audits it. Someone keeps the network running when nobody is paying attention. Progress takes research, experimentation, and people willing to keep pushing the technology forward.</p><p>Every $MOLE trade <em>helps fund that work</em> — supporting the builders, researchers, and contributors advancing financial privacy.</p></div></div>
+  <div class="tribute-bar"><span>ALL OF OUR FEES <svg class="ui-arrow" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 12h16m-6-6 6 6-6 6"/></svg> MONERO RESEARCH &amp; DEVELOPMENT</span><i aria-hidden="true"></i></div>
+  <div class="donation-grid"><article><span class="eyebrow">THE MONERO PROJECT</span><h3>Monero General Fund</h3><p>The Monero Project's own donation wallet. Funds the network’s development and infrastructure directly. The project publishes the wallet’s view key, so every donation is auditable.</p><div class="give-body">
+              <div class="qr" id="qrGeneral" aria-label="QR code for the Monero General Fund address"></div>
+              <div class="addr">
+                <code
+                  id="xmrGeneral">888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H</code>
+                <div class="addr-actions">
+                  <button class="mini primary" type="button" id="copyGeneral">Copy address</button>
+                </div>
+              </div>
+            </div>
+            <div class="give-foot">
+              Verify the address yourself at <a href="https://www.getmonero.org/get-started/contributing/"
+                target="_blank" rel="noreferrer">getmonero.org</a>
+              before sending. Or fund a specific proposal on the <a href="https://ccs.getmonero.org/funding-required/"
+                target="_blank" rel="noreferrer">CCS</a>.
+            </div>
+          </article><article><span class="eyebrow">RESEARCH &amp; DEVELOPMENT</span><h3>MAGIC Monero Fund</h3><p>A 501(c)(3) charity committee elected by the Monero community. Pays for research, security audits and the people who keep essential services running. Donations may be tax-deductible.</p><div class="give-body"><div class="addr"><div class="addr-actions"><a class="mini primary" href="https://donate.magicgrants.org/monero" target="_blank"
+                    rel="noreferrer">Donate via their page <svg class="ui-arrow" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7 17 17 7M7 7h10v10"/></svg></a>
+                </div>
+                <p>They take XMR, BTC and card on their own page. They ask that donations go through it rather than to a
+                  raw address, so yours is credited to the Monero Fund and not another MAGIC fund.</p>
+              </div>
+            </div>
+            <div class="give-foot">
+              They publish their view key too &mdash; see their <a href="https://donate.magicgrants.org/monero/faq"
+                target="_blank" rel="noreferrer">FAQ</a>.
+            </div>
+          </article></div><div class="feecount" id="feecount">
+          <div class="feecount-label">/ fees generated</div>
+          <div class="feecount-num"><span id="feeAmount">&mdash;</span><small>wXMR</small></div>
+          <div class="feecount-meta">
+            <span id="feeStatus">live · calculating...</span>
+            <span id="feeDetails" class="fee-details"></span>
+            <a id="feeVerify" href="https://pump.fun/coin/6rk8pkB572s5ConYzCJMytTF8RoMrTwpurEpNKs4pump" target="_blank"
+              rel="noreferrer">verify on pump.fun &nearr;</a>
+          </div>
+        </div>
+ </section>
+
+
+</main>
+<div class="lighter" id="lighter" aria-hidden="true">
+ <svg viewBox="-350 0 1050 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <clipPath id="caseClip"><rect x="50" y="645" width="510" height="450"/></clipPath>
+   <clipPath id="lidClip"><rect x="50" y="370" width="510" height="282"/></clipPath>
+   <clipPath id="chimneyClip"><rect x="900" y="435" width="290" height="205"/></clipPath>
+   <clipPath id="flameClip"><rect x="900" y="80" width="270" height="365"/></clipPath>
+  </defs>
+  <g transform="translate(-670 30)"><image href="assets/classic-silver-lighter.webp" width="1280" height="1280" clip-path="url(#chimneyClip)"/></g>
+  <g class="flame" id="cursorFlame"><g transform="translate(-670 30)"><image href="assets/classic-silver-lighter.webp" width="1280" height="1280" clip-path="url(#flameClip)"/></g></g>
+  <g id="cursorLid" transform="rotate(0 78 650)"><image href="assets/classic-silver-lighter.webp" width="1280" height="1280" clip-path="url(#lidClip)"/></g>
+  <image href="assets/classic-silver-lighter.webp" width="1280" height="1280" clip-path="url(#caseClip)"/>
+ </svg>
+</div>
+<div class="claw-pointer" id="pointer" aria-hidden="true">
+ <svg viewBox="-23 -18 46 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <linearGradient id="pawFur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#655347"/><stop offset=".35" stop-color="#3f342e"/><stop offset=".8" stop-color="#211d1b"/><stop offset="1" stop-color="#151313"/></linearGradient>
+   <linearGradient id="ivoryClaw" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0d5"/><stop offset=".5" stop-color="#ddcdb4"/><stop offset="1" stop-color="#84735e"/></linearGradient>
+   <clipPath id="pawCut"><rect x="-20" y="-25" width="40" height="29"/></clipPath>
+  </defs>
+  <g transform="translate(-2 13.65) scale(1 .85)" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M-16 4C-12-4 11-6 17 3C11 10-11 11-16 4Z" fill="#030303" stroke="#3a3024" stroke-width=".7"/>
+   <path class="edge" d="M-15 3C-7-2 8-3 15 2" fill="none" stroke="#8d7047" stroke-width=".45"/>
+   <g clip-path="url(#pawCut)"><g id="cursorPaw">
+    <path d="M-11 5C-12-2-9-5-7-5C-8-10-3-12 0-8C3-11 7-9 7-5C12-6 14 1 11 5Z" fill="url(#pawFur)" stroke="#100e0c" stroke-width=".7"/>
+    <path d="M-8-4C-9-8-7-10-5-10C-4-8-4-6-5-3Z" fill="#c4b49a" stroke="#211a13" stroke-width=".45"/>
+    <path d="M-3-7C-3-12 0-15 2-16C3-11 3-8 1-5Z" fill="url(#ivoryClaw)" stroke="#211a13" stroke-width=".45"/>
+    <path d="M5-5C5-10 8-12 9-12C10-7 9-4 7-3Z" fill="#d1bfa2" stroke="#211a13" stroke-width=".45"/>
+    <path d="M-9 1-7-1M-5 2-4-1M0 2 1-1M5 1 6-1M9 2 10 0" fill="none" stroke="#84705c" stroke-width=".4"/>
+   </g></g>
+   <path d="M-15 5C-7 8 9 9 16 4L14 8C3 12-9 10-15 5Z" fill="#0c0b09"/>
+   <path d="M-12 7C-4 10 6 10 12 7" fill="none" stroke="#30271d" stroke-width=".7"/>
+  </g>
+ </svg>
+</div>
+
+<p class="sr" id="announce" aria-live="polite"></p>
+
+
+<script src="detail-tracking-v5.js"></script>
+<script src="interaction-v6.js?v=8-archive-return"></script>
+<script src="home-vault.js?v=43-mobile"></script>
+<script src="original-site-source/js/vendor/qrcode.min.js"></script>
+<script src="original-site-source/js/utils/clipboard.js"></script>
+<script src="original-site-source/js/components/contract.js?v=49-svg-icons"></script>
+<script src="original-site-source/js/components/tribute.js"></script>
+<script src="original-site-source/js/components/ticker.js"></script>
+<script src="original-site-source/js/components/fee-counter.js"></script>
+<script src="site-polish.js?v=3-social-only"></script>
+<script src="cipher-ambient.js?v=3-readable"></script>
+<script src="manifesto-typewriter.js?v=53-mobile-ui"></script>
+</body>
+</html>

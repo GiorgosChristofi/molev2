@@ -1,0 +1,15 @@
+.manifesto-section>.editorial-heading{min-width:0}
+.manifesto-art{margin:42px -12px 0;line-height:0;isolation:isolate}
+.manifesto-art img{display:block;width:100%;height:auto;mask-image:linear-gradient(to bottom,transparent,#000 5%,#000 94%,transparent);-webkit-mask-image:linear-gradient(to bottom,transparent,#000 5%,#000 94%,transparent)}
+@media(max-width:700px){.manifesto-art{margin:30px 0 0;max-width:460px}}
+.origin-token{min-width:0;scroll-margin-top:110px}
+.origin-token h2{font-size:clamp(40px,4.3vw,64px);line-height:1.06;max-width:520px}
+.origin-token .token-subtitle{font:21px/1.5 Georgia,'Times New Roman',serif;color:#a39785;margin:0 0 28px}
+.origin-token .trade-actions{gap:12px;margin:28px 0 18px}
+.origin-token .contract-field{width:100%;font-size:9px;line-height:1.6}
+.origin-token .contract-field code{min-width:0}
+@media(max-width:700px){.origin-token h2{font-size:clamp(40px,10vw,56px)}.origin-token .token-subtitle{font-size:20px}.origin-token .trade-actions{gap:10px}.origin-token .contract-field{gap:8px;padding-left:10px;font-size:8px}.origin-token .contract-field button{padding:0 11px}}
+.identity-vault-section{position:relative;margin:55px 0 0;padding:16px 0 0;border-top:1px solid #25231f;scroll-margin-top:100px;background:#000}
+.identity-vault-frame{display:block;width:100%;height:700px;border:0;background:#000;color-scheme:dark}
+.identity-vault-section noscript p{text-align:center;padding:20px;color:#f5822b}
+@media(max-width:760px){.identity-vault-section{margin-top:34px;padding-top:8px}.identity-vault-frame{height:680px}}

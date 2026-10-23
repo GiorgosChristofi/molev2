@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en" class="page-entering">
+<head>
+  <meta charset="utf-8">
+ <meta name="color-scheme" content="dark">
+ <style id="navigation-first-paint">
+  html,body{background:#000;color-scheme:dark}
+  body{opacity:1;transition:opacity 440ms cubic-bezier(.22,.61,.36,1)}
+  html::after{content:"";position:fixed;inset:0;background:#000;z-index:2147483647;pointer-events:none;opacity:0;transition:opacity 440ms cubic-bezier(.22,.61,.36,1)}
+  html.page-entering::after{opacity:1;pointer-events:auto;transition:none}
+  html.page-entering body{opacity:0;transition:none}
+  html.page-leaving::after{opacity:1;pointer-events:auto;transition:opacity 300ms ease-in-out}
+  html.page-leaving body{opacity:0;transition:opacity 300ms ease-in-out}
+  html.page-leaving #pointer,html.page-leaving #lighter{visibility:hidden!important}
+  @media(prefers-reduced-motion:reduce){body,html::after,html.page-leaving body,html.page-leaving::after{transition:none}}
+ </style>
+ <noscript><style>html.page-entering body{opacity:1}html.page-entering::after{display:none}</style></noscript>
+ <script src="../page-transition.js?v=2-artwork-ready"></script>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#030303">
+  <meta name="description" content="Explore the many identities of Monero Mole. Find an alias, view the art and make it yours.">
+  <title>The Identity Paradox — MOLE</title>
+  <link rel="stylesheet" href="./style.css?v=11-connected-nameplate">
+  <link rel="stylesheet" href="./vault-atmosphere-v4.css?v=6-warm-breath">
+  <link rel="stylesheet" href="./inspector.css?v=13-stable-download-hover">
+  <link rel="stylesheet" href="./claw-cursor.css?v=1">
+  <script src="./identities.js?v=49-svg-icons" defer></script>
+  <script src="./vault-atmosphere-v4.js?v=6-warm-breath" defer></script>
+  <script src="./app.js?v=49-svg-icons" defer></script>
+  <script src="./claw-cursor.js?v=1" defer></script>
+ <link rel="stylesheet" href="./collection.css?v=48-no-subtitle">
+ <link rel="icon" href="../favicon.ico?v=54" sizes="16x16 32x32 48x48 64x64">
+ <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32.png?v=54">
+ <link rel="icon" type="image/svg+xml" sizes="any" href="../assets/favicon.svg?v=54">
+ <link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png?v=54">
+</head>
+<body>
+  <a class="skip-link" href="#search">Search identities</a>
+  <header class="masthead">
+    <a class="home-link" href="../index.html" aria-label="MOLE home"><img src="../assets/mole-wordmark.svg?v=2-inset" width="254" height="76" alt="MOLE"></a>
+  </header>
+  <main>
+    <section class="universe" aria-label="The identity collection">
+      <div class="core">
+        <div class="medallion" aria-hidden="true"><div class="ripple ripple-one"></div><div class="ripple ripple-two"></div><div class="orbit-arc"></div><div class="coin"><img src="./assets/monero.svg" alt=""></div></div>
+        <div class="collection-controls">
+          <form class="search-shell" role="search" autocomplete="off">
+            <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.8"/><path d="m16 16 5 5"/></svg>
+            <label class="sr-only" for="search">Search aliases</label>
+            <input id="search" type="search" placeholder="Search aliases…" spellcheck="false" aria-controls="identityGallery" aria-describedby="searchStatus">
+            <button type="button" class="clear-search" id="clearSearch" hidden aria-label="Clear search"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m6 6 12 12M6 18 18 6"/></svg></button>
+            <span class="search-end" aria-hidden="true"></span>
+          </form>
+          <nav class="pagination" aria-label="Collection pages">
+            <button id="prevPage" aria-label="Previous page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7"/></svg></button>
+            <span class="page-count"><strong id="pageCurrent">01</strong><span class="slash">/</span><span id="pageTotal">01</span></span>
+            <button id="nextPage" aria-label="Next page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 5 7 7-7 7"/></svg></button>
+          </nav>
+          <p class="search-status" id="searchStatus" role="status" aria-live="polite"></p>
+        </div>
+      </div>
+      <svg class="connection" id="connection" viewBox="0 0 1440 800" preserveAspectRatio="none" aria-hidden="true"><defs><linearGradient id="connectionGradient"><stop stop-color="#ff7200" stop-opacity="0"/><stop offset="1" stop-color="#ff8a29" stop-opacity=".8"/></linearGradient></defs><path id="connectionPath"/></svg>
+      <div class="identity-gallery" id="identityGallery" aria-label="Identities"></div>
+      <div class="empty-state" id="emptyState" hidden><span class="empty-mark" aria-hidden="true">∅</span><h2>No identity found.</h2><p>Try another name, or return to the collection.</p><button id="resetSearch">Clear search</button></div>
+    </section>
+    <h1 class="archive-nameplate">
+      <span class="sr-only">The Identity Paradox</span>
+      <span class="nameplate-surface" aria-hidden="true">
+        <svg class="nameplate-base" viewBox="0 247 2172 252" width="2172" height="252" focusable="false"><image href="./assets/identity-nameplate-illustrated-v1.png" width="2172" height="724"/></svg>
+        <svg class="nameplate-response" viewBox="0 247 2172 252" width="2172" height="252" focusable="false"><image href="./assets/identity-nameplate-illustrated-v1.png" width="2172" height="724"/></svg>
+        <span class="nameplate-underlight"></span>
+      </span>
+    </h1>
+  </main>
+  <dialog id="viewer" class="identity-inspector" aria-modal="true" aria-labelledby="viewerTitle">
+    <div class="viewer-shell">
+      <header class="viewer-toolbar"><span>IDENTITY <span class="viewer-serial" id="viewerSerial">02</span></span><button class="close-viewer" id="closeViewer" aria-label="Close identity panel"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></header>
+      <div class="viewer-image" id="viewerImage"></div>
+      <div class="viewer-details"><h2 id="viewerTitle"></h2><button class="download-button" id="downloadIdentity"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M5 16v5h14v-5"/></svg><span>Download PNG</span></button></div>
+      <nav class="inspector-navigation" aria-label="Browse identities"><button class="viewer-arrow" id="prevIdentity" aria-label="Previous identity"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7"/></svg></button><span class="viewer-position" id="viewerPosition"></span><button class="viewer-arrow" id="nextIdentity" aria-label="Next identity"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 5 7 7-7 7"/></svg></button></nav>
+      <p id="downloadStatus" class="sr-only" role="status"></p>
+    </div>
+  </dialog>
+<div class="claw-pointer" id="pointer" aria-hidden="true" popover="manual">
+ <svg viewBox="-23 -18 46 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   <linearGradient id="pawFur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#655347"/><stop offset=".35" stop-color="#3f342e"/><stop offset=".8" stop-color="#211d1b"/><stop offset="1" stop-color="#151313"/></linearGradient>
+   <linearGradient id="ivoryClaw" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0d5"/><stop offset=".5" stop-color="#ddcdb4"/><stop offset="1" stop-color="#84735e"/></linearGradient>
+   <clipPath id="pawCut"><rect x="-20" y="-25" width="40" height="29"/></clipPath>
+  </defs>
+  <g transform="translate(-2 13.65) scale(1 .85)" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M-16 4C-12-4 11-6 17 3C11 10-11 11-16 4Z" fill="#030303" stroke="#3a3024" stroke-width=".7"/>
+   <path class="edge" d="M-15 3C-7-2 8-3 15 2" fill="none" stroke="#8d7047" stroke-width=".45"/>
+   <g clip-path="url(#pawCut)"><g id="cursorPaw">
+    <path d="M-11 5C-12-2-9-5-7-5C-8-10-3-12 0-8C3-11 7-9 7-5C12-6 14 1 11 5Z" fill="url(#pawFur)" stroke="#100e0c" stroke-width=".7"/>
+    <path d="M-8-4C-9-8-7-10-5-10C-4-8-4-6-5-3Z" fill="#c4b49a" stroke="#211a13" stroke-width=".45"/>
+    <path d="M-3-7C-3-12 0-15 2-16C3-11 3-8 1-5Z" fill="url(#ivoryClaw)" stroke="#211a13" stroke-width=".45"/>
+    <path d="M5-5C5-10 8-12 9-12C10-7 9-4 7-3Z" fill="#d1bfa2" stroke="#211a13" stroke-width=".45"/>
+    <path d="M-9 1-7-1M-5 2-4-1M0 2 1-1M5 1 6-1M9 2 10 0" fill="none" stroke="#84705c" stroke-width=".4"/>
+   </g></g>
+   <path d="M-15 5C-7 8 9 9 16 4L14 8C3 12-9 10-15 5Z" fill="#0c0b09"/>
+   <path d="M-12 7C-4 10 6 10 12 7" fill="none" stroke="#30271d" stroke-width=".7"/>
+  </g>
+ </svg>
+</div>
+</body>
+</html>

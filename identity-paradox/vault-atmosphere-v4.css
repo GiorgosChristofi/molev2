@@ -1,0 +1,34 @@
+/* The moving light shares the neutral illustration's measured outer-metal rim. */
+.medallion{isolation:isolate}
+.vault-art{position:absolute;left:50%;top:50%;width:540px;height:540px;transform:translate(-50%,-50%);z-index:-2;pointer-events:none}
+.vault-art>img{display:block;width:100%;height:100%;object-fit:contain;transform:translate(-.398724%,3.907496%);filter:brightness(.86);mask-image:radial-gradient(ellipse at 50% 50%,#000 46%,#000b 62%,transparent 75%);user-select:none}
+.vault-art>.vault-warmth{position:absolute;inset:0;mix-blend-mode:lighten;opacity:.16;animation:vault-warmth-breathe 8.8s ease-in-out infinite;will-change:opacity;pointer-events:none}
+/* Source centre (632,578), canvas 1254 square, outer metal rim radius 337px. */
+.vault-rim-track{position:absolute;left:50%;top:50%;width:calc(53.748% + 3px);height:calc(53.748% + 3px);transform:translate(-50%,-50%);filter:drop-shadow(0 0 3px #ff5900) drop-shadow(0 0 5px #ff720075);pointer-events:none}
+/* The reference's softer warm spill and thin seam breathe below the dominant moving light. */
+.vault-rim-track::before{content:'';position:absolute;inset:1px;border:1px solid #ff6c0b;border-radius:50%;opacity:.14;filter:blur(.35px);animation:vault-seam-breathe 8.8s ease-in-out infinite;pointer-events:none}
+.vault-rim-track::after{content:'';position:absolute;inset:-4px;border-radius:50%;background:#ff7415;mask:radial-gradient(closest-side,transparent calc(100% - 9px),#000 calc(100% - 5px),transparent 100%);filter:blur(2.5px);opacity:.045;animation:vault-leak-breathe 8.8s ease-in-out infinite;pointer-events:none}
+.vault-rim-track .orbit-arc{position:absolute;inset:0;z-index:2;border-radius:50%;opacity:1;background:conic-gradient(from 0deg,transparent 0deg 262deg,#c3400010 273deg,#f05b0045 291deg,#ff6900b5 312deg,#ff7a0a 330deg,#ff8b27 338deg,transparent 340deg);mask:radial-gradient(closest-side,transparent calc(100% - 3px),#000 calc(100% - 2.5px),#000 calc(100% - .5px),transparent 100%);filter:none;animation:orbit 18s linear infinite;pointer-events:none}
+.rim-light-spill{position:absolute;inset:-25%;border-radius:50%;background:conic-gradient(from 0deg,transparent 0deg 287deg,#ff670008 300deg,#ff760028 327deg,#ff8a1940 337deg,transparent 343deg);mask:radial-gradient(closest-side,transparent 55%,#000 68%,#0006 82%,transparent 100%);filter:blur(8px);mix-blend-mode:screen;opacity:.6;animation:orbit 18s linear infinite;pointer-events:none}
+.vault-reflection{position:absolute;inset:3%;border-radius:50%;background:radial-gradient(ellipse at 50% 13%,#ff841b60,transparent 47%);mask:radial-gradient(circle,transparent 34%,#000 49%,#000 59%,transparent 72%);mix-blend-mode:screen;opacity:0;transform:rotate(var(--vault-light-angle,40deg));transition:opacity .55s ease,transform .8s var(--ease);pointer-events:none}
+.universe.has-active .vault-reflection{opacity:.34}
+.coin{position:relative;z-index:3}
+.ripple{z-index:1}
+.collection-controls{position:relative;z-index:4}
+.connection path{stroke-width:1.4;vector-effect:non-scaling-stroke}
+.buried-atmosphere{position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden;isolation:isolate}
+.earth-fissure{position:absolute;left:var(--crack-x);top:var(--crack-y);width:var(--crack-width);aspect-ratio:1.5;transform:translate(-50%,-50%) rotate(var(--crack-angle));pointer-events:none}
+.fissure-art{display:block;width:100%;height:100%;overflow:visible;stroke:none;fill:none}
+.fissure-soil{opacity:.22}
+.fissure-lines{animation:fissure-breathe var(--crack-period) ease-in-out var(--crack-delay) infinite;will-change:opacity}
+.fissure-aura{animation:fissure-glow var(--crack-period) ease-in-out var(--crack-delay) infinite;will-change:opacity}
+@keyframes fissure-breathe{0%,100%{opacity:.25}48%{opacity:.83}60%{opacity:.79}}
+@keyframes fissure-glow{0%,100%{opacity:.12}48%{opacity:.48}60%{opacity:.43}}
+@keyframes vault-warmth-breathe{0%,100%{opacity:.16}50%{opacity:.42}}
+@keyframes vault-seam-breathe{0%,100%{opacity:.14}50%{opacity:.30}}
+@keyframes vault-leak-breathe{0%,100%{opacity:.045}50%{opacity:.105}}
+.universe.is-empty .vault-art{visibility:hidden}
+@media(max-width:1100px) and (min-width:761px){.vault-art{width:420px;height:420px}.earth-fissure{width:calc(var(--crack-width)*.75)}}
+@media(max-width:760px){.core{padding-top:48px}.vault-art{width:310px;height:310px}.buried-atmosphere{position:fixed;inset:100px 0 0;z-index:-1}.earth-fissure{width:calc(var(--crack-width)*.65)}.fissure-1{left:6%;top:29%}.fissure-2{left:96%;top:48%}.fissure-3{left:4%;top:78%}.fissure-4{left:94%;top:95%}.fissure-5{display:none}.vault-reflection{opacity:0!important}}
+@media(prefers-reduced-motion:reduce){.fissure-lines,.fissure-aura{animation:none!important;will-change:auto}.fissure-lines{opacity:.5}.fissure-aura{opacity:.22}.vault-reflection{transition:none}}
+@media(prefers-reduced-motion:reduce){.vault-art>.vault-warmth{animation:none!important;opacity:.28;will-change:auto}.vault-rim-track::before{animation:none!important;opacity:.22}.vault-rim-track::after{animation:none!important;opacity:.075}}

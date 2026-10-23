@@ -1,0 +1,23 @@
+.site-header .navigation{gap:22px}
+.header-socials{display:flex;align-items:center;gap:17px;flex:none}
+.header-socials a{display:flex;align-items:center;justify-content:center;position:relative;color:#ece0cc;border:1px solid #756044;border-radius:9px;background:linear-gradient(155deg,#211b13e8,#0c0a08f2);box-shadow:inset 0 1px #f8ddb821,0 3px 10px #0005;transition:color .22s,border-color .22s,background .22s,box-shadow .22s,transform .22s}
+.header-socials svg{display:block;width:22px;height:22px;flex:none;transition:transform .3s cubic-bezier(.2,.8,.2,1)}
+.header-socials .mole-channel{height:46px;padding:0 17px;gap:11px;border-color:#cb813e;color:#ffe4bf;background:linear-gradient(145deg,#392314f2,#19110bf2);font:12px 'Courier New',monospace;white-space:nowrap}
+.shorts-channels{display:flex;gap:9px;position:relative;padding-left:17px;border-left:1px solid #655035}
+.shorts-channels a{width:44px;height:46px}
+.shorts-caption{position:absolute;top:calc(100% + 7px);left:17px;right:0;text-align:center;font:7px/1 'Courier New',monospace;letter-spacing:.24em;color:#b29c7c;pointer-events:none}
+.header-socials a:is(:hover,:focus-visible){color:#fff0d6;border-color:#f88b37;background:#28170b;box-shadow:0 4px 15px #ff771b1c,inset 0 1px #ffd4a51a;transform:translateY(-3px)}
+.header-socials a:is(:hover,:focus-visible) svg{transform:rotate(-7deg) scale(1.1)}
+.header-socials a[data-channel=youtube]:is(:hover,:focus-visible) svg{transform:translateX(2px) scale(1.1)}
+.header-socials a:active{transform:translateY(-1px)}
+@media(max-width:1250px){.site-header .navigation{gap:15px}.site-header .navigation .section-link{display:none}.header-socials{gap:10px}}
+@media(max-width:760px){.site-header,.site-header.scrolled{display:grid;grid-template-columns:1fr;gap:16px;align-items:center}.site-header .navigation{display:contents}.site-header .brand{grid-column:1;grid-row:1}.header-socials{grid-column:1;grid-row:2;justify-content:flex-end;padding-bottom:12px;gap:10px}.header-socials .mole-channel{height:40px;padding:0 11px;gap:7px;font-size:10px}.shorts-channels{gap:6px;padding-left:10px}.shorts-channels a{height:40px;width:36px}.header-socials svg{width:20px;height:20px}.shorts-caption{left:10px}.site-header.scrolled{row-gap:10px}.site-header.scrolled .header-socials{padding-bottom:10px}}
+@media(max-width:360px){.header-socials{gap:7px}.header-socials .mole-channel{padding:0 8px;font-size:9px}.shorts-channels{gap:5px;padding-left:7px}.shorts-channels a{width:33px}.shorts-caption{left:7px}}
+@media(prefers-reduced-motion:reduce){.header-socials a,.header-socials svg{transition:none}.header-socials a:is(:hover,:focus-visible),.header-socials a:is(:hover,:focus-visible) svg{transform:none}}
+
+/* The compact group invite follows the main X profile on its right. */
+.header-socials .x-group-channel{box-sizing:border-box;height:40px;width:auto;min-width:0;gap:7px;padding:0 11px;border-color:#cb813e;background:linear-gradient(145deg,#392314f2,#19110bf2);color:#ffe4bf;font:11px/1.2 'Courier New',monospace;white-space:nowrap;flex:none}
+.header-socials .x-group-channel svg{width:18px;height:18px}
+@media(max-width:760px){.header-socials .x-group-channel{width:36px;min-width:36px;height:40px;padding:0}.x-group-channel span{display:none}.site-header.scrolled .x-group-channel{width:34px;min-width:34px}}
+@media(max-width:360px){.header-socials .x-group-channel{width:33px;min-width:33px}}
+@media(max-width:350px){.site-header.scrolled .x-group-channel{width:32px;min-width:32px}}

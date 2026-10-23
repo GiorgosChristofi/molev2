@@ -1,0 +1,218 @@
+.ui-arrow {
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    flex: 0 0 19px;
+    vertical-align: middle;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.7;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    overflow: visible
+}
+
+.trade-actions .ui-arrow {
+    align-self: center
+}
+
+.mini .ui-arrow {
+    align-self: center;
+    margin-left: 7px;
+    width: 15px;
+    height: 15px;
+    flex: 0 0 15px
+}
+
+@media(max-width:760px) {
+    .site-header.scrolled {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        left: 4%;
+        right: 4%;
+        top: 8px;
+        padding: 6px 10px;
+        min-height: 54px;
+        border-radius: 7px
+    }
+
+    .site-header.scrolled .brand {
+        width: 70px;
+        flex: 0 0 70px
+    }
+
+    .site-header.scrolled .navigation {
+        display: contents
+    }
+
+    .site-header.scrolled .header-socials {
+        display: flex;
+        justify-content: flex-end;
+        gap: 8px;
+        padding: 0;
+        min-width: 0
+    }
+
+    .site-header.scrolled .mole-channel {
+        height: 40px;
+        width: 36px;
+        min-width: 36px;
+        padding: 0;
+        gap: 0
+    }
+
+    .site-header.scrolled .mole-channel>span {
+        display: none
+    }
+
+    .site-header.scrolled .shorts-channels {
+        gap: 5px;
+        padding-left: 8px
+    }
+
+    .site-header.scrolled .shorts-channels a {
+        width: 34px;
+        height: 40px;
+        border-radius: 7px
+    }
+
+    .site-header.scrolled .header-socials svg {
+        width: 18px;
+        height: 18px
+    }
+
+    .site-header.scrolled .shorts-caption {
+        display: none
+    }
+
+    .community,
+    .page-section,
+    .origin-token {
+        scroll-margin-top: 84px
+    }
+
+    .ui-arrow {
+        width: 18px;
+        height: 18px;
+        flex-basis: 18px
+    }
+}
+
+@media(max-width:350px) {
+    .site-header.scrolled {
+        gap: 6px;
+        padding-inline: 8px
+    }
+
+    .site-header.scrolled .brand {
+        width: 60px;
+        flex-basis: 60px
+    }
+
+    .site-header.scrolled .header-socials {
+        gap: 6px
+    }
+
+    .site-header.scrolled .shorts-channels {
+        gap: 4px;
+        padding-left: 6px
+    }
+
+    .site-header.scrolled .shorts-channels a {
+        width: 32px
+    }
+}
+
+/* Keep the invitation identifiable when the phone header collapses. */
+.x-group-channel .group-label-short {
+    display: none
+}
+
+@media(max-width:760px) {
+    .header-socials {
+        gap: 8px
+    }
+
+    .header-socials .x-group-channel,
+    .site-header.scrolled .x-group-channel {
+        width: 64px;
+        min-width: 64px;
+        gap: 6px;
+        padding: 0 7px;
+        font-size: 10px
+    }
+
+    .x-group-channel .group-label-full {
+        display: none
+    }
+
+    .x-group-channel .group-label-short {
+        display: inline
+    }
+}
+
+@media(max-width:360px) {
+    .header-socials .mole-channel {
+        width: 36px;
+        min-width: 36px;
+        padding: 0;
+        gap: 0
+    }
+
+    .header-socials .mole-channel>span {
+        display: none
+    }
+
+    .header-socials {
+        gap: 6px
+    }
+}
+
+@media(max-width:350px) {
+    .site-header.scrolled .brand {
+        width: 50px;
+        flex-basis: 50px
+    }
+
+    .site-header.scrolled .mole-channel {
+        width: 32px;
+        min-width: 32px
+    }
+
+    .site-header.scrolled .header-socials {
+        gap: 5px
+    }
+
+    .site-header.scrolled .x-group-channel {
+        width: 60px;
+        min-width: 60px;
+        padding: 0 6px;
+        gap: 5px
+    }
+}
+
+/* Bring the mobile interaction closer to the artwork and shorten the first screen. */
+@media(max-width:620px) {
+    .hero {
+        height: clamp(560px, 76svh, 660px);
+        min-height: 0
+    }
+
+    .hero .stage {
+        top: 148px
+    }
+
+    .hero .touch-light {
+        top: calc(148px + 56.25vw + 22px);
+        bottom: auto;
+        min-height: 44px;
+        padding: 11px 18px;
+        font-size: 11px
+    }
+
+    .hero .scroll-cue {
+        bottom: 26px
+    }
+}

@@ -1,0 +1,54 @@
+{
+  "rarityEnabled": false,
+  "defaultTier": "tier-01",
+  "timing": {
+    "activation": 360,
+    "roll": 4300,
+    "capture": 240,
+    "transport": 550,
+    "unlock": 260,
+    "opening": 850
+  },
+  "tiers": [
+    {
+      "id": "tier-01",
+      "label": "Tier I",
+      "selectionWeight": null,
+      "characters": [],
+      "accent": "#ff881f",
+      "level": 1,
+      "rollMultiplier": 1,
+      "openingMultiplier": 1
+    },
+    {
+      "id": "tier-02",
+      "label": "Tier II",
+      "selectionWeight": null,
+      "characters": [],
+      "accent": "#ffc168",
+      "level": 2,
+      "rollMultiplier": 1.08,
+      "openingMultiplier": 1.1
+    },
+    {
+      "id": "tier-03",
+      "label": "Tier III",
+      "selectionWeight": null,
+      "characters": [],
+      "accent": "#f5bd43",
+      "level": 3,
+      "rollMultiplier": 1.16,
+      "openingMultiplier": 1.2
+    },
+    {
+      "id": "tier-04",
+      "label": "Tier IV",
+      "selectionWeight": null,
+      "characters": [],
+      "accent": "#ff9b34",
+      "level": 4,
+      "rollMultiplier": 1.25,
+      "openingMultiplier": 1.45
+    }
+  ]
+}

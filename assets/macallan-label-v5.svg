@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 515">
+ <defs>
+  <linearGradient id="paper" x2="1" y2=".12"><stop stop-color="#d3ba85"/><stop offset=".25" stop-color="#f8edd1"/><stop offset=".72" stop-color="#eee0bb"/><stop offset="1" stop-color="#c9ac72"/></linearGradient>
+ </defs>
+ <path fill="url(#paper)" stroke="#816339" stroke-width="5" d="M3 3H337V512H3Z"/>
+ <path fill="none" stroke="#9b8051" stroke-width="1.5" d="M15 15H325V500H15Z"/>
+ <g fill="#211b14" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+  <path d="M142 41L170 26 198 41 185 48H154Z" fill="#796640"/>
+  <text x="170" y="79" font-size="25" letter-spacing="3">THE</text>
+  <text x="170" y="125" font-size="43" font-weight="bold" textLength="290" lengthAdjust="spacingAndGlyphs">MACALLAN</text>
+  <path stroke="#7a6748" stroke-width="1.6" d="M63 145H277"/>
+  <text x="170" y="174" font-size="16" letter-spacing="2">HIGHLAND SINGLE MALT</text>
+  <text x="170" y="289" font-size="105" font-weight="bold" textLength="266" lengthAdjust="spacingAndGlyphs">1926</text>
+  <text x="170" y="342" font-size="27" letter-spacing="3">FINE &amp; RARE</text>
+  <text x="170" y="377" font-size="16" letter-spacing="1.8">SCOTCH WHISKY</text>
+  <path stroke="#7a6748" stroke-width="1.4" d="M75 403H265"/>
+  <text x="170" y="436" font-size="20" letter-spacing="2">AGED 60 YEARS</text>
+  <text x="170" y="477" font-size="12" letter-spacing="2">THE MACALLAN DISTILLERY</text>
+ </g>
+</svg>

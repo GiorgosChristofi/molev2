@@ -1,0 +1,4278 @@
+[
+  {
+    "name": "Ai Hoshino",
+    "slug": "ai-hoshino",
+    "preview": "../identity-paradox/collection/thumbs/ai-hoshino.webp",
+    "original": "../identity-paradox/collection/originals/Ai%20Hoshino.png",
+    "filename": "Ai Hoshino.png"
+  },
+  {
+    "name": "Ainz Ooal Gown",
+    "slug": "ainz-ooal-gown",
+    "preview": "../identity-paradox/collection/thumbs/ainz-ooal-gown.webp",
+    "original": "../identity-paradox/collection/originals/Ainz%20Ooal%20Gown.png",
+    "filename": "Ainz Ooal Gown.png"
+  },
+  {
+    "name": "Akaza",
+    "slug": "akaza",
+    "preview": "../identity-paradox/collection/thumbs/akaza.webp",
+    "original": "../identity-paradox/collection/originals/Akaza.png",
+    "filename": "Akaza.png"
+  },
+  {
+    "name": "Akeno Himejima",
+    "slug": "akeno-himejima",
+    "preview": "../identity-paradox/collection/thumbs/akeno-himejima.webp",
+    "original": "../identity-paradox/collection/originals/Akeno%20Himejima.png",
+    "filename": "Akeno Himejima.png"
+  },
+  {
+    "name": "Aki Hayakawa",
+    "slug": "aki-hayakawa",
+    "preview": "../identity-paradox/collection/thumbs/aki-hayakawa.webp",
+    "original": "../identity-paradox/collection/originals/Aki%20Hayakawa.png",
+    "filename": "Aki Hayakawa.png"
+  },
+  {
+    "name": "Albedo",
+    "slug": "albedo",
+    "preview": "../identity-paradox/collection/thumbs/albedo.webp",
+    "original": "../identity-paradox/collection/originals/Albedo.png",
+    "filename": "Albedo.png"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "slug": "albus-dumbledore",
+    "preview": "../identity-paradox/collection/thumbs/albus-dumbledore.webp",
+    "original": "../identity-paradox/collection/originals/Albus%20Dumbledore.png",
+    "filename": "Albus Dumbledore.png"
+  },
+  {
+    "name": "Alexander Anderson",
+    "slug": "alexander-anderson",
+    "preview": "../identity-paradox/collection/thumbs/alexander-anderson.webp",
+    "original": "../identity-paradox/collection/originals/Alexander%20Anderson.png",
+    "filename": "Alexander Anderson.png"
+  },
+  {
+    "name": "All Might",
+    "slug": "all-might",
+    "preview": "../identity-paradox/collection/thumbs/all-might.webp",
+    "original": "../identity-paradox/collection/originals/All%20Might.png",
+    "filename": "All Might.png"
+  },
+  {
+    "name": "Alphonse Elric",
+    "slug": "alphonse-elric",
+    "preview": "../identity-paradox/collection/thumbs/alphonse-elric.webp",
+    "original": "../identity-paradox/collection/originals/Alphonse%20Elric.png",
+    "filename": "Alphonse Elric.png"
+  },
+  {
+    "name": "Alucard",
+    "slug": "alucard",
+    "preview": "../identity-paradox/collection/thumbs/alucard.webp",
+    "original": "../identity-paradox/collection/originals/Alucard.png",
+    "filename": "Alucard.png"
+  },
+  {
+    "name": "Android 18",
+    "slug": "android-18",
+    "preview": "../identity-paradox/collection/thumbs/android-18.webp",
+    "original": "../identity-paradox/collection/originals/Android%2018.png",
+    "filename": "Android 18.png"
+  },
+  {
+    "name": "Anya Forger",
+    "slug": "anya-forger",
+    "preview": "../identity-paradox/collection/thumbs/anya-forger.webp",
+    "original": "../identity-paradox/collection/originals/Anya%20Forger.png",
+    "filename": "Anya Forger.png"
+  },
+  {
+    "name": "Aoi Todo",
+    "slug": "aoi-todo",
+    "preview": "../identity-paradox/collection/thumbs/aoi-todo.webp",
+    "original": "../identity-paradox/collection/originals/Aoi%20Todo.png",
+    "filename": "Aoi Todo.png"
+  },
+  {
+    "name": "Aqua Hoshino",
+    "slug": "aqua-hoshino",
+    "preview": "../identity-paradox/collection/thumbs/aqua-hoshino.webp",
+    "original": "../identity-paradox/collection/originals/Aqua%20Hoshino.png",
+    "filename": "Aqua Hoshino.png"
+  },
+  {
+    "name": "Aquaman",
+    "slug": "aquaman",
+    "preview": "../identity-paradox/collection/thumbs/aquaman.webp",
+    "original": "../identity-paradox/collection/originals/Aquaman.png",
+    "filename": "Aquaman.png"
+  },
+  {
+    "name": "Archer EMIYA",
+    "slug": "archer-emiya",
+    "preview": "../identity-paradox/collection/thumbs/archer-emiya.webp",
+    "original": "../identity-paradox/collection/originals/Archer%20EMIYA.png",
+    "filename": "Archer EMIYA.png"
+  },
+  {
+    "name": "Arthur Mitchell",
+    "slug": "arthur-mitchell",
+    "preview": "../identity-paradox/collection/thumbs/arthur-mitchell.webp",
+    "original": "../identity-paradox/collection/originals/Arthur%20Mitchell.png",
+    "filename": "Arthur Mitchell.png"
+  },
+  {
+    "name": "Askeladd",
+    "slug": "askeladd",
+    "preview": "../identity-paradox/collection/thumbs/askeladd.webp",
+    "original": "../identity-paradox/collection/originals/Askeladd.png",
+    "filename": "Askeladd.png"
+  },
+  {
+    "name": "Asta",
+    "slug": "asta",
+    "preview": "../identity-paradox/collection/thumbs/asta.webp",
+    "original": "../identity-paradox/collection/originals/Asta.png",
+    "filename": "Asta.png"
+  },
+  {
+    "name": "Asuka Langley",
+    "slug": "asuka-langley",
+    "preview": "../identity-paradox/collection/thumbs/asuka-langley.webp",
+    "original": "../identity-paradox/collection/originals/Asuka%20Langley.png",
+    "filename": "Asuka Langley.png"
+  },
+  {
+    "name": "Asuna Yuuki",
+    "slug": "asuna-yuuki",
+    "preview": "../identity-paradox/collection/thumbs/asuna-yuuki.webp",
+    "original": "../identity-paradox/collection/originals/Asuna%20Yuuki.png",
+    "filename": "Asuna Yuuki.png"
+  },
+  {
+    "name": "Austrian Painter",
+    "slug": "austrian-painter",
+    "preview": "../identity-paradox/collection/thumbs/austrian-painter.webp",
+    "original": "../identity-paradox/collection/originals/Austrian%20Painter.png",
+    "filename": "Austrian Painter.png"
+  },
+  {
+    "name": "Beatrice",
+    "slug": "beatrice",
+    "preview": "../identity-paradox/collection/thumbs/beatrice.webp",
+    "original": "../identity-paradox/collection/originals/Beatrice.png",
+    "filename": "Beatrice.png"
+  },
+  {
+    "name": "Beerus",
+    "slug": "beerus",
+    "preview": "../identity-paradox/collection/thumbs/beerus.webp",
+    "original": "../identity-paradox/collection/originals/Beerus.png",
+    "filename": "Beerus.png"
+  },
+  {
+    "name": "Ben 10",
+    "slug": "ben-10",
+    "preview": "../identity-paradox/collection/thumbs/ben-10.webp",
+    "original": "../identity-paradox/collection/originals/Ben%2010.png",
+    "filename": "Ben 10.png"
+  },
+  {
+    "name": "Benimaru Shinmon",
+    "slug": "benimaru-shinmon",
+    "preview": "../identity-paradox/collection/thumbs/benimaru-shinmon.webp",
+    "original": "../identity-paradox/collection/originals/Benimaru%20Shinmon.png",
+    "filename": "Benimaru Shinmon.png"
+  },
+  {
+    "name": "Bill Cipher",
+    "slug": "bill-cipher",
+    "preview": "../identity-paradox/collection/thumbs/bill-cipher.webp",
+    "original": "../identity-paradox/collection/originals/Bill%20Cipher.png",
+    "filename": "Bill Cipher.png"
+  },
+  {
+    "name": "Black Widow",
+    "slug": "black-widow",
+    "preview": "../identity-paradox/collection/thumbs/black-widow.webp",
+    "original": "../identity-paradox/collection/originals/Black%20Widow.png",
+    "filename": "Black Widow.png"
+  },
+  {
+    "name": "Boa Hancock",
+    "slug": "boa-hancock",
+    "preview": "../identity-paradox/collection/thumbs/boa-hancock.webp",
+    "original": "../identity-paradox/collection/originals/Boa%20Hancock.png",
+    "filename": "Boa Hancock.png"
+  },
+  {
+    "name": "Bojji",
+    "slug": "bojji",
+    "preview": "../identity-paradox/collection/thumbs/bojji.webp",
+    "original": "../identity-paradox/collection/originals/Bojji.png",
+    "filename": "Bojji.png"
+  },
+  {
+    "name": "Brian Griffin",
+    "slug": "brian-griffin",
+    "preview": "../identity-paradox/collection/thumbs/brian-griffin.webp",
+    "original": "../identity-paradox/collection/originals/Brian%20Griffin.png",
+    "filename": "Brian Griffin.png"
+  },
+  {
+    "name": "Broly",
+    "slug": "broly",
+    "preview": "../identity-paradox/collection/thumbs/broly.webp",
+    "original": "../identity-paradox/collection/originals/Broly.png",
+    "filename": "Broly.png"
+  },
+  {
+    "name": "Broly Super Saiyan",
+    "slug": "broly-super-saiyan",
+    "preview": "../identity-paradox/collection/thumbs/broly-super-saiyan.webp",
+    "original": "../identity-paradox/collection/originals/Broly%20Super%20Saiyan.png",
+    "filename": "Broly Super Saiyan.png"
+  },
+  {
+    "name": "Brook",
+    "slug": "brook",
+    "preview": "../identity-paradox/collection/thumbs/brook.webp",
+    "original": "../identity-paradox/collection/originals/Brook.png",
+    "filename": "Brook.png"
+  },
+  {
+    "name": "Buggy",
+    "slug": "buggy",
+    "preview": "../identity-paradox/collection/thumbs/buggy.webp",
+    "original": "../identity-paradox/collection/originals/Buggy.png",
+    "filename": "Buggy.png"
+  },
+  {
+    "name": "Byakuya Kuchiki",
+    "slug": "byakuya-kuchiki",
+    "preview": "../identity-paradox/collection/thumbs/byakuya-kuchiki.webp",
+    "original": "../identity-paradox/collection/originals/Byakuya%20Kuchiki.png",
+    "filename": "Byakuya Kuchiki.png"
+  },
+  {
+    "name": "Captain Marvel",
+    "slug": "captain-marvel",
+    "preview": "../identity-paradox/collection/thumbs/captain-marvel.webp",
+    "original": "../identity-paradox/collection/originals/Captain%20Marvel.png",
+    "filename": "Captain Marvel.png"
+  },
+  {
+    "name": "Catwoman",
+    "slug": "catwoman",
+    "preview": "../identity-paradox/collection/thumbs/catwoman.webp",
+    "original": "../identity-paradox/collection/originals/Catwoman.png",
+    "filename": "Catwoman.png"
+  },
+  {
+    "name": "Cell",
+    "slug": "cell",
+    "preview": "../identity-paradox/collection/thumbs/cell.webp",
+    "original": "../identity-paradox/collection/originals/Cell.png",
+    "filename": "Cell.png"
+  },
+  {
+    "name": "Charizard",
+    "slug": "charizard",
+    "preview": "../identity-paradox/collection/thumbs/charizard.webp",
+    "original": "../identity-paradox/collection/originals/Charizard.png",
+    "filename": "Charizard.png"
+  },
+  {
+    "name": "Chewbacca",
+    "slug": "chewbacca",
+    "preview": "../identity-paradox/collection/thumbs/chewbacca.webp",
+    "original": "../identity-paradox/collection/originals/Chewbacca.png",
+    "filename": "Chewbacca.png"
+  },
+  {
+    "name": "Chihiro Ogino",
+    "slug": "chihiro-ogino",
+    "preview": "../identity-paradox/collection/thumbs/chihiro-ogino.webp",
+    "original": "../identity-paradox/collection/originals/Chihiro%20Ogino.png",
+    "filename": "Chihiro Ogino.png"
+  },
+  {
+    "name": "Chika Fujiwara",
+    "slug": "chika-fujiwara",
+    "preview": "../identity-paradox/collection/thumbs/chika-fujiwara.webp",
+    "original": "../identity-paradox/collection/originals/Chika%20Fujiwara.png",
+    "filename": "Chika Fujiwara.png"
+  },
+  {
+    "name": "Chikorita",
+    "slug": "chikorita",
+    "preview": "../identity-paradox/collection/thumbs/chikorita.webp",
+    "original": "../identity-paradox/collection/originals/Chikorita.png",
+    "filename": "Chikorita.png"
+  },
+  {
+    "name": "Choso",
+    "slug": "choso",
+    "preview": "../identity-paradox/collection/thumbs/choso.webp",
+    "original": "../identity-paradox/collection/originals/Choso.png",
+    "filename": "Choso.png"
+  },
+  {
+    "name": "Christopher Moltisanti",
+    "slug": "christopher-moltisanti",
+    "preview": "../identity-paradox/collection/thumbs/christopher-moltisanti.webp",
+    "original": "../identity-paradox/collection/originals/Christopher%20Moltisanti.png",
+    "filename": "Christopher Moltisanti.png"
+  },
+  {
+    "name": "Chrollo Lucilfer",
+    "slug": "chrollo-lucilfer",
+    "preview": "../identity-paradox/collection/thumbs/chrollo-lucilfer.webp",
+    "original": "../identity-paradox/collection/originals/Chrollo%20Lucilfer.png",
+    "filename": "Chrollo Lucilfer.png"
+  },
+  {
+    "name": "Chucky",
+    "slug": "chucky",
+    "preview": "../identity-paradox/collection/thumbs/chucky.webp",
+    "original": "../identity-paradox/collection/originals/Chucky.png",
+    "filename": "Chucky.png"
+  },
+  {
+    "name": "Crocodile",
+    "slug": "crocodile",
+    "preview": "../identity-paradox/collection/thumbs/crocodile.webp",
+    "original": "../identity-paradox/collection/originals/Crocodile.png",
+    "filename": "Crocodile.png"
+  },
+  {
+    "name": "Dabi",
+    "slug": "dabi",
+    "preview": "../identity-paradox/collection/thumbs/dabi.webp",
+    "original": "../identity-paradox/collection/originals/Dabi.png",
+    "filename": "Dabi.png"
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "slug": "daenerys-targaryen",
+    "preview": "../identity-paradox/collection/thumbs/daenerys-targaryen.webp",
+    "original": "../identity-paradox/collection/originals/Daenerys%20Targaryen.png",
+    "filename": "Daenerys Targaryen.png"
+  },
+  {
+    "name": "Daphne Blake",
+    "slug": "daphne-blake",
+    "preview": "../identity-paradox/collection/thumbs/daphne-blake.webp",
+    "original": "../identity-paradox/collection/originals/Daphne%20Blake.png",
+    "filename": "Daphne Blake.png"
+  },
+  {
+    "name": "Darkrai",
+    "slug": "darkrai",
+    "preview": "../identity-paradox/collection/thumbs/darkrai.webp",
+    "original": "../identity-paradox/collection/originals/Darkrai.png",
+    "filename": "Darkrai.png"
+  },
+  {
+    "name": "Darth Maul",
+    "slug": "darth-maul",
+    "preview": "../identity-paradox/collection/thumbs/darth-maul.webp",
+    "original": "../identity-paradox/collection/originals/Darth%20Maul.png",
+    "filename": "Darth Maul.png"
+  },
+  {
+    "name": "David Martinez",
+    "slug": "david-martinez",
+    "preview": "../identity-paradox/collection/thumbs/david-martinez.webp",
+    "original": "../identity-paradox/collection/originals/David%20Martinez.png",
+    "filename": "David Martinez.png"
+  },
+  {
+    "name": "Davy Jones",
+    "slug": "davy-jones",
+    "preview": "../identity-paradox/collection/thumbs/davy-jones.webp",
+    "original": "../identity-paradox/collection/originals/Davy%20Jones.png",
+    "filename": "Davy Jones.png"
+  },
+  {
+    "name": "Debra Morgan",
+    "slug": "debra-morgan",
+    "preview": "../identity-paradox/collection/thumbs/debra-morgan.webp",
+    "original": "../identity-paradox/collection/originals/Debra%20Morgan.png",
+    "filename": "Debra Morgan.png"
+  },
+  {
+    "name": "Decim",
+    "slug": "decim",
+    "preview": "../identity-paradox/collection/thumbs/decim.webp",
+    "original": "../identity-paradox/collection/originals/Decim.png",
+    "filename": "Decim.png"
+  },
+  {
+    "name": "Deidara",
+    "slug": "deidara",
+    "preview": "../identity-paradox/collection/thumbs/deidara.webp",
+    "original": "../identity-paradox/collection/originals/Deidara.png",
+    "filename": "Deidara.png"
+  },
+  {
+    "name": "Denji",
+    "slug": "denji",
+    "preview": "../identity-paradox/collection/thumbs/denji.webp",
+    "original": "../identity-paradox/collection/originals/Denji.png",
+    "filename": "Denji.png"
+  },
+  {
+    "name": "Dexter Morgan",
+    "slug": "dexter-morgan",
+    "preview": "../identity-paradox/collection/thumbs/dexter-morgan.webp",
+    "original": "../identity-paradox/collection/originals/Dexter%20Morgan.png",
+    "filename": "Dexter Morgan.png"
+  },
+  {
+    "name": "Dialga",
+    "slug": "dialga",
+    "preview": "../identity-paradox/collection/thumbs/dialga.webp",
+    "original": "../identity-paradox/collection/originals/Dialga.png",
+    "filename": "Dialga.png"
+  },
+  {
+    "name": "Diamondhead",
+    "slug": "diamondhead",
+    "preview": "../identity-paradox/collection/thumbs/diamondhead.webp",
+    "original": "../identity-paradox/collection/originals/Diamondhead.png",
+    "filename": "Diamondhead.png"
+  },
+  {
+    "name": "Dio Brando",
+    "slug": "dio-brando",
+    "preview": "../identity-paradox/collection/thumbs/dio-brando.webp",
+    "original": "../identity-paradox/collection/originals/Dio%20Brando.png",
+    "filename": "Dio Brando.png"
+  },
+  {
+    "name": "Dipper Pines",
+    "slug": "dipper-pines",
+    "preview": "../identity-paradox/collection/thumbs/dipper-pines.webp",
+    "original": "../identity-paradox/collection/originals/Dipper%20Pines.png",
+    "filename": "Dipper Pines.png"
+  },
+  {
+    "name": "Doctor Doom",
+    "slug": "doctor-doom",
+    "preview": "../identity-paradox/collection/thumbs/doctor-doom.webp",
+    "original": "../identity-paradox/collection/originals/Doctor%20Doom.png",
+    "filename": "Doctor Doom.png"
+  },
+  {
+    "name": "Doctor Strange",
+    "slug": "doctor-strange",
+    "preview": "../identity-paradox/collection/thumbs/doctor-strange.webp",
+    "original": "../identity-paradox/collection/originals/Doctor%20Strange.png",
+    "filename": "Doctor Strange.png"
+  },
+  {
+    "name": "Doma",
+    "slug": "doma",
+    "preview": "../identity-paradox/collection/thumbs/doma.webp",
+    "original": "../identity-paradox/collection/originals/Doma.png",
+    "filename": "Doma.png"
+  },
+  {
+    "name": "Donquixote Doflamingo",
+    "slug": "donquixote-doflamingo",
+    "preview": "../identity-paradox/collection/thumbs/donquixote-doflamingo.webp",
+    "original": "../identity-paradox/collection/originals/Donquixote%20Doflamingo.png",
+    "filename": "Donquixote Doflamingo.png"
+  },
+  {
+    "name": "Dorio",
+    "slug": "dorio",
+    "preview": "../identity-paradox/collection/thumbs/dorio.webp",
+    "original": "../identity-paradox/collection/originals/Dorio.png",
+    "filename": "Dorio.png"
+  },
+  {
+    "name": "Dr Doofenshmirtz",
+    "slug": "dr-doofenshmirtz",
+    "preview": "../identity-paradox/collection/thumbs/dr-doofenshmirtz.webp",
+    "original": "../identity-paradox/collection/originals/Dr%20Doofenshmirtz.png",
+    "filename": "Dr Doofenshmirtz.png"
+  },
+  {
+    "name": "Dracule Mihawk",
+    "slug": "dracule-mihawk",
+    "preview": "../identity-paradox/collection/thumbs/dracule-mihawk.webp",
+    "original": "../identity-paradox/collection/originals/Dracule%20Mihawk.png",
+    "filename": "Dracule Mihawk.png"
+  },
+  {
+    "name": "Edward Elric",
+    "slug": "edward-elric",
+    "preview": "../identity-paradox/collection/thumbs/edward-elric.webp",
+    "original": "../identity-paradox/collection/originals/Edward%20Elric.png",
+    "filename": "Edward Elric.png"
+  },
+  {
+    "name": "Emilia",
+    "slug": "emilia",
+    "preview": "../identity-paradox/collection/thumbs/emilia.webp",
+    "original": "../identity-paradox/collection/originals/Emilia.png",
+    "filename": "Emilia.png"
+  },
+  {
+    "name": "Emma",
+    "slug": "emma",
+    "preview": "../identity-paradox/collection/thumbs/emma.webp",
+    "original": "../identity-paradox/collection/originals/Emma.png",
+    "filename": "Emma.png"
+  },
+  {
+    "name": "Emul",
+    "slug": "emul",
+    "preview": "../identity-paradox/collection/thumbs/emul.webp",
+    "original": "../identity-paradox/collection/originals/Emul.png",
+    "filename": "Emul.png"
+  },
+  {
+    "name": "Eren Yeager",
+    "slug": "eren-yeager",
+    "preview": "../identity-paradox/collection/thumbs/eren-yeager.webp",
+    "original": "../identity-paradox/collection/originals/Eren%20Yeager.png",
+    "filename": "Eren Yeager.png"
+  },
+  {
+    "name": "Erza Scarlet",
+    "slug": "erza-scarlet",
+    "preview": "../identity-paradox/collection/thumbs/erza-scarlet.webp",
+    "original": "../identity-paradox/collection/originals/Erza%20Scarlet.png",
+    "filename": "Erza Scarlet.png"
+  },
+  {
+    "name": "Escanor",
+    "slug": "escanor",
+    "preview": "../identity-paradox/collection/thumbs/escanor.webp?v=39",
+    "original": "../identity-paradox/collection/originals/Escanor.png?v=39",
+    "filename": "Escanor.png",
+    "capsulePreview": "assets/capsule-previews/escanor-v39.webp"
+  },
+  {
+    "name": "Falcon",
+    "slug": "falcon",
+    "preview": "../identity-paradox/collection/thumbs/falcon.webp",
+    "original": "../identity-paradox/collection/originals/Falcon.png",
+    "filename": "Falcon.png"
+  },
+  {
+    "name": "Fat Majin Buu",
+    "slug": "fat-majin-buu",
+    "preview": "../identity-paradox/collection/thumbs/fat-majin-buu.webp",
+    "original": "../identity-paradox/collection/originals/Fat%20Majin%20Buu.png",
+    "filename": "Fat Majin Buu.png"
+  },
+  {
+    "name": "Ferb",
+    "slug": "ferb",
+    "preview": "../identity-paradox/collection/thumbs/ferb.webp",
+    "original": "../identity-paradox/collection/originals/Ferb.png",
+    "filename": "Ferb.png"
+  },
+  {
+    "name": "Ferb 2",
+    "slug": "ferb-2",
+    "preview": "../identity-paradox/collection/thumbs/ferb-2.webp",
+    "original": "../identity-paradox/collection/originals/Ferb%202.png",
+    "filename": "Ferb 2.png"
+  },
+  {
+    "name": "Fern",
+    "slug": "fern",
+    "preview": "../identity-paradox/collection/thumbs/fern.webp",
+    "original": "../identity-paradox/collection/originals/Fern.png",
+    "filename": "Fern.png"
+  },
+  {
+    "name": "Finn",
+    "slug": "finn",
+    "preview": "../identity-paradox/collection/thumbs/finn.webp",
+    "original": "../identity-paradox/collection/originals/Finn.png",
+    "filename": "Finn.png"
+  },
+  {
+    "name": "Flash",
+    "slug": "flash",
+    "preview": "../identity-paradox/collection/thumbs/flash.webp",
+    "original": "../identity-paradox/collection/originals/Flash.png",
+    "filename": "Flash.png"
+  },
+  {
+    "name": "Four Arms",
+    "slug": "four-arms",
+    "preview": "../identity-paradox/collection/thumbs/four-arms.webp",
+    "original": "../identity-paradox/collection/originals/Four%20Arms.png",
+    "filename": "Four Arms.png"
+  },
+  {
+    "name": "Franken Stein",
+    "slug": "franken-stein",
+    "preview": "../identity-paradox/collection/thumbs/franken-stein.webp",
+    "original": "../identity-paradox/collection/originals/Franken%20Stein.png",
+    "filename": "Franken Stein.png"
+  },
+  {
+    "name": "Franky",
+    "slug": "franky",
+    "preview": "../identity-paradox/collection/thumbs/franky.webp",
+    "original": "../identity-paradox/collection/originals/Franky.png",
+    "filename": "Franky.png"
+  },
+  {
+    "name": "Fred Jones",
+    "slug": "fred-jones",
+    "preview": "../identity-paradox/collection/thumbs/fred-jones.webp",
+    "original": "../identity-paradox/collection/originals/Fred%20Jones.png",
+    "filename": "Fred Jones.png"
+  },
+  {
+    "name": "Freddy Krueger",
+    "slug": "freddy-krueger",
+    "preview": "../identity-paradox/collection/thumbs/freddy-krueger.webp",
+    "original": "../identity-paradox/collection/originals/Freddy%20Krueger.png",
+    "filename": "Freddy Krueger.png"
+  },
+  {
+    "name": "Frieren",
+    "slug": "frieren",
+    "preview": "../identity-paradox/collection/thumbs/frieren.webp",
+    "original": "../identity-paradox/collection/originals/Frieren.png",
+    "filename": "Frieren.png"
+  },
+  {
+    "name": "Frieza",
+    "slug": "frieza",
+    "preview": "../identity-paradox/collection/thumbs/frieza.webp",
+    "original": "../identity-paradox/collection/originals/Frieza.png",
+    "filename": "Frieza.png"
+  },
+  {
+    "name": "Frodo Baggins",
+    "slug": "frodo-baggins",
+    "preview": "../identity-paradox/collection/thumbs/frodo-baggins.webp",
+    "original": "../identity-paradox/collection/originals/Frodo%20Baggins.png",
+    "filename": "Frodo Baggins.png"
+  },
+  {
+    "name": "Gaara",
+    "slug": "gaara",
+    "preview": "../identity-paradox/collection/thumbs/gaara.webp",
+    "original": "../identity-paradox/collection/originals/Gaara.png",
+    "filename": "Gaara.png"
+  },
+  {
+    "name": "Gandalf",
+    "slug": "gandalf",
+    "preview": "../identity-paradox/collection/thumbs/gandalf.webp",
+    "original": "../identity-paradox/collection/originals/Gandalf.png",
+    "filename": "Gandalf.png"
+  },
+  {
+    "name": "Garou",
+    "slug": "garou",
+    "preview": "../identity-paradox/collection/thumbs/garou.webp",
+    "original": "../identity-paradox/collection/originals/Garou.png",
+    "filename": "Garou.png"
+  },
+  {
+    "name": "Genos",
+    "slug": "genos",
+    "preview": "../identity-paradox/collection/thumbs/genos.webp",
+    "original": "../identity-paradox/collection/originals/Genos.png",
+    "filename": "Genos.png"
+  },
+  {
+    "name": "Ghost Rider",
+    "slug": "ghost-rider",
+    "preview": "../identity-paradox/collection/thumbs/ghost-rider.webp",
+    "original": "../identity-paradox/collection/originals/Ghost%20Rider.png",
+    "filename": "Ghost Rider.png"
+  },
+  {
+    "name": "Ghostface",
+    "slug": "ghostface",
+    "preview": "../identity-paradox/collection/thumbs/ghostface.webp",
+    "original": "../identity-paradox/collection/originals/Ghostface.png",
+    "filename": "Ghostface.png"
+  },
+  {
+    "name": "Gilgamesh",
+    "slug": "gilgamesh",
+    "preview": "../identity-paradox/collection/thumbs/gilgamesh.webp",
+    "original": "../identity-paradox/collection/originals/Gilgamesh.png",
+    "filename": "Gilgamesh.png"
+  },
+  {
+    "name": "Gimli",
+    "slug": "gimli",
+    "preview": "../identity-paradox/collection/thumbs/gimli.webp",
+    "original": "../identity-paradox/collection/originals/Gimli.png",
+    "filename": "Gimli.png"
+  },
+  {
+    "name": "Gintoki Sakata",
+    "slug": "gintoki-sakata",
+    "preview": "../identity-paradox/collection/thumbs/gintoki-sakata.webp",
+    "original": "../identity-paradox/collection/originals/Gintoki%20Sakata.png",
+    "filename": "Gintoki Sakata.png"
+  },
+  {
+    "name": "Giorno Giovanna",
+    "slug": "giorno-giovanna",
+    "preview": "../identity-paradox/collection/thumbs/giorno-giovanna.webp",
+    "original": "../identity-paradox/collection/originals/Giorno%20Giovanna.png",
+    "filename": "Giorno Giovanna.png"
+  },
+  {
+    "name": "Giratina",
+    "slug": "giratina",
+    "preview": "../identity-paradox/collection/thumbs/giratina.webp",
+    "original": "../identity-paradox/collection/originals/Giratina.png",
+    "filename": "Giratina.png"
+  },
+  {
+    "name": "Glenn Quagmire",
+    "slug": "glenn-quagmire",
+    "preview": "../identity-paradox/collection/thumbs/glenn-quagmire.webp",
+    "original": "../identity-paradox/collection/originals/Glenn%20Quagmire.png",
+    "filename": "Glenn Quagmire.png"
+  },
+  {
+    "name": "Gogeta Super Saiyan",
+    "slug": "gogeta-super-saiyan",
+    "preview": "../identity-paradox/collection/thumbs/gogeta-super-saiyan.webp",
+    "original": "../identity-paradox/collection/originals/Gogeta%20Super%20Saiyan.png",
+    "filename": "Gogeta Super Saiyan.png"
+  },
+  {
+    "name": "Gohan",
+    "slug": "gohan",
+    "preview": "../identity-paradox/collection/thumbs/gohan.webp",
+    "original": "../identity-paradox/collection/originals/Gohan.png",
+    "filename": "Gohan.png"
+  },
+  {
+    "name": "Gohan Super Saiyan",
+    "slug": "gohan-super-saiyan",
+    "preview": "../identity-paradox/collection/thumbs/gohan-super-saiyan.webp",
+    "original": "../identity-paradox/collection/originals/Gohan%20Super%20Saiyan.png",
+    "filename": "Gohan Super Saiyan.png"
+  },
+  {
+    "name": "Goku",
+    "slug": "goku",
+    "preview": "../identity-paradox/collection/thumbs/goku.webp",
+    "original": "../identity-paradox/collection/originals/Goku.png",
+    "filename": "Goku.png"
+  },
+  {
+    "name": "Vegito Super Saiyan",
+    "slug": "vegito-super-saiyan",
+    "preview": "../identity-paradox/collection/thumbs/vegito-super-saiyan.webp",
+    "original": "../identity-paradox/collection/originals/Vegito%20Super%20Saiyan.png",
+    "filename": "Vegito Super Saiyan.png"
+  },
+  {
+    "name": "Goku Super Saiyan 2",
+    "slug": "goku-super-saiyan-2",
+    "preview": "../identity-paradox/collection/thumbs/goku-super-saiyan-2.webp",
+    "original": "../identity-paradox/collection/originals/Goku%20Super%20Saiyan%202.png",
+    "filename": "Goku Super Saiyan 2.png"
+  },
+  {
+    "name": "Gollum",
+    "slug": "gollum",
+    "preview": "../identity-paradox/collection/thumbs/gollum.webp",
+    "original": "../identity-paradox/collection/originals/Gollum.png",
+    "filename": "Gollum.png"
+  },
+  {
+    "name": "Gon Freecss",
+    "slug": "gon-freecss",
+    "preview": "../identity-paradox/collection/thumbs/gon-freecss.webp",
+    "original": "../identity-paradox/collection/originals/Gon%20Freecss.png",
+    "filename": "Gon Freecss.png"
+  },
+  {
+    "name": "Green Lantern",
+    "slug": "green-lantern",
+    "preview": "../identity-paradox/collection/thumbs/green-lantern.webp",
+    "original": "../identity-paradox/collection/originals/Green%20Lantern.png",
+    "filename": "Green Lantern.png"
+  },
+  {
+    "name": "Griffith",
+    "slug": "griffith",
+    "preview": "../identity-paradox/collection/thumbs/griffith.webp",
+    "original": "../identity-paradox/collection/originals/Griffith.png",
+    "filename": "Griffith.png"
+  },
+  {
+    "name": "Grimmjow Jaegerjaquez",
+    "slug": "grimmjow-jaegerjaquez",
+    "preview": "../identity-paradox/collection/thumbs/grimmjow-jaegerjaquez.webp",
+    "original": "../identity-paradox/collection/originals/Grimmjow%20Jaegerjaquez.png",
+    "filename": "Grimmjow Jaegerjaquez.png"
+  },
+  {
+    "name": "Grunkle Stan",
+    "slug": "grunkle-stan",
+    "preview": "../identity-paradox/collection/thumbs/grunkle-stan.webp",
+    "original": "../identity-paradox/collection/originals/Grunkle%20Stan.png",
+    "filename": "Grunkle Stan.png"
+  },
+  {
+    "name": "Guts",
+    "slug": "guts",
+    "preview": "../identity-paradox/collection/thumbs/guts.webp",
+    "original": "../identity-paradox/collection/originals/Guts.png",
+    "filename": "Guts.png"
+  },
+  {
+    "name": "Gyro Zeppeli",
+    "slug": "gyro-zeppeli",
+    "preview": "../identity-paradox/collection/thumbs/gyro-zeppeli.webp",
+    "original": "../identity-paradox/collection/originals/Gyro%20Zeppeli.png",
+    "filename": "Gyro Zeppeli.png"
+  },
+  {
+    "name": "Hannibal Lecter",
+    "slug": "hannibal-lecter",
+    "preview": "../identity-paradox/collection/thumbs/hannibal-lecter.webp",
+    "original": "../identity-paradox/collection/originals/Hannibal%20Lecter.png",
+    "filename": "Hannibal Lecter.png"
+  },
+  {
+    "name": "Harley Quinn",
+    "slug": "harley-quinn",
+    "preview": "../identity-paradox/collection/thumbs/harley-quinn.webp",
+    "original": "../identity-paradox/collection/originals/Harley%20Quinn.png",
+    "filename": "Harley Quinn.png"
+  },
+  {
+    "name": "Harry Potter",
+    "slug": "harry-potter",
+    "preview": "../identity-paradox/collection/thumbs/harry-potter.webp",
+    "original": "../identity-paradox/collection/originals/Harry%20Potter.png",
+    "filename": "Harry Potter.png"
+  },
+  {
+    "name": "Hashirama Senju",
+    "slug": "hashirama-senju",
+    "preview": "../identity-paradox/collection/thumbs/hashirama-senju.webp",
+    "original": "../identity-paradox/collection/originals/Hashirama%20Senju.png",
+    "filename": "Hashirama Senju.png"
+  },
+  {
+    "name": "Hawkeye",
+    "slug": "hawkeye",
+    "preview": "../identity-paradox/collection/thumbs/hawkeye.webp",
+    "original": "../identity-paradox/collection/originals/Hawkeye.png",
+    "filename": "Hawkeye.png"
+  },
+  {
+    "name": "Heatblast",
+    "slug": "heatblast",
+    "preview": "../identity-paradox/collection/thumbs/heatblast.webp",
+    "original": "../identity-paradox/collection/originals/Heatblast.png",
+    "filename": "Heatblast.png"
+  },
+  {
+    "name": "Hector Barbossa",
+    "slug": "hector-barbossa",
+    "preview": "../identity-paradox/collection/thumbs/hector-barbossa.webp",
+    "original": "../identity-paradox/collection/originals/Hector%20Barbossa.png",
+    "filename": "Hector Barbossa.png"
+  },
+  {
+    "name": "Herbert",
+    "slug": "herbert",
+    "preview": "../identity-paradox/collection/thumbs/herbert.webp",
+    "original": "../identity-paradox/collection/originals/Herbert.png",
+    "filename": "Herbert.png"
+  },
+  {
+    "name": "Hidan",
+    "slug": "hidan",
+    "preview": "../identity-paradox/collection/thumbs/hidan.webp",
+    "original": "../identity-paradox/collection/originals/Hidan.png",
+    "filename": "Hidan.png"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "slug": "hinata-hyuga",
+    "preview": "../identity-paradox/collection/thumbs/hinata-hyuga.webp",
+    "original": "../identity-paradox/collection/originals/Hinata%20Hyuga.png",
+    "filename": "Hinata Hyuga.png"
+  },
+  {
+    "name": "Hisoka Morow",
+    "slug": "hisoka-morow",
+    "preview": "../identity-paradox/collection/thumbs/hisoka-morow.webp",
+    "original": "../identity-paradox/collection/originals/Hisoka%20Morow.png",
+    "filename": "Hisoka Morow.png"
+  },
+  {
+    "name": "Homelander",
+    "slug": "homelander",
+    "preview": "../identity-paradox/collection/thumbs/homelander.webp",
+    "original": "../identity-paradox/collection/originals/Homelander.png",
+    "filename": "Homelander.png"
+  },
+  {
+    "name": "Homer Simpson",
+    "slug": "homer-simpson",
+    "preview": "../identity-paradox/collection/thumbs/homer-simpson.webp",
+    "original": "../identity-paradox/collection/originals/Homer%20Simpson.png",
+    "filename": "Homer Simpson.png"
+  },
+  {
+    "name": "Howl Pendragon",
+    "slug": "howl-pendragon",
+    "preview": "../identity-paradox/collection/thumbs/howl-pendragon.webp",
+    "original": "../identity-paradox/collection/originals/Howl%20Pendragon.png",
+    "filename": "Howl Pendragon.png"
+  },
+  {
+    "name": "Hulk",
+    "slug": "hulk",
+    "preview": "../identity-paradox/collection/thumbs/hulk.webp",
+    "original": "../identity-paradox/collection/originals/Hulk.png",
+    "filename": "Hulk.png"
+  },
+  {
+    "name": "Hulk 2",
+    "slug": "hulk-2",
+    "preview": "../identity-paradox/collection/thumbs/hulk-2.webp",
+    "original": "../identity-paradox/collection/originals/Hulk%202.png",
+    "filename": "Hulk 2.png"
+  },
+  {
+    "name": "Human Torch",
+    "slug": "human-torch",
+    "preview": "../identity-paradox/collection/thumbs/human-torch.webp",
+    "original": "../identity-paradox/collection/originals/Human%20Torch.png",
+    "filename": "Human Torch.png"
+  },
+  {
+    "name": "Ichigo Kurosaki",
+    "slug": "ichigo-kurosaki",
+    "preview": "../identity-paradox/collection/thumbs/ichigo-kurosaki.webp",
+    "original": "../identity-paradox/collection/originals/Ichigo%20Kurosaki.png",
+    "filename": "Ichigo Kurosaki.png"
+  },
+  {
+    "name": "Inosuke Hashibira",
+    "slug": "inosuke-hashibira",
+    "preview": "../identity-paradox/collection/thumbs/inosuke-hashibira.webp",
+    "original": "../identity-paradox/collection/originals/Inosuke%20Hashibira.png",
+    "filename": "Inosuke Hashibira.png"
+  },
+  {
+    "name": "Inuyasha",
+    "slug": "inuyasha",
+    "preview": "../identity-paradox/collection/thumbs/inuyasha.webp",
+    "original": "../identity-paradox/collection/originals/Inuyasha.png",
+    "filename": "Inuyasha.png"
+  },
+  {
+    "name": "Invisible Woman",
+    "slug": "invisible-woman",
+    "preview": "../identity-paradox/collection/thumbs/invisible-woman.webp",
+    "original": "../identity-paradox/collection/originals/Invisible%20Woman.png",
+    "filename": "Invisible Woman.png"
+  },
+  {
+    "name": "Isaac Netero",
+    "slug": "isaac-netero",
+    "preview": "../identity-paradox/collection/thumbs/isaac-netero.webp",
+    "original": "../identity-paradox/collection/originals/Isaac%20Netero.png",
+    "filename": "Isaac Netero.png"
+  },
+  {
+    "name": "Issei Hyoudou",
+    "slug": "issei-hyoudou",
+    "preview": "../identity-paradox/collection/thumbs/issei-hyoudou.webp",
+    "original": "../identity-paradox/collection/originals/Issei%20Hyoudou.png",
+    "filename": "Issei Hyoudou.png"
+  },
+  {
+    "name": "Itachi Uchiha",
+    "slug": "itachi-uchiha",
+    "preview": "../identity-paradox/collection/thumbs/itachi-uchiha.webp",
+    "original": "../identity-paradox/collection/originals/Itachi%20Uchiha.png",
+    "filename": "Itachi Uchiha.png"
+  },
+  {
+    "name": "Izuku Midoriya",
+    "slug": "izuku-midoriya",
+    "preview": "../identity-paradox/collection/thumbs/izuku-midoriya.webp",
+    "original": "../identity-paradox/collection/originals/Izuku%20Midoriya.png",
+    "filename": "Izuku Midoriya.png"
+  },
+  {
+    "name": "Jack Sparrow",
+    "slug": "jack-sparrow",
+    "preview": "../identity-paradox/collection/thumbs/jack-sparrow.webp",
+    "original": "../identity-paradox/collection/originals/Jack%20Sparrow.png",
+    "filename": "Jack Sparrow.png"
+  },
+  {
+    "name": "Jake the Dog",
+    "slug": "jake-the-dog",
+    "preview": "../identity-paradox/collection/thumbs/jake-the-dog.webp",
+    "original": "../identity-paradox/collection/originals/Jake%20the%20Dog.png",
+    "filename": "Jake the Dog.png"
+  },
+  {
+    "name": "Jason Voorhees",
+    "slug": "jason-voorhees",
+    "preview": "../identity-paradox/collection/thumbs/jason-voorhees.webp",
+    "original": "../identity-paradox/collection/originals/Jason%20Voorhees.png",
+    "filename": "Jason Voorhees.png"
+  },
+  {
+    "name": "Jesse Pinkman",
+    "slug": "jesse-pinkman",
+    "preview": "../identity-paradox/collection/thumbs/jesse-pinkman.webp",
+    "original": "../identity-paradox/collection/originals/Jesse%20Pinkman.png",
+    "filename": "Jesse Pinkman.png"
+  },
+  {
+    "name": "Jiraiya",
+    "slug": "jiraiya",
+    "preview": "../identity-paradox/collection/thumbs/jiraiya.webp",
+    "original": "../identity-paradox/collection/originals/Jiraiya.png",
+    "filename": "Jiraiya.png"
+  },
+  {
+    "name": "Johan Liebert",
+    "slug": "johan-liebert",
+    "preview": "../identity-paradox/collection/thumbs/johan-liebert.webp",
+    "original": "../identity-paradox/collection/originals/Johan%20Liebert.png",
+    "filename": "Johan Liebert.png"
+  },
+  {
+    "name": "Joker",
+    "slug": "joker",
+    "preview": "../identity-paradox/collection/thumbs/joker.webp",
+    "original": "../identity-paradox/collection/originals/Joker.png",
+    "filename": "Joker.png"
+  },
+  {
+    "name": "Jon Snow",
+    "slug": "jon-snow",
+    "preview": "../identity-paradox/collection/thumbs/jon-snow.webp",
+    "original": "../identity-paradox/collection/originals/Jon%20Snow.png",
+    "filename": "Jon Snow.png"
+  },
+  {
+    "name": "Jotaro Kujo",
+    "slug": "jotaro-kujo",
+    "preview": "../identity-paradox/collection/thumbs/jotaro-kujo.webp",
+    "original": "../identity-paradox/collection/originals/Jotaro%20Kujo.png",
+    "filename": "Jotaro Kujo.png"
+  },
+  {
+    "name": "Kage",
+    "slug": "kage",
+    "preview": "../identity-paradox/collection/thumbs/kage.webp",
+    "original": "../identity-paradox/collection/originals/Kage.png",
+    "filename": "Kage.png"
+  },
+  {
+    "name": "Kaguya Shinomiya",
+    "slug": "kaguya-shinomiya",
+    "preview": "../identity-paradox/collection/thumbs/kaguya-shinomiya.webp",
+    "original": "../identity-paradox/collection/originals/Kaguya%20Shinomiya.png",
+    "filename": "Kaguya Shinomiya.png"
+  },
+  {
+    "name": "Kakashi Hatake",
+    "slug": "kakashi-hatake",
+    "preview": "../identity-paradox/collection/thumbs/kakashi-hatake.webp?v=36",
+    "original": "../identity-paradox/collection/originals/Kakashi%20Hatake.png",
+    "filename": "Kakashi Hatake.png",
+    "capsulePreview": "assets/capsule-previews/kakashi-hatake-v36.webp"
+  },
+  {
+    "name": "Kaori Miyazono",
+    "slug": "kaori-miyazono",
+    "preview": "../identity-paradox/collection/thumbs/kaori-miyazono.webp",
+    "original": "../identity-paradox/collection/originals/Kaori%20Miyazono.png",
+    "filename": "Kaori Miyazono.png"
+  },
+  {
+    "name": "Katakuri",
+    "slug": "katakuri",
+    "preview": "../identity-paradox/collection/thumbs/katakuri.webp",
+    "original": "../identity-paradox/collection/originals/Katakuri.png",
+    "filename": "Katakuri.png"
+  },
+  {
+    "name": "Katsuki Bakugo",
+    "slug": "katsuki-bakugo",
+    "preview": "../identity-paradox/collection/thumbs/katsuki-bakugo.webp",
+    "original": "../identity-paradox/collection/originals/Katsuki%20Bakugo.png",
+    "filename": "Katsuki Bakugo.png"
+  },
+  {
+    "name": "Kaworu Nagisa",
+    "slug": "kaworu-nagisa",
+    "preview": "../identity-paradox/collection/thumbs/kaworu-nagisa.webp",
+    "original": "../identity-paradox/collection/originals/Kaworu%20Nagisa.png",
+    "filename": "Kaworu Nagisa.png"
+  },
+  {
+    "name": "Ken Kaneki",
+    "slug": "ken-kaneki",
+    "preview": "../identity-paradox/collection/thumbs/ken-kaneki.webp",
+    "original": "../identity-paradox/collection/originals/Ken%20Kaneki.png",
+    "filename": "Ken Kaneki.png"
+  },
+  {
+    "name": "Ken Ryuguji",
+    "slug": "ken-ryuguji",
+    "preview": "../identity-paradox/collection/thumbs/ken-ryuguji.webp",
+    "original": "../identity-paradox/collection/originals/Ken%20Ryuguji.png",
+    "filename": "Ken Ryuguji.png"
+  },
+  {
+    "name": "Ken Takakura Okarun",
+    "slug": "ken-takakura-okarun",
+    "preview": "../identity-paradox/collection/thumbs/ken-takakura-okarun.webp",
+    "original": "../identity-paradox/collection/originals/Ken%20Takakura%20Okarun.png",
+    "filename": "Ken Takakura Okarun.png"
+  },
+  {
+    "name": "Kenjaku",
+    "slug": "kenjaku",
+    "preview": "../identity-paradox/collection/thumbs/kenjaku.webp",
+    "original": "../identity-paradox/collection/originals/Kenjaku.png",
+    "filename": "Kenjaku.png"
+  },
+  {
+    "name": "Kenshin Himura",
+    "slug": "kenshin-himura",
+    "preview": "../identity-paradox/collection/thumbs/kenshin-himura.webp",
+    "original": "../identity-paradox/collection/originals/Kenshin%20Himura.png",
+    "filename": "Kenshin Himura.png"
+  },
+  {
+    "name": "Kento Nanami",
+    "slug": "kento-nanami",
+    "preview": "../identity-paradox/collection/thumbs/kento-nanami.webp",
+    "original": "../identity-paradox/collection/originals/Kento%20Nanami.png",
+    "filename": "Kento Nanami.png"
+  },
+  {
+    "name": "Kenzo Tenma",
+    "slug": "kenzo-tenma",
+    "preview": "../identity-paradox/collection/thumbs/kenzo-tenma.webp",
+    "original": "../identity-paradox/collection/originals/Kenzo%20Tenma.png",
+    "filename": "Kenzo Tenma.png"
+  },
+  {
+    "name": "Kid Majin Buu",
+    "slug": "kid-majin-buu",
+    "preview": "../identity-paradox/collection/thumbs/kid-majin-buu.webp",
+    "original": "../identity-paradox/collection/originals/Kid%20Majin%20Buu.png",
+    "filename": "Kid Majin Buu.png"
+  },
+  {
+    "name": "Killer Bee",
+    "slug": "killer-bee",
+    "preview": "../identity-paradox/collection/thumbs/killer-bee.webp",
+    "original": "../identity-paradox/collection/originals/Killer%20Bee.png",
+    "filename": "Killer Bee.png"
+  },
+  {
+    "name": "Killua Zoldyck",
+    "slug": "killua-zoldyck",
+    "preview": "../identity-paradox/collection/thumbs/killua-zoldyck.webp",
+    "original": "../identity-paradox/collection/originals/Killua%20Zoldyck.png",
+    "filename": "Killua Zoldyck.png"
+  },
+  {
+    "name": "Kirito",
+    "slug": "kirito",
+    "preview": "../identity-paradox/collection/thumbs/kirito.webp",
+    "original": "../identity-paradox/collection/originals/Kirito.png",
+    "filename": "Kirito.png"
+  },
+  {
+    "name": "Kisame Hoshigaki",
+    "slug": "kisame-hoshigaki",
+    "preview": "../identity-paradox/collection/thumbs/kisame-hoshigaki.webp",
+    "original": "../identity-paradox/collection/originals/Kisame%20Hoshigaki.png",
+    "filename": "Kisame Hoshigaki.png"
+  },
+  {
+    "name": "Kisuke Urahara",
+    "slug": "kisuke-urahara",
+    "preview": "../identity-paradox/collection/thumbs/kisuke-urahara.webp",
+    "original": "../identity-paradox/collection/originals/Kisuke%20Urahara.png",
+    "filename": "Kisuke Urahara.png"
+  },
+  {
+    "name": "Kiwi",
+    "slug": "kiwi",
+    "preview": "../identity-paradox/collection/thumbs/kiwi.webp",
+    "original": "../identity-paradox/collection/originals/Kiwi.png",
+    "filename": "Kiwi.png"
+  },
+  {
+    "name": "Kiyotaka Ayanokoji",
+    "slug": "kiyotaka-ayanokoji",
+    "preview": "../identity-paradox/collection/thumbs/kiyotaka-ayanokoji.webp",
+    "original": "../identity-paradox/collection/originals/Kiyotaka%20Ayanokoji.png",
+    "filename": "Kiyotaka Ayanokoji.png"
+  },
+  {
+    "name": "Konan",
+    "slug": "konan",
+    "preview": "../identity-paradox/collection/thumbs/konan.webp",
+    "original": "../identity-paradox/collection/originals/Konan.png",
+    "filename": "Konan.png"
+  },
+  {
+    "name": "Koro Sensei",
+    "slug": "koro-sensei",
+    "preview": "../identity-paradox/collection/thumbs/koro-sensei.webp",
+    "original": "../identity-paradox/collection/originals/Koro%20Sensei.png",
+    "filename": "Koro Sensei.png"
+  },
+  {
+    "name": "Kousei Arima",
+    "slug": "kousei-arima",
+    "preview": "../identity-paradox/collection/thumbs/kousei-arima.webp",
+    "original": "../identity-paradox/collection/originals/Kousei%20Arima.png",
+    "filename": "Kousei Arima.png"
+  },
+  {
+    "name": "Kyojuro Rengoku",
+    "slug": "kyojuro-rengoku",
+    "preview": "../identity-paradox/collection/thumbs/kyojuro-rengoku.webp",
+    "original": "../identity-paradox/collection/originals/Kyojuro%20Rengoku.png",
+    "filename": "Kyojuro Rengoku.png"
+  },
+  {
+    "name": "L Lawliet",
+    "slug": "l-lawliet",
+    "preview": "../identity-paradox/collection/thumbs/l-lawliet.webp",
+    "original": "../identity-paradox/collection/originals/L%20Lawliet.png",
+    "filename": "L Lawliet.png"
+  },
+  {
+    "name": "Lain Iwakura",
+    "slug": "lain-iwakura",
+    "preview": "../identity-paradox/collection/thumbs/lain-iwakura.webp",
+    "original": "../identity-paradox/collection/originals/Lain%20Iwakura.png",
+    "filename": "Lain Iwakura.png"
+  },
+  {
+    "name": "Legolas",
+    "slug": "legolas",
+    "preview": "../identity-paradox/collection/thumbs/legolas.webp",
+    "original": "../identity-paradox/collection/originals/Legolas.png",
+    "filename": "Legolas.png"
+  },
+  {
+    "name": "Lelouch Lamperouge",
+    "slug": "lelouch-lamperouge",
+    "preview": "../identity-paradox/collection/thumbs/lelouch-lamperouge.webp",
+    "original": "../identity-paradox/collection/originals/Lelouch%20Lamperouge.png",
+    "filename": "Lelouch Lamperouge.png"
+  },
+  {
+    "name": "Levi Ackerman",
+    "slug": "levi-ackerman",
+    "preview": "../identity-paradox/collection/thumbs/levi-ackerman.webp",
+    "original": "../identity-paradox/collection/originals/Levi%20Ackerman.png",
+    "filename": "Levi Ackerman.png"
+  },
+  {
+    "name": "Lex Luthor",
+    "slug": "lex-luthor",
+    "preview": "../identity-paradox/collection/thumbs/lex-luthor.webp",
+    "original": "../identity-paradox/collection/originals/Lex%20Luthor.png",
+    "filename": "Lex Luthor.png"
+  },
+  {
+    "name": "Light Yagami",
+    "slug": "light-yagami",
+    "preview": "../identity-paradox/collection/thumbs/light-yagami.webp",
+    "original": "../identity-paradox/collection/originals/Light%20Yagami.png",
+    "filename": "Light Yagami.png"
+  },
+  {
+    "name": "Lincoln Burrows",
+    "slug": "lincoln-burrows",
+    "preview": "../identity-paradox/collection/thumbs/lincoln-burrows.webp",
+    "original": "../identity-paradox/collection/originals/Lincoln%20Burrows.png",
+    "filename": "Lincoln Burrows.png"
+  },
+  {
+    "name": "Loid Forger",
+    "slug": "loid-forger",
+    "preview": "../identity-paradox/collection/thumbs/loid-forger.webp",
+    "original": "../identity-paradox/collection/originals/Loid%20Forger.png",
+    "filename": "Loid Forger.png"
+  },
+  {
+    "name": "Lucifero",
+    "slug": "lucifero",
+    "preview": "../identity-paradox/collection/thumbs/lucifero.webp",
+    "original": "../identity-paradox/collection/originals/Lucifero.png",
+    "filename": "Lucifero.png"
+  },
+  {
+    "name": "Lucius Zogratis",
+    "slug": "lucius-zogratis",
+    "preview": "../identity-paradox/collection/thumbs/lucius-zogratis.webp",
+    "original": "../identity-paradox/collection/originals/Lucius%20Zogratis.png",
+    "filename": "Lucius Zogratis.png"
+  },
+  {
+    "name": "Lucy Cyberpunk",
+    "slug": "lucy-cyberpunk",
+    "preview": "../identity-paradox/collection/thumbs/lucy-cyberpunk.webp",
+    "original": "../identity-paradox/collection/originals/Lucy%20Cyberpunk.png",
+    "filename": "Lucy Cyberpunk.png"
+  },
+  {
+    "name": "Lucy Elfen Lied",
+    "slug": "lucy-elfen-lied",
+    "preview": "../identity-paradox/collection/thumbs/lucy-elfen-lied.webp",
+    "original": "../identity-paradox/collection/originals/Lucy%20Elfen%20Lied.png",
+    "filename": "Lucy Elfen Lied.png"
+  },
+  {
+    "name": "Lucy Heartfilia",
+    "slug": "lucy-heartfilia",
+    "preview": "../identity-paradox/collection/thumbs/lucy-heartfilia.webp",
+    "original": "../identity-paradox/collection/originals/Lucy%20Heartfilia.png",
+    "filename": "Lucy Heartfilia.png"
+  },
+  {
+    "name": "Mabel Pines",
+    "slug": "mabel-pines",
+    "preview": "../identity-paradox/collection/thumbs/mabel-pines.webp",
+    "original": "../identity-paradox/collection/originals/Mabel%20Pines.png",
+    "filename": "Mabel Pines.png"
+  },
+  {
+    "name": "Madara Uchiha",
+    "slug": "madara-uchiha",
+    "preview": "../identity-paradox/collection/thumbs/madara-uchiha.webp",
+    "original": "../identity-paradox/collection/originals/Madara%20Uchiha.png",
+    "filename": "Madara Uchiha.png"
+  },
+  {
+    "name": "Mahito",
+    "slug": "mahito",
+    "preview": "../identity-paradox/collection/thumbs/mahito.webp",
+    "original": "../identity-paradox/collection/originals/Mahito.png",
+    "filename": "Mahito.png"
+  },
+  {
+    "name": "Maine",
+    "slug": "maine",
+    "preview": "../identity-paradox/collection/thumbs/maine.webp",
+    "original": "../identity-paradox/collection/originals/Maine.png",
+    "filename": "Maine.png"
+  },
+  {
+    "name": "Maki Zenin",
+    "slug": "maki-zenin",
+    "preview": "../identity-paradox/collection/thumbs/maki-zenin.webp",
+    "original": "../identity-paradox/collection/originals/Maki%20Zenin.png",
+    "filename": "Maki Zenin.png"
+  },
+  {
+    "name": "Makima",
+    "slug": "makima",
+    "preview": "../identity-paradox/collection/thumbs/makima.webp",
+    "original": "../identity-paradox/collection/originals/Makima.png",
+    "filename": "Makima.png"
+  },
+  {
+    "name": "Manjiro Sano",
+    "slug": "manjiro-sano",
+    "preview": "../identity-paradox/collection/thumbs/manjiro-sano.webp",
+    "original": "../identity-paradox/collection/originals/Manjiro%20Sano.png",
+    "filename": "Manjiro Sano.png"
+  },
+  {
+    "name": "Mashle",
+    "slug": "mashle",
+    "preview": "../identity-paradox/collection/thumbs/mashle.webp",
+    "original": "../identity-paradox/collection/originals/Mashle.png",
+    "filename": "Mashle.png"
+  },
+  {
+    "name": "Master Roshi",
+    "slug": "master-roshi",
+    "preview": "../identity-paradox/collection/thumbs/master-roshi.webp",
+    "original": "../identity-paradox/collection/originals/Master%20Roshi.png",
+    "filename": "Master Roshi.png"
+  },
+  {
+    "name": "Mayuri Kurotsuchi",
+    "slug": "mayuri-kurotsuchi",
+    "preview": "../identity-paradox/collection/thumbs/mayuri-kurotsuchi.webp",
+    "original": "../identity-paradox/collection/originals/Mayuri%20Kurotsuchi.png",
+    "filename": "Mayuri Kurotsuchi.png"
+  },
+  {
+    "name": "Meguru Bachira",
+    "slug": "meguru-bachira",
+    "preview": "../identity-paradox/collection/thumbs/meguru-bachira.webp",
+    "original": "../identity-paradox/collection/originals/Meguru%20Bachira.png",
+    "filename": "Meguru Bachira.png"
+  },
+  {
+    "name": "Meliodas",
+    "slug": "meliodas",
+    "preview": "../identity-paradox/collection/thumbs/meliodas.webp",
+    "original": "../identity-paradox/collection/originals/Meliodas.png",
+    "filename": "Meliodas.png"
+  },
+  {
+    "name": "Meruem",
+    "slug": "meruem",
+    "preview": "../identity-paradox/collection/thumbs/meruem.webp",
+    "original": "../identity-paradox/collection/originals/Meruem.png",
+    "filename": "Meruem.png"
+  },
+  {
+    "name": "Mewtwo",
+    "slug": "mewtwo",
+    "preview": "../identity-paradox/collection/thumbs/mewtwo.webp",
+    "original": "../identity-paradox/collection/originals/Mewtwo.png",
+    "filename": "Mewtwo.png"
+  },
+  {
+    "name": "Michael Corleone",
+    "slug": "michael-corleone",
+    "preview": "../identity-paradox/collection/thumbs/michael-corleone.webp",
+    "original": "../identity-paradox/collection/originals/Michael%20Corleone.png",
+    "filename": "Michael Corleone.png"
+  },
+  {
+    "name": "Michael Myers",
+    "slug": "michael-myers",
+    "preview": "../identity-paradox/collection/thumbs/michael-myers.webp",
+    "original": "../identity-paradox/collection/originals/Michael%20Myers.png",
+    "filename": "Michael Myers.png"
+  },
+  {
+    "name": "Michael Scofield",
+    "slug": "michael-scofield",
+    "preview": "../identity-paradox/collection/thumbs/michael-scofield.webp",
+    "original": "../identity-paradox/collection/originals/Michael%20Scofield.png",
+    "filename": "Michael Scofield.png"
+  },
+  {
+    "name": "Might Guy",
+    "slug": "might-guy",
+    "preview": "../identity-paradox/collection/thumbs/might-guy.webp",
+    "original": "../identity-paradox/collection/originals/Might%20Guy.png",
+    "filename": "Might Guy.png"
+  },
+  {
+    "name": "Minato Namikaze",
+    "slug": "minato-namikaze",
+    "preview": "../identity-paradox/collection/thumbs/minato-namikaze.webp",
+    "original": "../identity-paradox/collection/originals/Minato%20Namikaze.png",
+    "filename": "Minato Namikaze.png"
+  },
+  {
+    "name": "Mitsuri Kanroji",
+    "slug": "mitsuri-kanroji",
+    "preview": "../identity-paradox/collection/thumbs/mitsuri-kanroji.webp",
+    "original": "../identity-paradox/collection/originals/Mitsuri%20Kanroji.png",
+    "filename": "Mitsuri Kanroji.png"
+  },
+  {
+    "name": "Miyuki Shirogane",
+    "slug": "miyuki-shirogane",
+    "preview": "../identity-paradox/collection/thumbs/miyuki-shirogane.webp",
+    "original": "../identity-paradox/collection/originals/Miyuki%20Shirogane.png",
+    "filename": "Miyuki Shirogane.png"
+  },
+  {
+    "name": "Momo Ayase",
+    "slug": "momo-ayase",
+    "preview": "../identity-paradox/collection/thumbs/momo-ayase.webp",
+    "original": "../identity-paradox/collection/originals/Momo%20Ayase.png",
+    "filename": "Momo Ayase.png"
+  },
+  {
+    "name": "Monkey D Luffy",
+    "slug": "monkey-d-luffy",
+    "preview": "../identity-paradox/collection/thumbs/monkey-d-luffy.webp",
+    "original": "../identity-paradox/collection/originals/Monkey%20D%20Luffy.png",
+    "filename": "Monkey D Luffy.png"
+  },
+  {
+    "name": "Moon Knight",
+    "slug": "moon-knight",
+    "preview": "../identity-paradox/collection/thumbs/moon-knight.webp",
+    "original": "../identity-paradox/collection/originals/Moon%20Knight.png",
+    "filename": "Moon Knight.png"
+  },
+  {
+    "name": "Mordecai",
+    "slug": "mordecai",
+    "preview": "../identity-paradox/collection/thumbs/mordecai.webp",
+    "original": "../identity-paradox/collection/originals/Mordecai.png",
+    "filename": "Mordecai.png"
+  },
+  {
+    "name": "Morty Smith",
+    "slug": "morty-smith",
+    "preview": "../identity-paradox/collection/thumbs/morty-smith.webp",
+    "original": "../identity-paradox/collection/originals/Morty%20Smith.png",
+    "filename": "Morty Smith.png"
+  },
+  {
+    "name": "Mr Fantastic",
+    "slug": "mr-fantastic",
+    "preview": "../identity-paradox/collection/thumbs/mr-fantastic.webp",
+    "original": "../identity-paradox/collection/originals/Mr%20Fantastic.png",
+    "filename": "Mr Fantastic.png"
+  },
+  {
+    "name": "Mr Krabs",
+    "slug": "mr-krabs",
+    "preview": "../identity-paradox/collection/thumbs/mr-krabs.webp",
+    "original": "../identity-paradox/collection/originals/Mr%20Krabs.png",
+    "filename": "Mr Krabs.png"
+  },
+  {
+    "name": "Ms Marvel",
+    "slug": "ms-marvel",
+    "preview": "../identity-paradox/collection/thumbs/ms-marvel.webp",
+    "original": "../identity-paradox/collection/originals/Ms%20Marvel.png",
+    "filename": "Ms Marvel.png"
+  },
+  {
+    "name": "Muzan Kibutsuji",
+    "slug": "muzan-kibutsuji",
+    "preview": "../identity-paradox/collection/thumbs/muzan-kibutsuji.webp",
+    "original": "../identity-paradox/collection/originals/Muzan%20Kibutsuji.png",
+    "filename": "Muzan Kibutsuji.png"
+  },
+  {
+    "name": "Nami",
+    "slug": "nami",
+    "preview": "../identity-paradox/collection/thumbs/nami.webp",
+    "original": "../identity-paradox/collection/originals/Nami.png",
+    "filename": "Nami.png"
+  },
+  {
+    "name": "Nanachi",
+    "slug": "nanachi",
+    "preview": "../identity-paradox/collection/thumbs/nanachi.webp",
+    "original": "../identity-paradox/collection/originals/Nanachi.png",
+    "filename": "Nanachi.png"
+  },
+  {
+    "name": "Naofumi Iwatani",
+    "slug": "naofumi-iwatani",
+    "preview": "../identity-paradox/collection/thumbs/naofumi-iwatani.webp",
+    "original": "../identity-paradox/collection/originals/Naofumi%20Iwatani.png",
+    "filename": "Naofumi Iwatani.png"
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "slug": "naruto-uzumaki",
+    "preview": "../identity-paradox/collection/thumbs/naruto-uzumaki.webp",
+    "original": "../identity-paradox/collection/originals/Naruto%20Uzumaki.png",
+    "filename": "Naruto Uzumaki.png"
+  },
+  {
+    "name": "Natsu Dragneel",
+    "slug": "natsu-dragneel",
+    "preview": "../identity-paradox/collection/thumbs/natsu-dragneel.webp",
+    "original": "../identity-paradox/collection/originals/Natsu%20Dragneel.png",
+    "filename": "Natsu Dragneel.png"
+  },
+  {
+    "name": "Netanyahu",
+    "slug": "netanyahu",
+    "preview": "../identity-paradox/collection/thumbs/netanyahu.webp",
+    "original": "../identity-paradox/collection/originals/Netanyahu.png",
+    "filename": "Netanyahu.png"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "slug": "nezuko-kamado",
+    "preview": "../identity-paradox/collection/thumbs/nezuko-kamado.webp",
+    "original": "../identity-paradox/collection/originals/Nezuko%20Kamado.png",
+    "filename": "Nezuko Kamado.png"
+  },
+  {
+    "name": "Nico Robin",
+    "slug": "nico-robin",
+    "preview": "../identity-paradox/collection/thumbs/nico-robin.webp",
+    "original": "../identity-paradox/collection/originals/Nico%20Robin.png",
+    "filename": "Nico Robin.png"
+  },
+  {
+    "name": "Nightwing",
+    "slug": "nightwing",
+    "preview": "../identity-paradox/collection/thumbs/nightwing.webp",
+    "original": "../identity-paradox/collection/originals/Nightwing.png",
+    "filename": "Nightwing.png"
+  },
+  {
+    "name": "No Face",
+    "slug": "no-face",
+    "preview": "../identity-paradox/collection/thumbs/no-face.webp",
+    "original": "../identity-paradox/collection/originals/No%20Face.png",
+    "filename": "No Face.png"
+  },
+  {
+    "name": "Norman Promised Neverland",
+    "slug": "norman-promised-neverland",
+    "preview": "../identity-paradox/collection/thumbs/norman-promised-neverland.webp",
+    "original": "../identity-paradox/collection/originals/Norman%20Promised%20Neverland.png",
+    "filename": "Norman Promised Neverland.png"
+  },
+  {
+    "name": "Obito Uchiha",
+    "slug": "obito-uchiha",
+    "preview": "../identity-paradox/collection/thumbs/obito-uchiha.webp?v=35",
+    "original": "../identity-paradox/collection/originals/Obito%20Uchiha.png",
+    "filename": "Obito Uchiha.png",
+    "capsulePreview": "assets/capsule-previews/obito-uchiha-v35.webp"
+  },
+  {
+    "name": "Orochimaru",
+    "slug": "orochimaru",
+    "preview": "../identity-paradox/collection/thumbs/orochimaru.webp",
+    "original": "../identity-paradox/collection/originals/Orochimaru.png",
+    "filename": "Orochimaru.png"
+  },
+  {
+    "name": "Pain",
+    "slug": "pain",
+    "preview": "../identity-paradox/collection/thumbs/pain.webp",
+    "original": "../identity-paradox/collection/originals/Pain.png",
+    "filename": "Pain.png"
+  },
+  {
+    "name": "Palkia",
+    "slug": "palkia",
+    "preview": "../identity-paradox/collection/thumbs/palkia.webp",
+    "original": "../identity-paradox/collection/originals/Palkia.png",
+    "filename": "Palkia.png"
+  },
+  {
+    "name": "Patrick Star",
+    "slug": "patrick-star",
+    "preview": "../identity-paradox/collection/thumbs/patrick-star.webp",
+    "original": "../identity-paradox/collection/originals/Patrick%20Star.png",
+    "filename": "Patrick Star.png"
+  },
+  {
+    "name": "Paulie Gualtieri",
+    "slug": "paulie-gualtieri",
+    "preview": "../identity-paradox/collection/thumbs/paulie-gualtieri.webp",
+    "original": "../identity-paradox/collection/originals/Paulie%20Gualtieri.png",
+    "filename": "Paulie Gualtieri.png"
+  },
+  {
+    "name": "Penguin",
+    "slug": "penguin",
+    "preview": "../identity-paradox/collection/thumbs/penguin.webp",
+    "original": "../identity-paradox/collection/originals/Penguin.png",
+    "filename": "Penguin.png"
+  },
+  {
+    "name": "Pennywise",
+    "slug": "pennywise",
+    "preview": "../identity-paradox/collection/thumbs/pennywise.webp",
+    "original": "../identity-paradox/collection/originals/Pennywise.png",
+    "filename": "Pennywise.png"
+  },
+  {
+    "name": "Perry the Platypus",
+    "slug": "perry-the-platypus",
+    "preview": "../identity-paradox/collection/thumbs/perry-the-platypus.webp",
+    "original": "../identity-paradox/collection/originals/Perry%20the%20Platypus.png",
+    "filename": "Perry the Platypus.png"
+  },
+  {
+    "name": "Peter Griffin",
+    "slug": "peter-griffin",
+    "preview": "../identity-paradox/collection/thumbs/peter-griffin.webp",
+    "original": "../identity-paradox/collection/originals/Peter%20Griffin.png",
+    "filename": "Peter Griffin.png"
+  },
+  {
+    "name": "Phineas",
+    "slug": "phineas",
+    "preview": "../identity-paradox/collection/thumbs/phineas.webp",
+    "original": "../identity-paradox/collection/originals/Phineas.png",
+    "filename": "Phineas.png"
+  },
+  {
+    "name": "Phineas 2",
+    "slug": "phineas-2",
+    "preview": "../identity-paradox/collection/thumbs/phineas-2.webp",
+    "original": "../identity-paradox/collection/originals/Phineas%202.png",
+    "filename": "Phineas 2.png"
+  },
+  {
+    "name": "Piccolo",
+    "slug": "piccolo",
+    "preview": "../identity-paradox/collection/thumbs/piccolo.webp",
+    "original": "../identity-paradox/collection/originals/Piccolo.png",
+    "filename": "Piccolo.png"
+  },
+  {
+    "name": "Poison Ivy",
+    "slug": "poison-ivy",
+    "preview": "../identity-paradox/collection/thumbs/poison-ivy.webp",
+    "original": "../identity-paradox/collection/originals/Poison%20Ivy.png",
+    "filename": "Poison Ivy.png"
+  },
+  {
+    "name": "Portgas D Ace",
+    "slug": "portgas-d-ace",
+    "preview": "../identity-paradox/collection/thumbs/portgas-d-ace.webp",
+    "original": "../identity-paradox/collection/originals/Portgas%20D%20Ace.png",
+    "filename": "Portgas D Ace.png"
+  },
+  {
+    "name": "Power",
+    "slug": "power",
+    "preview": "../identity-paradox/collection/thumbs/power.webp",
+    "original": "../identity-paradox/collection/originals/Power.png",
+    "filename": "Power.png"
+  },
+  {
+    "name": "Ragna",
+    "slug": "ragna",
+    "preview": "../identity-paradox/collection/thumbs/ragna.webp",
+    "original": "../identity-paradox/collection/originals/Ragna.png",
+    "filename": "Ragna.png"
+  },
+  {
+    "name": "Ram",
+    "slug": "ram",
+    "preview": "../identity-paradox/collection/thumbs/ram.webp",
+    "original": "../identity-paradox/collection/originals/Ram.png",
+    "filename": "Ram.png"
+  },
+  {
+    "name": "Ramiel",
+    "slug": "ramiel",
+    "preview": "../identity-paradox/collection/thumbs/ramiel.webp",
+    "original": "../identity-paradox/collection/originals/Ramiel.png",
+    "filename": "Ramiel.png"
+  },
+  {
+    "name": "Ray Promised Neverland",
+    "slug": "ray-promised-neverland",
+    "preview": "../identity-paradox/collection/thumbs/ray-promised-neverland.webp",
+    "original": "../identity-paradox/collection/originals/Ray%20Promised%20Neverland.png",
+    "filename": "Ray Promised Neverland.png"
+  },
+  {
+    "name": "Rebecca Cyberpunk",
+    "slug": "rebecca-cyberpunk",
+    "preview": "../identity-paradox/collection/thumbs/rebecca-cyberpunk.webp",
+    "original": "../identity-paradox/collection/originals/Rebecca%20Cyberpunk.png",
+    "filename": "Rebecca Cyberpunk.png"
+  },
+  {
+    "name": "Reg",
+    "slug": "reg",
+    "preview": "../identity-paradox/collection/thumbs/reg.webp",
+    "original": "../identity-paradox/collection/originals/Reg.png",
+    "filename": "Reg.png"
+  },
+  {
+    "name": "Rei Ayanami",
+    "slug": "rei-ayanami",
+    "preview": "../identity-paradox/collection/thumbs/rei-ayanami.webp",
+    "original": "../identity-paradox/collection/originals/Rei%20Ayanami.png",
+    "filename": "Rei Ayanami.png"
+  },
+  {
+    "name": "Reigen Arataka",
+    "slug": "reigen-arataka",
+    "preview": "../identity-paradox/collection/thumbs/reigen-arataka.webp",
+    "original": "../identity-paradox/collection/originals/Reigen%20Arataka.png",
+    "filename": "Reigen Arataka.png"
+  },
+  {
+    "name": "Rem",
+    "slug": "rem",
+    "preview": "../identity-paradox/collection/thumbs/rem.webp",
+    "original": "../identity-paradox/collection/originals/Rem.png",
+    "filename": "Rem.png"
+  },
+  {
+    "name": "Reze",
+    "slug": "reze",
+    "preview": "../identity-paradox/collection/thumbs/reze.webp",
+    "original": "../identity-paradox/collection/originals/Reze.png",
+    "filename": "Reze.png"
+  },
+  {
+    "name": "Rias Gremory",
+    "slug": "rias-gremory",
+    "preview": "../identity-paradox/collection/thumbs/rias-gremory.webp",
+    "original": "../identity-paradox/collection/originals/Rias%20Gremory.png",
+    "filename": "Rias Gremory.png"
+  },
+  {
+    "name": "Rick Sanchez",
+    "slug": "rick-sanchez",
+    "preview": "../identity-paradox/collection/thumbs/rick-sanchez.webp",
+    "original": "../identity-paradox/collection/originals/Rick%20Sanchez.png",
+    "filename": "Rick Sanchez.png"
+  },
+  {
+    "name": "Riddler",
+    "slug": "riddler",
+    "preview": "../identity-paradox/collection/thumbs/riddler.webp",
+    "original": "../identity-paradox/collection/originals/Riddler.png",
+    "filename": "Riddler.png"
+  },
+  {
+    "name": "Riko",
+    "slug": "riko",
+    "preview": "../identity-paradox/collection/thumbs/riko.webp",
+    "original": "../identity-paradox/collection/originals/Riko.png",
+    "filename": "Riko.png"
+  },
+  {
+    "name": "Rimuru Tempest",
+    "slug": "rimuru-tempest",
+    "preview": "../identity-paradox/collection/thumbs/rimuru-tempest.webp",
+    "original": "../identity-paradox/collection/originals/Rimuru%20Tempest.png",
+    "filename": "Rimuru Tempest.png"
+  },
+  {
+    "name": "Rin Itoshi",
+    "slug": "rin-itoshi",
+    "preview": "../identity-paradox/collection/thumbs/rin-itoshi.webp",
+    "original": "../identity-paradox/collection/originals/Rin%20Itoshi.png",
+    "filename": "Rin Itoshi.png"
+  },
+  {
+    "name": "Rock Lee",
+    "slug": "rock-lee",
+    "preview": "../identity-paradox/collection/thumbs/rock-lee.webp",
+    "original": "../identity-paradox/collection/originals/Rock%20Lee.png",
+    "filename": "Rock Lee.png"
+  },
+  {
+    "name": "Roronoa Zoro",
+    "slug": "roronoa-zoro",
+    "preview": "../identity-paradox/collection/thumbs/roronoa-zoro.webp",
+    "original": "../identity-paradox/collection/originals/Roronoa%20Zoro.png",
+    "filename": "Roronoa Zoro.png"
+  },
+  {
+    "name": "Roy Mustang",
+    "slug": "roy-mustang",
+    "preview": "../identity-paradox/collection/thumbs/roy-mustang.webp",
+    "original": "../identity-paradox/collection/originals/Roy%20Mustang.png",
+    "filename": "Roy Mustang.png"
+  },
+  {
+    "name": "Rubeus Hagrid",
+    "slug": "rubeus-hagrid",
+    "preview": "../identity-paradox/collection/thumbs/rubeus-hagrid.webp",
+    "original": "../identity-paradox/collection/originals/Rubeus%20Hagrid.png",
+    "filename": "Rubeus Hagrid.png"
+  },
+  {
+    "name": "Ruby Hoshino",
+    "slug": "ruby-hoshino",
+    "preview": "../identity-paradox/collection/thumbs/ruby-hoshino.webp",
+    "original": "../identity-paradox/collection/originals/Ruby%20Hoshino.png",
+    "filename": "Ruby Hoshino.png"
+  },
+  {
+    "name": "Rukia Kuchiki",
+    "slug": "rukia-kuchiki",
+    "preview": "../identity-paradox/collection/thumbs/rukia-kuchiki.webp",
+    "original": "../identity-paradox/collection/originals/Rukia%20Kuchiki.png",
+    "filename": "Rukia Kuchiki.png"
+  },
+  {
+    "name": "Ryomen Sukuna",
+    "slug": "ryomen-sukuna",
+    "preview": "../identity-paradox/collection/thumbs/ryomen-sukuna.webp",
+    "original": "../identity-paradox/collection/originals/Ryomen%20Sukuna.png",
+    "filename": "Ryomen Sukuna.png"
+  },
+  {
+    "name": "Saber",
+    "slug": "saber",
+    "preview": "../identity-paradox/collection/thumbs/saber.webp",
+    "original": "../identity-paradox/collection/originals/Saber.png",
+    "filename": "Saber.png"
+  },
+  {
+    "name": "Sabo",
+    "slug": "sabo",
+    "preview": "../identity-paradox/collection/thumbs/sabo.webp",
+    "original": "../identity-paradox/collection/originals/Sabo.png",
+    "filename": "Sabo.png"
+  },
+  {
+    "name": "Sailor Moon",
+    "slug": "sailor-moon",
+    "preview": "../identity-paradox/collection/thumbs/sailor-moon.webp",
+    "original": "../identity-paradox/collection/originals/Sailor%20Moon.png",
+    "filename": "Sailor Moon.png"
+  },
+  {
+    "name": "Saitama",
+    "slug": "saitama",
+    "preview": "../identity-paradox/collection/thumbs/saitama.webp",
+    "original": "../identity-paradox/collection/originals/Saitama.png",
+    "filename": "Saitama.png"
+  },
+  {
+    "name": "Sandy Cheeks",
+    "slug": "sandy-cheeks",
+    "preview": "../identity-paradox/collection/thumbs/sandy-cheeks.webp",
+    "original": "../identity-paradox/collection/originals/Sandy%20Cheeks.png",
+    "filename": "Sandy Cheeks.png"
+  },
+  {
+    "name": "Sanji",
+    "slug": "sanji",
+    "preview": "../identity-paradox/collection/thumbs/sanji.webp",
+    "original": "../identity-paradox/collection/originals/Sanji.png",
+    "filename": "Sanji.png"
+  },
+  {
+    "name": "Sasori",
+    "slug": "sasori",
+    "preview": "../identity-paradox/collection/thumbs/sasori.webp",
+    "original": "../identity-paradox/collection/originals/Sasori.png",
+    "filename": "Sasori.png"
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "slug": "sasuke-uchiha",
+    "preview": "../identity-paradox/collection/thumbs/sasuke-uchiha.webp",
+    "original": "../identity-paradox/collection/originals/Sasuke%20Uchiha.png",
+    "filename": "Sasuke Uchiha.png"
+  },
+  {
+    "name": "Satoru Gojo",
+    "slug": "satoru-gojo",
+    "preview": "../identity-paradox/collection/thumbs/satoru-gojo.webp",
+    "original": "../identity-paradox/collection/originals/Satoru%20Gojo.png",
+    "filename": "Satoru Gojo.png"
+  },
+  {
+    "name": "Saul Goodman",
+    "slug": "saul-goodman",
+    "preview": "../identity-paradox/collection/thumbs/saul-goodman.webp",
+    "original": "../identity-paradox/collection/originals/Saul%20Goodman.png",
+    "filename": "Saul Goodman.png"
+  },
+  {
+    "name": "Scarecrow",
+    "slug": "scarecrow",
+    "preview": "../identity-paradox/collection/thumbs/scarecrow.webp",
+    "original": "../identity-paradox/collection/originals/Scarecrow.png",
+    "filename": "Scarecrow.png"
+  },
+  {
+    "name": "Scooby Doo",
+    "slug": "scooby-doo",
+    "preview": "../identity-paradox/collection/thumbs/scooby-doo.webp",
+    "original": "../identity-paradox/collection/originals/Scooby%20Doo.png",
+    "filename": "Scooby Doo.png"
+  },
+  {
+    "name": "Senku Ishigami",
+    "slug": "senku-ishigami",
+    "preview": "../identity-paradox/collection/thumbs/senku-ishigami.webp",
+    "original": "../identity-paradox/collection/originals/Senku%20Ishigami.png",
+    "filename": "Senku Ishigami.png"
+  },
+  {
+    "name": "Sesshomaru",
+    "slug": "sesshomaru",
+    "preview": "../identity-paradox/collection/thumbs/sesshomaru.webp",
+    "original": "../identity-paradox/collection/originals/Sesshomaru.png",
+    "filename": "Sesshomaru.png"
+  },
+  {
+    "name": "Seto Kaiba",
+    "slug": "seto-kaiba",
+    "preview": "../identity-paradox/collection/thumbs/seto-kaiba.webp",
+    "original": "../identity-paradox/collection/originals/Seto%20Kaiba.png",
+    "filename": "Seto Kaiba.png"
+  },
+  {
+    "name": "Severus Snape",
+    "slug": "severus-snape",
+    "preview": "../identity-paradox/collection/thumbs/severus-snape.webp",
+    "original": "../identity-paradox/collection/originals/Severus%20Snape.png",
+    "filename": "Severus Snape.png"
+  },
+  {
+    "name": "Shaggy Rogers",
+    "slug": "shaggy-rogers",
+    "preview": "../identity-paradox/collection/thumbs/shaggy-rogers.webp",
+    "original": "../identity-paradox/collection/originals/Shaggy%20Rogers.png",
+    "filename": "Shaggy Rogers.png"
+  },
+  {
+    "name": "Shang Chi",
+    "slug": "shang-chi",
+    "preview": "../identity-paradox/collection/thumbs/shang-chi.webp",
+    "original": "../identity-paradox/collection/originals/Shang%20Chi.png",
+    "filename": "Shang Chi.png"
+  },
+  {
+    "name": "Shanks",
+    "slug": "shanks",
+    "preview": "../identity-paradox/collection/thumbs/shanks.webp",
+    "original": "../identity-paradox/collection/originals/Shanks.png",
+    "filename": "Shanks.png"
+  },
+  {
+    "name": "She Hulk",
+    "slug": "she-hulk",
+    "preview": "../identity-paradox/collection/thumbs/she-hulk.webp",
+    "original": "../identity-paradox/collection/originals/She%20Hulk.png",
+    "filename": "She Hulk.png"
+  },
+  {
+    "name": "Shigeo Kageyama",
+    "slug": "shigeo-kageyama",
+    "preview": "../identity-paradox/collection/thumbs/shigeo-kageyama.webp",
+    "original": "../identity-paradox/collection/originals/Shigeo%20Kageyama.png",
+    "filename": "Shigeo Kageyama.png"
+  },
+  {
+    "name": "Shikamaru Nara",
+    "slug": "shikamaru-nara",
+    "preview": "../identity-paradox/collection/thumbs/shikamaru-nara.webp",
+    "original": "../identity-paradox/collection/originals/Shikamaru%20Nara.png",
+    "filename": "Shikamaru Nara.png"
+  },
+  {
+    "name": "Shinichi Izumi",
+    "slug": "shinichi-izumi",
+    "preview": "../identity-paradox/collection/thumbs/shinichi-izumi.webp",
+    "original": "../identity-paradox/collection/originals/Shinichi%20Izumi.png",
+    "filename": "Shinichi Izumi.png"
+  },
+  {
+    "name": "Shinji Ikari",
+    "slug": "shinji-ikari",
+    "preview": "../identity-paradox/collection/thumbs/shinji-ikari.webp",
+    "original": "../identity-paradox/collection/originals/Shinji%20Ikari.png",
+    "filename": "Shinji Ikari.png"
+  },
+  {
+    "name": "Shinobu Kocho",
+    "slug": "shinobu-kocho",
+    "preview": "../identity-paradox/collection/thumbs/shinobu-kocho.webp",
+    "original": "../identity-paradox/collection/originals/Shinobu%20Kocho.png",
+    "filename": "Shinobu Kocho.png"
+  },
+  {
+    "name": "Shinra Kusakabe",
+    "slug": "shinra-kusakabe",
+    "preview": "../identity-paradox/collection/thumbs/shinra-kusakabe.webp",
+    "original": "../identity-paradox/collection/originals/Shinra%20Kusakabe.png",
+    "filename": "Shinra Kusakabe.png"
+  },
+  {
+    "name": "Shotaro Kaneda",
+    "slug": "shotaro-kaneda",
+    "preview": "../identity-paradox/collection/thumbs/shotaro-kaneda.webp",
+    "original": "../identity-paradox/collection/originals/Shotaro%20Kaneda.png",
+    "filename": "Shotaro Kaneda.png"
+  },
+  {
+    "name": "Shoto Todoroki",
+    "slug": "shoto-todoroki",
+    "preview": "../identity-paradox/collection/thumbs/shoto-todoroki.webp",
+    "original": "../identity-paradox/collection/originals/Shoto%20Todoroki.png",
+    "filename": "Shoto Todoroki.png"
+  },
+  {
+    "name": "Shrek",
+    "slug": "shrek",
+    "preview": "../identity-paradox/collection/thumbs/shrek.webp",
+    "original": "../identity-paradox/collection/originals/Shrek.png",
+    "filename": "Shrek.png"
+  },
+  {
+    "name": "Silver Surfer",
+    "slug": "silver-surfer",
+    "preview": "../identity-paradox/collection/thumbs/silver-surfer.webp",
+    "original": "../identity-paradox/collection/originals/Silver%20Surfer.png",
+    "filename": "Silver Surfer.png"
+  },
+  {
+    "name": "Sinon",
+    "slug": "sinon",
+    "preview": "../identity-paradox/collection/thumbs/sinon.webp",
+    "original": "../identity-paradox/collection/originals/Sinon.png",
+    "filename": "Sinon.png"
+  },
+  {
+    "name": "Sonny Corleone",
+    "slug": "sonny-corleone",
+    "preview": "../identity-paradox/collection/thumbs/sonny-corleone.webp",
+    "original": "../identity-paradox/collection/originals/Sonny%20Corleone.png",
+    "filename": "Sonny Corleone.png"
+  },
+  {
+    "name": "Sosuke Aizen",
+    "slug": "sosuke-aizen",
+    "preview": "../identity-paradox/collection/thumbs/sosuke-aizen.webp",
+    "original": "../identity-paradox/collection/originals/Sosuke%20Aizen.png",
+    "filename": "Sosuke Aizen.png"
+  },
+  {
+    "name": "Spawn",
+    "slug": "spawn",
+    "preview": "../identity-paradox/collection/thumbs/spawn.webp",
+    "original": "../identity-paradox/collection/originals/Spawn.png",
+    "filename": "Spawn.png"
+  },
+  {
+    "name": "Spike Spiegel",
+    "slug": "spike-spiegel",
+    "preview": "../identity-paradox/collection/thumbs/spike-spiegel.webp",
+    "original": "../identity-paradox/collection/originals/Spike%20Spiegel.png",
+    "filename": "Spike Spiegel.png"
+  },
+  {
+    "name": "SpongeBob",
+    "slug": "spongebob",
+    "preview": "../identity-paradox/collection/thumbs/spongebob.webp",
+    "original": "../identity-paradox/collection/originals/SpongeBob.png",
+    "filename": "SpongeBob.png"
+  },
+  {
+    "name": "Squidward",
+    "slug": "squidward",
+    "preview": "../identity-paradox/collection/thumbs/squidward.webp",
+    "original": "../identity-paradox/collection/originals/Squidward.png",
+    "filename": "Squidward.png"
+  },
+  {
+    "name": "Stark Frieren",
+    "slug": "stark-frieren",
+    "preview": "../identity-paradox/collection/thumbs/stark-frieren.webp",
+    "original": "../identity-paradox/collection/originals/Stark%20Frieren.png",
+    "filename": "Stark Frieren.png"
+  },
+  {
+    "name": "Stewie Griffin",
+    "slug": "stewie-griffin",
+    "preview": "../identity-paradox/collection/thumbs/stewie-griffin.webp",
+    "original": "../identity-paradox/collection/originals/Stewie%20Griffin.png",
+    "filename": "Stewie Griffin.png"
+  },
+  {
+    "name": "Subaru Natsuki",
+    "slug": "subaru-natsuki",
+    "preview": "../identity-paradox/collection/thumbs/subaru-natsuki.webp",
+    "original": "../identity-paradox/collection/originals/Subaru%20Natsuki.png",
+    "filename": "Subaru Natsuki.png"
+  },
+  {
+    "name": "Sung Jinwoo",
+    "slug": "sung-jinwoo",
+    "preview": "../identity-paradox/collection/thumbs/sung-jinwoo.webp",
+    "original": "../identity-paradox/collection/originals/Sung%20Jinwoo.png",
+    "filename": "Sung Jinwoo.png"
+  },
+  {
+    "name": "Sunraku",
+    "slug": "sunraku",
+    "preview": "../identity-paradox/collection/thumbs/sunraku.webp",
+    "original": "../identity-paradox/collection/originals/Sunraku.png",
+    "filename": "Sunraku.png"
+  },
+  {
+    "name": "Superman",
+    "slug": "superman",
+    "preview": "../identity-paradox/collection/thumbs/superman.webp",
+    "original": "../identity-paradox/collection/originals/Superman.png",
+    "filename": "Superman.png"
+  },
+  {
+    "name": "Takemichi Hanagaki",
+    "slug": "takemichi-hanagaki",
+    "preview": "../identity-paradox/collection/thumbs/takemichi-hanagaki.webp",
+    "original": "../identity-paradox/collection/originals/Takemichi%20Hanagaki.png",
+    "filename": "Takemichi Hanagaki.png"
+  },
+  {
+    "name": "Tanjiro Kamado",
+    "slug": "tanjiro-kamado",
+    "preview": "../identity-paradox/collection/thumbs/tanjiro-kamado.webp",
+    "original": "../identity-paradox/collection/originals/Tanjiro%20Kamado.png",
+    "filename": "Tanjiro Kamado.png"
+  },
+  {
+    "name": "Tanya von Degurechaff",
+    "slug": "tanya-von-degurechaff",
+    "preview": "../identity-paradox/collection/thumbs/tanya-von-degurechaff.webp",
+    "original": "../identity-paradox/collection/originals/Tanya%20von%20Degurechaff.png",
+    "filename": "Tanya von Degurechaff.png"
+  },
+  {
+    "name": "Tatsumaki",
+    "slug": "tatsumaki",
+    "preview": "../identity-paradox/collection/thumbs/tatsumaki.webp",
+    "original": "../identity-paradox/collection/originals/Tatsumaki.png",
+    "filename": "Tatsumaki.png"
+  },
+  {
+    "name": "Tengen Uzui",
+    "slug": "tengen-uzui",
+    "preview": "../identity-paradox/collection/thumbs/tengen-uzui.webp",
+    "original": "../identity-paradox/collection/originals/Tengen%20Uzui.png",
+    "filename": "Tengen Uzui.png"
+  },
+  {
+    "name": "Terminator",
+    "slug": "terminator",
+    "preview": "../identity-paradox/collection/thumbs/terminator.webp",
+    "original": "../identity-paradox/collection/originals/Terminator.png",
+    "filename": "Terminator.png"
+  },
+  {
+    "name": "Tetsuo Shima",
+    "slug": "tetsuo-shima",
+    "preview": "../identity-paradox/collection/thumbs/tetsuo-shima.webp",
+    "original": "../identity-paradox/collection/originals/Tetsuo%20Shima.png",
+    "filename": "Tetsuo Shima.png"
+  },
+  {
+    "name": "Thanos",
+    "slug": "thanos",
+    "preview": "../identity-paradox/collection/thumbs/thanos.webp",
+    "original": "../identity-paradox/collection/originals/Thanos.png",
+    "filename": "Thanos.png"
+  },
+  {
+    "name": "Theodore Bagwell",
+    "slug": "theodore-bagwell",
+    "preview": "../identity-paradox/collection/thumbs/theodore-bagwell.webp",
+    "original": "../identity-paradox/collection/originals/Theodore%20Bagwell.png",
+    "filename": "Theodore Bagwell.png"
+  },
+  {
+    "name": "Thor",
+    "slug": "thor",
+    "preview": "../identity-paradox/collection/thumbs/thor.webp",
+    "original": "../identity-paradox/collection/originals/Thor.png",
+    "filename": "Thor.png"
+  },
+  {
+    "name": "Thorfinn",
+    "slug": "thorfinn",
+    "preview": "../identity-paradox/collection/thumbs/thorfinn.webp",
+    "original": "../identity-paradox/collection/originals/Thorfinn.png",
+    "filename": "Thorfinn.png"
+  },
+  {
+    "name": "Tobirama Senju",
+    "slug": "tobirama-senju",
+    "preview": "../identity-paradox/collection/thumbs/tobirama-senju.webp",
+    "original": "../identity-paradox/collection/originals/Tobirama%20Senju.png",
+    "filename": "Tobirama Senju.png"
+  },
+  {
+    "name": "Toji Fushiguro",
+    "slug": "toji-fushiguro",
+    "preview": "../identity-paradox/collection/thumbs/toji-fushiguro.webp",
+    "original": "../identity-paradox/collection/originals/Toji%20Fushiguro.png",
+    "filename": "Toji Fushiguro.png"
+  },
+  {
+    "name": "Tony Soprano",
+    "slug": "tony-soprano",
+    "preview": "../identity-paradox/collection/thumbs/tony-soprano.webp",
+    "original": "../identity-paradox/collection/originals/Tony%20Soprano.png",
+    "filename": "Tony Soprano.png"
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "slug": "tony-tony-chopper",
+    "preview": "../identity-paradox/collection/thumbs/tony-tony-chopper.webp",
+    "original": "../identity-paradox/collection/originals/Tony%20Tony%20Chopper.png",
+    "filename": "Tony Tony Chopper.png"
+  },
+  {
+    "name": "Torchic",
+    "slug": "torchic",
+    "preview": "../identity-paradox/collection/thumbs/torchic.webp",
+    "original": "../identity-paradox/collection/originals/Torchic.png",
+    "filename": "Torchic.png"
+  },
+  {
+    "name": "Toshiro Hitsugaya",
+    "slug": "toshiro-hitsugaya",
+    "preview": "../identity-paradox/collection/thumbs/toshiro-hitsugaya.webp",
+    "original": "../identity-paradox/collection/originals/Toshiro%20Hitsugaya.png",
+    "filename": "Toshiro Hitsugaya.png"
+  },
+  {
+    "name": "Totodile",
+    "slug": "totodile",
+    "preview": "../identity-paradox/collection/thumbs/totodile.webp",
+    "original": "../identity-paradox/collection/originals/Totodile.png",
+    "filename": "Totodile.png"
+  },
+  {
+    "name": "Totoro",
+    "slug": "totoro",
+    "preview": "../identity-paradox/collection/thumbs/totoro.webp",
+    "original": "../identity-paradox/collection/originals/Totoro.png",
+    "filename": "Totoro.png"
+  },
+  {
+    "name": "Trafalgar Law",
+    "slug": "trafalgar-law",
+    "preview": "../identity-paradox/collection/thumbs/trafalgar-law.webp",
+    "original": "../identity-paradox/collection/originals/Trafalgar%20Law.png",
+    "filename": "Trafalgar Law.png"
+  },
+  {
+    "name": "Treecko",
+    "slug": "treecko",
+    "preview": "../identity-paradox/collection/thumbs/treecko.webp",
+    "original": "../identity-paradox/collection/originals/Treecko.png",
+    "filename": "Treecko.png"
+  },
+  {
+    "name": "Trunks",
+    "slug": "trunks",
+    "preview": "../identity-paradox/collection/thumbs/trunks.webp",
+    "original": "../identity-paradox/collection/originals/Trunks.png",
+    "filename": "Trunks.png"
+  },
+  {
+    "name": "Trunks Super Saiyan",
+    "slug": "trunks-super-saiyan",
+    "preview": "../identity-paradox/collection/thumbs/trunks-super-saiyan.webp",
+    "original": "../identity-paradox/collection/originals/Trunks%20Super%20Saiyan.png",
+    "filename": "Trunks Super Saiyan.png"
+  },
+  {
+    "name": "Tsunade",
+    "slug": "tsunade",
+    "preview": "../identity-paradox/collection/thumbs/tsunade.webp",
+    "original": "../identity-paradox/collection/originals/Tsunade.png",
+    "filename": "Tsunade.png"
+  },
+  {
+    "name": "Turnip Head",
+    "slug": "turnip-head",
+    "preview": "../identity-paradox/collection/thumbs/turnip-head.webp?v=38",
+    "original": "../identity-paradox/collection/originals/Turnip%20Head.png?v=38",
+    "filename": "Turnip Head.png",
+    "capsulePreview": "assets/capsule-previews/turnip-head-v38.webp"
+  },
+  {
+    "name": "Two Face",
+    "slug": "two-face",
+    "preview": "../identity-paradox/collection/thumbs/two-face.webp",
+    "original": "../identity-paradox/collection/originals/Two%20Face.png",
+    "filename": "Two Face.png"
+  },
+  {
+    "name": "Tyrion Lannister",
+    "slug": "tyrion-lannister",
+    "preview": "../identity-paradox/collection/thumbs/tyrion-lannister.webp",
+    "original": "../identity-paradox/collection/originals/Tyrion%20Lannister.png",
+    "filename": "Tyrion Lannister.png"
+  },
+  {
+    "name": "Ulquiorra Cifer",
+    "slug": "ulquiorra-cifer",
+    "preview": "../identity-paradox/collection/thumbs/ulquiorra-cifer.webp",
+    "original": "../identity-paradox/collection/originals/Ulquiorra%20Cifer.png",
+    "filename": "Ulquiorra Cifer.png"
+  },
+  {
+    "name": "Ultron",
+    "slug": "ultron",
+    "preview": "../identity-paradox/collection/thumbs/ultron.webp",
+    "original": "../identity-paradox/collection/originals/Ultron.png",
+    "filename": "Ultron.png"
+  },
+  {
+    "name": "Usopp",
+    "slug": "usopp",
+    "preview": "../identity-paradox/collection/thumbs/usopp.webp",
+    "original": "../identity-paradox/collection/originals/Usopp.png",
+    "filename": "Usopp.png"
+  },
+  {
+    "name": "Vash the Stampede",
+    "slug": "vash-the-stampede",
+    "preview": "../identity-paradox/collection/thumbs/vash-the-stampede.webp",
+    "original": "../identity-paradox/collection/originals/Vash%20the%20Stampede.png",
+    "filename": "Vash the Stampede.png"
+  },
+  {
+    "name": "Vegeta",
+    "slug": "vegeta",
+    "preview": "../identity-paradox/collection/thumbs/vegeta.webp",
+    "original": "../identity-paradox/collection/originals/Vegeta.png",
+    "filename": "Vegeta.png"
+  },
+  {
+    "name": "Vegeta Super Saiyan",
+    "slug": "vegeta-super-saiyan",
+    "preview": "../identity-paradox/collection/thumbs/vegeta-super-saiyan.webp",
+    "original": "../identity-paradox/collection/originals/Vegeta%20Super%20Saiyan.png",
+    "filename": "Vegeta Super Saiyan.png"
+  },
+  {
+    "name": "Vegito",
+    "slug": "vegito",
+    "preview": "../identity-paradox/collection/thumbs/vegito.webp",
+    "original": "../identity-paradox/collection/originals/Vegito.png",
+    "filename": "Vegito.png"
+  },
+  {
+    "name": "Velma Dinkley",
+    "slug": "velma-dinkley",
+    "preview": "../identity-paradox/collection/thumbs/velma-dinkley.webp",
+    "original": "../identity-paradox/collection/originals/Velma%20Dinkley.png",
+    "filename": "Velma Dinkley.png"
+  },
+  {
+    "name": "Violet Evergarden",
+    "slug": "violet-evergarden",
+    "preview": "../identity-paradox/collection/thumbs/violet-evergarden.webp",
+    "original": "../identity-paradox/collection/originals/Violet%20Evergarden.png",
+    "filename": "Violet Evergarden.png"
+  },
+  {
+    "name": "Vision",
+    "slug": "vision",
+    "preview": "../identity-paradox/collection/thumbs/vision.webp",
+    "original": "../identity-paradox/collection/originals/Vision.png",
+    "filename": "Vision.png"
+  },
+  {
+    "name": "Vito Corleone",
+    "slug": "vito-corleone",
+    "preview": "../identity-paradox/collection/thumbs/vito-corleone.webp",
+    "original": "../identity-paradox/collection/originals/Vito%20Corleone.png",
+    "filename": "Vito Corleone.png"
+  },
+  {
+    "name": "Voldemort",
+    "slug": "voldemort",
+    "preview": "../identity-paradox/collection/thumbs/voldemort.webp",
+    "original": "../identity-paradox/collection/originals/Voldemort.png",
+    "filename": "Voldemort.png"
+  },
+  {
+    "name": "Walter White",
+    "slug": "walter-white",
+    "preview": "../identity-paradox/collection/thumbs/walter-white.webp",
+    "original": "../identity-paradox/collection/originals/Walter%20White.png",
+    "filename": "Walter White.png"
+  },
+  {
+    "name": "Wasp",
+    "slug": "wasp",
+    "preview": "../identity-paradox/collection/thumbs/wasp.webp",
+    "original": "../identity-paradox/collection/originals/Wasp.png",
+    "filename": "Wasp.png"
+  },
+  {
+    "name": "Whitebeard",
+    "slug": "whitebeard",
+    "preview": "../identity-paradox/collection/thumbs/whitebeard.webp",
+    "original": "../identity-paradox/collection/originals/Whitebeard.png",
+    "filename": "Whitebeard.png"
+  },
+  {
+    "name": "Winter Soldier",
+    "slug": "winter-soldier",
+    "preview": "../identity-paradox/collection/thumbs/winter-soldier.webp",
+    "original": "../identity-paradox/collection/originals/Winter%20Soldier.png",
+    "filename": "Winter Soldier.png"
+  },
+  {
+    "name": "Yamato",
+    "slug": "yamato",
+    "preview": "../identity-paradox/collection/thumbs/yamato.webp",
+    "original": "../identity-paradox/collection/originals/Yamato.png",
+    "filename": "Yamato.png"
+  },
+  {
+    "name": "Yami Sukehiro",
+    "slug": "yami-sukehiro",
+    "preview": "../identity-paradox/collection/thumbs/yami-sukehiro.webp",
+    "original": "../identity-paradox/collection/originals/Yami%20Sukehiro.png",
+    "filename": "Yami Sukehiro.png"
+  },
+  {
+    "name": "Yami Yugi",
+    "slug": "yami-yugi",
+    "preview": "../identity-paradox/collection/thumbs/yami-yugi.webp",
+    "original": "../identity-paradox/collection/originals/Yami%20Yugi.png",
+    "filename": "Yami Yugi.png"
+  },
+  {
+    "name": "Yato",
+    "slug": "yato",
+    "preview": "../identity-paradox/collection/thumbs/yato.webp",
+    "original": "../identity-paradox/collection/originals/Yato.png",
+    "filename": "Yato.png"
+  },
+  {
+    "name": "Yhwach",
+    "slug": "yhwach",
+    "preview": "../identity-paradox/collection/thumbs/yhwach.webp",
+    "original": "../identity-paradox/collection/originals/Yhwach.png",
+    "filename": "Yhwach.png"
+  },
+  {
+    "name": "Yoda",
+    "slug": "yoda",
+    "preview": "../identity-paradox/collection/thumbs/yoda.webp",
+    "original": "../identity-paradox/collection/originals/Yoda.png",
+    "filename": "Yoda.png"
+  },
+  {
+    "name": "Yoichi Isagi",
+    "slug": "yoichi-isagi",
+    "preview": "../identity-paradox/collection/thumbs/yoichi-isagi.webp",
+    "original": "../identity-paradox/collection/originals/Yoichi%20Isagi.png",
+    "filename": "Yoichi Isagi.png"
+  },
+  {
+    "name": "Yor Forger",
+    "slug": "yor-forger",
+    "preview": "../identity-paradox/collection/thumbs/yor-forger.webp",
+    "original": "../identity-paradox/collection/originals/Yor%20Forger.png",
+    "filename": "Yor Forger.png"
+  },
+  {
+    "name": "Yoriichi Tsugikuni",
+    "slug": "yoriichi-tsugikuni",
+    "preview": "../identity-paradox/collection/thumbs/yoriichi-tsugikuni.webp",
+    "original": "../identity-paradox/collection/originals/Yoriichi%20Tsugikuni.png",
+    "filename": "Yoriichi Tsugikuni.png"
+  },
+  {
+    "name": "Yoruichi Shihoin",
+    "slug": "yoruichi-shihoin",
+    "preview": "../identity-paradox/collection/thumbs/yoruichi-shihoin.webp",
+    "original": "../identity-paradox/collection/originals/Yoruichi%20Shihoin.png",
+    "filename": "Yoruichi Shihoin.png"
+  },
+  {
+    "name": "Yuno",
+    "slug": "yuno",
+    "preview": "../identity-paradox/collection/thumbs/yuno.webp",
+    "original": "../identity-paradox/collection/originals/Yuno.png",
+    "filename": "Yuno.png"
+  },
+  {
+    "name": "Yuta Okkotsu",
+    "slug": "yuta-okkotsu",
+    "preview": "../identity-paradox/collection/thumbs/yuta-okkotsu.webp",
+    "original": "../identity-paradox/collection/originals/Yuta%20Okkotsu.png",
+    "filename": "Yuta Okkotsu.png"
+  },
+  {
+    "name": "Yuuichi Katagiri",
+    "slug": "yuuichi-katagiri",
+    "preview": "../identity-paradox/collection/thumbs/yuuichi-katagiri.webp",
+    "original": "../identity-paradox/collection/originals/Yuuichi%20Katagiri.png",
+    "filename": "Yuuichi Katagiri.png"
+  },
+  {
+    "name": "Zaraki Kenpachi",
+    "slug": "zaraki-kenpachi",
+    "preview": "../identity-paradox/collection/thumbs/zaraki-kenpachi.webp",
+    "original": "../identity-paradox/collection/originals/Zaraki%20Kenpachi.png",
+    "filename": "Zaraki Kenpachi.png"
+  },
+  {
+    "name": "Zenitsu Agatsuma",
+    "slug": "zenitsu-agatsuma",
+    "preview": "../identity-paradox/collection/thumbs/zenitsu-agatsuma.webp",
+    "original": "../identity-paradox/collection/originals/Zenitsu%20Agatsuma.jpeg",
+    "filename": "Zenitsu Agatsuma.jpeg"
+  },
+  {
+    "name": "Zenon Zogratis",
+    "slug": "zenon-zogratis",
+    "preview": "../identity-paradox/collection/thumbs/zenon-zogratis.webp",
+    "original": "../identity-paradox/collection/originals/Zenon%20Zogratis.png",
+    "filename": "Zenon Zogratis.png"
+  },
+  {
+    "name": "Zero Two",
+    "slug": "zero-two",
+    "preview": "../identity-paradox/collection/thumbs/zero-two.webp",
+    "original": "../identity-paradox/collection/originals/Zero%20Two.png",
+    "filename": "Zero Two.png"
+  },
+  {
+    "name": "2B",
+    "slug": "2b",
+    "preview": "../identity-paradox/collection/thumbs/2b.webp",
+    "original": "../identity-paradox/collection/originals/2B.png",
+    "filename": "2B.png"
+  },
+  {
+    "name": "A2",
+    "slug": "a2",
+    "preview": "../identity-paradox/collection/thumbs/a2.webp",
+    "original": "../identity-paradox/collection/originals/A2.png",
+    "filename": "A2.png"
+  },
+  {
+    "name": "Agent 47",
+    "slug": "agent-47",
+    "preview": "../identity-paradox/collection/thumbs/agent-47.webp",
+    "original": "../identity-paradox/collection/originals/Agent%2047.png",
+    "filename": "Agent 47.png"
+  },
+  {
+    "name": "Ahsoka Tano",
+    "slug": "ahsoka-tano",
+    "preview": "../identity-paradox/collection/thumbs/ahsoka-tano.webp",
+    "original": "../identity-paradox/collection/originals/Ahsoka%20Tano.png",
+    "filename": "Ahsoka Tano.png"
+  },
+  {
+    "name": "Akainu",
+    "slug": "akainu",
+    "preview": "../identity-paradox/collection/thumbs/akainu.webp",
+    "original": "../identity-paradox/collection/originals/Akainu.png",
+    "filename": "Akainu.png"
+  },
+  {
+    "name": "Akuma",
+    "slug": "akuma",
+    "preview": "../identity-paradox/collection/thumbs/akuma.webp",
+    "original": "../identity-paradox/collection/originals/Akuma.png",
+    "filename": "Akuma.png"
+  },
+  {
+    "name": "Altair",
+    "slug": "altair",
+    "preview": "../identity-paradox/collection/thumbs/altair.webp",
+    "original": "../identity-paradox/collection/originals/Altair.png",
+    "filename": "Altair.png"
+  },
+  {
+    "name": "Among Us Crewmate",
+    "slug": "among-us-crewmate",
+    "preview": "../identity-paradox/collection/thumbs/among-us-crewmate.webp",
+    "original": "../identity-paradox/collection/originals/Among%20Us%20Crewmate.png",
+    "filename": "Among Us Crewmate.png"
+  },
+  {
+    "name": "Anakin Skywalker",
+    "slug": "anakin-skywalker",
+    "preview": "../identity-paradox/collection/thumbs/anakin-skywalker.webp",
+    "original": "../identity-paradox/collection/originals/Anakin%20Skywalker.png",
+    "filename": "Anakin Skywalker.png"
+  },
+  {
+    "name": "Aokiji",
+    "slug": "aokiji",
+    "preview": "../identity-paradox/collection/thumbs/aokiji.webp",
+    "original": "../identity-paradox/collection/originals/Aokiji.png",
+    "filename": "Aokiji.png"
+  },
+  {
+    "name": "Apocalypse",
+    "slug": "apocalypse",
+    "preview": "../identity-paradox/collection/thumbs/apocalypse.webp",
+    "original": "../identity-paradox/collection/originals/Apocalypse.png",
+    "filename": "Apocalypse.png"
+  },
+  {
+    "name": "Aragorn",
+    "slug": "aragorn",
+    "preview": "../identity-paradox/collection/thumbs/aragorn.webp",
+    "original": "../identity-paradox/collection/originals/Aragorn.png",
+    "filename": "Aragorn.png"
+  },
+  {
+    "name": "Arthur Morgan",
+    "slug": "arthur-morgan",
+    "preview": "../identity-paradox/collection/thumbs/arthur-morgan.webp",
+    "original": "../identity-paradox/collection/originals/Arthur%20Morgan.png",
+    "filename": "Arthur Morgan.png"
+  },
+  {
+    "name": "Ash Williams",
+    "slug": "ash-williams",
+    "preview": "../identity-paradox/collection/thumbs/ash-williams.webp",
+    "original": "../identity-paradox/collection/originals/Ash%20Williams.png",
+    "filename": "Ash Williams.png"
+  },
+  {
+    "name": "Atreus",
+    "slug": "atreus",
+    "preview": "../identity-paradox/collection/thumbs/atreus.webp",
+    "original": "../identity-paradox/collection/originals/Atreus.png",
+    "filename": "Atreus.png"
+  },
+  {
+    "name": "Austin Powers",
+    "slug": "austin-powers",
+    "preview": "../identity-paradox/collection/thumbs/austin-powers.webp",
+    "original": "../identity-paradox/collection/originals/Austin%20Powers.png",
+    "filename": "Austin Powers.png"
+  },
+  {
+    "name": "Baki Hanma",
+    "slug": "baki-hanma",
+    "preview": "../identity-paradox/collection/thumbs/baki-hanma.webp",
+    "original": "../identity-paradox/collection/originals/Baki%20Hanma.png",
+    "filename": "Baki Hanma.png"
+  },
+  {
+    "name": "Bane",
+    "slug": "bane",
+    "preview": "../identity-paradox/collection/thumbs/bane.webp",
+    "original": "../identity-paradox/collection/originals/Bane.png",
+    "filename": "Bane.png"
+  },
+  {
+    "name": "Bartholomew Kuma",
+    "slug": "bartholomew-kuma",
+    "preview": "../identity-paradox/collection/thumbs/bartholomew-kuma.webp",
+    "original": "../identity-paradox/collection/originals/Bartholomew%20Kuma.png",
+    "filename": "Bartholomew Kuma.png"
+  },
+  {
+    "name": "Bayonetta",
+    "slug": "bayonetta",
+    "preview": "../identity-paradox/collection/thumbs/bayonetta.webp",
+    "original": "../identity-paradox/collection/originals/Bayonetta.png",
+    "filename": "Bayonetta.png"
+  },
+  {
+    "name": "Beetlejuice",
+    "slug": "beetlejuice",
+    "preview": "../identity-paradox/collection/thumbs/beetlejuice.webp",
+    "original": "../identity-paradox/collection/originals/Beetlejuice.png",
+    "filename": "Beetlejuice.png"
+  },
+  {
+    "name": "Big Daddy",
+    "slug": "big-daddy",
+    "preview": "../identity-paradox/collection/thumbs/big-daddy.webp",
+    "original": "../identity-paradox/collection/originals/Big%20Daddy.png",
+    "filename": "Big Daddy.png"
+  },
+  {
+    "name": "Big Mom",
+    "slug": "big-mom",
+    "preview": "../identity-paradox/collection/thumbs/big-mom.webp",
+    "original": "../identity-paradox/collection/originals/Big%20Mom.png",
+    "filename": "Big Mom.png"
+  },
+  {
+    "name": "Bilbo Baggins",
+    "slug": "bilbo-baggins",
+    "preview": "../identity-paradox/collection/thumbs/bilbo-baggins.webp",
+    "original": "../identity-paradox/collection/originals/Bilbo%20Baggins.png",
+    "filename": "Bilbo Baggins.png"
+  },
+  {
+    "name": "Billy the Puppet",
+    "slug": "billy-the-puppet",
+    "preview": "../identity-paradox/collection/thumbs/billy-the-puppet.webp",
+    "original": "../identity-paradox/collection/originals/Billy%20the%20Puppet.png",
+    "filename": "Billy the Puppet.png"
+  },
+  {
+    "name": "Blackbeard",
+    "slug": "blackbeard",
+    "preview": "../identity-paradox/collection/thumbs/blackbeard.webp",
+    "original": "../identity-paradox/collection/originals/Blackbeard.png",
+    "filename": "Blackbeard.png"
+  },
+  {
+    "name": "Blade",
+    "slug": "blade",
+    "preview": "../identity-paradox/collection/thumbs/blade.webp",
+    "original": "../identity-paradox/collection/originals/Blade.png",
+    "filename": "Blade.png"
+  },
+  {
+    "name": "Boba Fett",
+    "slug": "boba-fett",
+    "preview": "../identity-paradox/collection/thumbs/boba-fett.webp",
+    "original": "../identity-paradox/collection/originals/Boba%20Fett.png",
+    "filename": "Boba Fett.png"
+  },
+  {
+    "name": "Borat",
+    "slug": "borat",
+    "preview": "../identity-paradox/collection/thumbs/borat.webp",
+    "original": "../identity-paradox/collection/originals/Borat.png",
+    "filename": "Borat.png"
+  },
+  {
+    "name": "Brainiac",
+    "slug": "brainiac",
+    "preview": "../identity-paradox/collection/thumbs/brainiac.webp",
+    "original": "../identity-paradox/collection/originals/Brainiac.png",
+    "filename": "Brainiac.png"
+  },
+  {
+    "name": "Bruno Bucciarati",
+    "slug": "bruno-bucciarati",
+    "preview": "../identity-paradox/collection/thumbs/bruno-bucciarati.webp",
+    "original": "../identity-paradox/collection/originals/Bruno%20Bucciarati.png",
+    "filename": "Bruno Bucciarati.png"
+  },
+  {
+    "name": "Bugs Bunny",
+    "slug": "bugs-bunny",
+    "preview": "../identity-paradox/collection/thumbs/bugs-bunny.webp",
+    "original": "../identity-paradox/collection/originals/Bugs%20Bunny.png",
+    "filename": "Bugs Bunny.png"
+  },
+  {
+    "name": "Cable",
+    "slug": "cable",
+    "preview": "../identity-paradox/collection/thumbs/cable.webp",
+    "original": "../identity-paradox/collection/originals/Cable.png",
+    "filename": "Cable.png"
+  },
+  {
+    "name": "Captain Salazar",
+    "slug": "captain-salazar",
+    "preview": "../identity-paradox/collection/thumbs/captain-salazar.webp",
+    "original": "../identity-paradox/collection/originals/Captain%20Salazar.png",
+    "filename": "Captain Salazar.png"
+  },
+  {
+    "name": "Cassidy",
+    "slug": "cassidy",
+    "preview": "../identity-paradox/collection/thumbs/cassidy.webp",
+    "original": "../identity-paradox/collection/originals/Cassidy.png",
+    "filename": "Cassidy.png"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "slug": "charlie-chaplin",
+    "preview": "../identity-paradox/collection/thumbs/charlie-chaplin.webp",
+    "original": "../identity-paradox/collection/originals/Charlie%20Chaplin.png",
+    "filename": "Charlie Chaplin.png"
+  },
+  {
+    "name": "Chell",
+    "slug": "chell",
+    "preview": "../identity-paradox/collection/thumbs/chell.webp",
+    "original": "../identity-paradox/collection/originals/Chell.png",
+    "filename": "Chell.png"
+  },
+  {
+    "name": "Chun-Li",
+    "slug": "chun-li",
+    "preview": "../identity-paradox/collection/thumbs/chun-li.webp",
+    "original": "../identity-paradox/collection/originals/Chun-Li.png",
+    "filename": "Chun-Li.png"
+  },
+  {
+    "name": "Clank",
+    "slug": "clank",
+    "preview": "../identity-paradox/collection/thumbs/clank.webp",
+    "original": "../identity-paradox/collection/originals/Clank.png",
+    "filename": "Clank.png"
+  },
+  {
+    "name": "Cloud Strife",
+    "slug": "cloud-strife",
+    "preview": "../identity-paradox/collection/thumbs/cloud-strife.webp",
+    "original": "../identity-paradox/collection/originals/Cloud%20Strife.png",
+    "filename": "Cloud Strife.png"
+  },
+  {
+    "name": "Count Dooku",
+    "slug": "count-dooku",
+    "preview": "../identity-paradox/collection/thumbs/count-dooku.webp",
+    "original": "../identity-paradox/collection/originals/Count%20Dooku.png",
+    "filename": "Count Dooku.png"
+  },
+  {
+    "name": "Courage the Cowardly Dog",
+    "slug": "courage-the-cowardly-dog",
+    "preview": "../identity-paradox/collection/thumbs/courage-the-cowardly-dog.webp",
+    "original": "../identity-paradox/collection/originals/Courage%20the%20Cowardly%20Dog.png",
+    "filename": "Courage the Cowardly Dog.png"
+  },
+  {
+    "name": "Crash Bandicoot",
+    "slug": "crash-bandicoot",
+    "preview": "../identity-paradox/collection/thumbs/crash-bandicoot.webp",
+    "original": "../identity-paradox/collection/originals/Crash%20Bandicoot.png",
+    "filename": "Crash Bandicoot.png"
+  },
+  {
+    "name": "Cuphead",
+    "slug": "cuphead",
+    "preview": "../identity-paradox/collection/thumbs/cuphead.webp",
+    "original": "../identity-paradox/collection/originals/Cuphead.png",
+    "filename": "Cuphead.png"
+  },
+  {
+    "name": "Dante",
+    "slug": "dante",
+    "preview": "../identity-paradox/collection/thumbs/dante.webp",
+    "original": "../identity-paradox/collection/originals/Dante.png",
+    "filename": "Dante.png"
+  },
+  {
+    "name": "Dark Magician",
+    "slug": "dark-magician",
+    "preview": "../identity-paradox/collection/thumbs/dark-magician.webp",
+    "original": "../identity-paradox/collection/originals/Dark%20Magician.png",
+    "filename": "Dark Magician.png"
+  },
+  {
+    "name": "Daxter",
+    "slug": "daxter",
+    "preview": "../identity-paradox/collection/thumbs/daxter.webp",
+    "original": "../identity-paradox/collection/originals/Daxter.png",
+    "filename": "Daxter.png"
+  },
+  {
+    "name": "Dee Dee",
+    "slug": "dee-dee",
+    "preview": "../identity-paradox/collection/thumbs/dee-dee.webp",
+    "original": "../identity-paradox/collection/originals/Dee%20Dee.png",
+    "filename": "Dee Dee.png"
+  },
+  {
+    "name": "Dexter",
+    "slug": "dexter",
+    "preview": "../identity-paradox/collection/thumbs/dexter.webp",
+    "original": "../identity-paradox/collection/originals/Dexter.png",
+    "filename": "Dexter.png"
+  },
+  {
+    "name": "Diavolo",
+    "slug": "diavolo",
+    "preview": "../identity-paradox/collection/thumbs/diavolo.webp",
+    "original": "../identity-paradox/collection/originals/Diavolo.png",
+    "filename": "Diavolo.png"
+  },
+  {
+    "name": "Dobby",
+    "slug": "dobby",
+    "preview": "../identity-paradox/collection/thumbs/dobby.webp",
+    "original": "../identity-paradox/collection/originals/Dobby.png",
+    "filename": "Dobby.png"
+  },
+  {
+    "name": "Doctor Octopus",
+    "slug": "doctor-octopus",
+    "preview": "../identity-paradox/collection/thumbs/doctor-octopus.webp",
+    "original": "../identity-paradox/collection/originals/Doctor%20Octopus.png",
+    "filename": "Doctor Octopus.png"
+  },
+  {
+    "name": "Donatello",
+    "slug": "donatello",
+    "preview": "../identity-paradox/collection/thumbs/donatello.webp",
+    "original": "../identity-paradox/collection/originals/Donatello.png",
+    "filename": "Donatello.png"
+  },
+  {
+    "name": "Doom Slayer",
+    "slug": "doom-slayer",
+    "preview": "../identity-paradox/collection/thumbs/doom-slayer.webp",
+    "original": "../identity-paradox/collection/originals/Doom%20Slayer.png",
+    "filename": "Doom Slayer.png"
+  },
+  {
+    "name": "Dr Eggman",
+    "slug": "dr-eggman",
+    "preview": "../identity-paradox/collection/thumbs/dr-eggman.webp",
+    "original": "../identity-paradox/collection/originals/Dr%20Eggman.png",
+    "filename": "Dr Eggman.png"
+  },
+  {
+    "name": "Dragonborn",
+    "slug": "dragonborn",
+    "preview": "../identity-paradox/collection/thumbs/dragonborn.webp",
+    "original": "../identity-paradox/collection/originals/Dragonborn.png",
+    "filename": "Dragonborn.png"
+  },
+  {
+    "name": "Duke Nukem",
+    "slug": "duke-nukem",
+    "preview": "../identity-paradox/collection/thumbs/duke-nukem.webp",
+    "original": "../identity-paradox/collection/originals/Duke%20Nukem.png",
+    "filename": "Duke Nukem.png"
+  },
+  {
+    "name": "Edward Scissorhands",
+    "slug": "edward-scissorhands",
+    "preview": "../identity-paradox/collection/thumbs/edward-scissorhands.webp",
+    "original": "../identity-paradox/collection/originals/Edward%20Scissorhands.png",
+    "filename": "Edward Scissorhands.png"
+  },
+  {
+    "name": "Ellie Williams",
+    "slug": "ellie-williams",
+    "preview": "../identity-paradox/collection/thumbs/ellie-williams.webp",
+    "original": "../identity-paradox/collection/originals/Ellie%20Williams.png",
+    "filename": "Ellie Williams.png"
+  },
+  {
+    "name": "Elmer Fudd",
+    "slug": "elmer-fudd",
+    "preview": "../identity-paradox/collection/thumbs/elmer-fudd.webp",
+    "original": "../identity-paradox/collection/originals/Elmer%20Fudd.png",
+    "filename": "Elmer Fudd.png"
+  },
+  {
+    "name": "Emperor Palpatine",
+    "slug": "emperor-palpatine",
+    "preview": "../identity-paradox/collection/thumbs/emperor-palpatine.webp",
+    "original": "../identity-paradox/collection/originals/Emperor%20Palpatine.png",
+    "filename": "Emperor Palpatine.png"
+  },
+  {
+    "name": "Enel",
+    "slug": "enel",
+    "preview": "../identity-paradox/collection/thumbs/enel.webp",
+    "original": "../identity-paradox/collection/originals/Enel.png",
+    "filename": "Enel.png"
+  },
+  {
+    "name": "Ezio Auditore",
+    "slug": "ezio-auditore",
+    "preview": "../identity-paradox/collection/thumbs/ezio-auditore.webp",
+    "original": "../identity-paradox/collection/originals/Ezio%20Auditore.png",
+    "filename": "Ezio Auditore.png"
+  },
+  {
+    "name": "Foghorn Leghorn",
+    "slug": "foghorn-leghorn",
+    "preview": "../identity-paradox/collection/thumbs/foghorn-leghorn.webp",
+    "original": "../identity-paradox/collection/originals/Foghorn%20Leghorn.png",
+    "filename": "Foghorn Leghorn.png"
+  },
+  {
+    "name": "Fred Flintstone",
+    "slug": "fred-flintstone",
+    "preview": "../identity-paradox/collection/thumbs/fred-flintstone.webp",
+    "original": "../identity-paradox/collection/originals/Fred%20Flintstone.png",
+    "filename": "Fred Flintstone.png"
+  },
+  {
+    "name": "Freddy Fazbear",
+    "slug": "freddy-fazbear",
+    "preview": "../identity-paradox/collection/thumbs/freddy-fazbear.webp",
+    "original": "../identity-paradox/collection/originals/Freddy%20Fazbear.png",
+    "filename": "Freddy Fazbear.png"
+  },
+  {
+    "name": "Gambit",
+    "slug": "gambit",
+    "preview": "../identity-paradox/collection/thumbs/gambit.webp",
+    "original": "../identity-paradox/collection/originals/Gambit.png",
+    "filename": "Gambit.png"
+  },
+  {
+    "name": "Ganondorf",
+    "slug": "ganondorf",
+    "preview": "../identity-paradox/collection/thumbs/ganondorf.webp",
+    "original": "../identity-paradox/collection/originals/Ganondorf.png",
+    "filename": "Ganondorf.png"
+  },
+  {
+    "name": "Genryusai Yamamoto",
+    "slug": "genryusai-yamamoto",
+    "preview": "../identity-paradox/collection/thumbs/genryusai-yamamoto.webp",
+    "original": "../identity-paradox/collection/originals/Genryusai%20Yamamoto.png",
+    "filename": "Genryusai Yamamoto.png"
+  },
+  {
+    "name": "Giyu Tomioka",
+    "slug": "giyu-tomioka",
+    "preview": "../identity-paradox/collection/thumbs/giyu-tomioka.webp",
+    "original": "../identity-paradox/collection/originals/Giyu%20Tomioka.png",
+    "filename": "Giyu Tomioka.png"
+  },
+  {
+    "name": "GLaDOS",
+    "slug": "glados",
+    "preview": "../identity-paradox/collection/thumbs/glados.webp",
+    "original": "../identity-paradox/collection/originals/GLaDOS.png",
+    "filename": "GLaDOS.png"
+  },
+  {
+    "name": "Gomez Addams",
+    "slug": "gomez-addams",
+    "preview": "../identity-paradox/collection/thumbs/gomez-addams.webp",
+    "original": "../identity-paradox/collection/originals/Gomez%20Addams.png",
+    "filename": "Gomez Addams.png"
+  },
+  {
+    "name": "Gordon Freeman",
+    "slug": "gordon-freeman",
+    "preview": "../identity-paradox/collection/thumbs/gordon-freeman.webp",
+    "original": "../identity-paradox/collection/originals/Gordon%20Freeman.png",
+    "filename": "Gordon Freeman.png"
+  },
+  {
+    "name": "Green Goblin",
+    "slug": "green-goblin",
+    "preview": "../identity-paradox/collection/thumbs/green-goblin.webp",
+    "original": "../identity-paradox/collection/originals/Green%20Goblin.png",
+    "filename": "Green Goblin.png"
+  },
+  {
+    "name": "Gyomei Himejima",
+    "slug": "gyomei-himejima",
+    "preview": "../identity-paradox/collection/thumbs/gyomei-himejima.webp",
+    "original": "../identity-paradox/collection/originals/Gyomei%20Himejima.png",
+    "filename": "Gyomei Himejima.png"
+  },
+  {
+    "name": "Han Solo",
+    "slug": "han-solo",
+    "preview": "../identity-paradox/collection/thumbs/han-solo.webp",
+    "original": "../identity-paradox/collection/originals/Han%20Solo.png",
+    "filename": "Han Solo.png"
+  },
+  {
+    "name": "He-Man",
+    "slug": "he-man",
+    "preview": "../identity-paradox/collection/thumbs/he-man.webp",
+    "original": "../identity-paradox/collection/originals/He-Man.png",
+    "filename": "He-Man.png"
+  },
+  {
+    "name": "Hellboy",
+    "slug": "hellboy",
+    "preview": "../identity-paradox/collection/thumbs/hellboy.webp",
+    "original": "../identity-paradox/collection/originals/Hellboy.png",
+    "filename": "Hellboy.png"
+  },
+  {
+    "name": "Hiei",
+    "slug": "hiei",
+    "preview": "../identity-paradox/collection/thumbs/hiei.webp",
+    "original": "../identity-paradox/collection/originals/Hiei.png",
+    "filename": "Hiei.png"
+  },
+  {
+    "name": "Hollow Knight",
+    "slug": "hollow-knight",
+    "preview": "../identity-paradox/collection/thumbs/hollow-knight.webp",
+    "original": "../identity-paradox/collection/originals/Hollow%20Knight.png",
+    "filename": "Hollow Knight.png"
+  },
+  {
+    "name": "HUNK",
+    "slug": "hunk",
+    "preview": "../identity-paradox/collection/thumbs/hunk.webp",
+    "original": "../identity-paradox/collection/originals/HUNK.png",
+    "filename": "HUNK.png"
+  },
+  {
+    "name": "Indiana Jones",
+    "slug": "indiana-jones",
+    "preview": "../identity-paradox/collection/thumbs/indiana-jones.webp",
+    "original": "../identity-paradox/collection/originals/Indiana%20Jones.png",
+    "filename": "Indiana Jones.png"
+  },
+  {
+    "name": "Inspector Gadget",
+    "slug": "inspector-gadget",
+    "preview": "../identity-paradox/collection/thumbs/inspector-gadget.webp",
+    "original": "../identity-paradox/collection/originals/Inspector%20Gadget.png",
+    "filename": "Inspector Gadget.png"
+  },
+  {
+    "name": "Isaac Clarke",
+    "slug": "isaac-clarke",
+    "preview": "../identity-paradox/collection/thumbs/isaac-clarke.webp",
+    "original": "../identity-paradox/collection/originals/Isaac%20Clarke.png",
+    "filename": "Isaac Clarke.png"
+  },
+  {
+    "name": "Jak",
+    "slug": "jak",
+    "preview": "../identity-paradox/collection/thumbs/jak.webp",
+    "original": "../identity-paradox/collection/originals/Jak.png",
+    "filename": "Jak.png"
+  },
+  {
+    "name": "Jean Pierre Polnareff",
+    "slug": "jean-pierre-polnareff",
+    "preview": "../identity-paradox/collection/thumbs/jean-pierre-polnareff.webp",
+    "original": "../identity-paradox/collection/originals/Jean%20Pierre%20Polnareff.png",
+    "filename": "Jean Pierre Polnareff.png"
+  },
+  {
+    "name": "Jerry",
+    "slug": "jerry",
+    "preview": "../identity-paradox/collection/thumbs/jerry.webp",
+    "original": "../identity-paradox/collection/originals/Jerry.png",
+    "filename": "Jerry.png"
+  },
+  {
+    "name": "Jigsaw John Kramer",
+    "slug": "jigsaw-john-kramer",
+    "preview": "../identity-paradox/collection/thumbs/jigsaw-john-kramer.webp",
+    "original": "../identity-paradox/collection/originals/Jigsaw%20John%20Kramer.png",
+    "filename": "Jigsaw John Kramer.png"
+  },
+  {
+    "name": "Jill Valentine",
+    "slug": "jill-valentine",
+    "preview": "../identity-paradox/collection/thumbs/jill-valentine.webp",
+    "original": "../identity-paradox/collection/originals/Jill%20Valentine.png",
+    "filename": "Jill Valentine.png"
+  },
+  {
+    "name": "Jin Sakai",
+    "slug": "jin-sakai",
+    "preview": "../identity-paradox/collection/thumbs/jin-sakai.webp",
+    "original": "../identity-paradox/collection/originals/Jin%20Sakai.png",
+    "filename": "Jin Sakai.png"
+  },
+  {
+    "name": "Joel Miller",
+    "slug": "joel-miller",
+    "preview": "../identity-paradox/collection/thumbs/joel-miller.webp",
+    "original": "../identity-paradox/collection/originals/Joel%20Miller.png",
+    "filename": "Joel Miller.png"
+  },
+  {
+    "name": "Jogo",
+    "slug": "jogo",
+    "preview": "../identity-paradox/collection/thumbs/jogo.webp",
+    "original": "../identity-paradox/collection/originals/Jogo.png",
+    "filename": "Jogo.png"
+  },
+  {
+    "name": "John Wick",
+    "slug": "john-wick",
+    "preview": "../identity-paradox/collection/thumbs/john-wick.webp",
+    "original": "../identity-paradox/collection/originals/John%20Wick.png",
+    "filename": "John Wick.png"
+  },
+  {
+    "name": "Johnny Bravo",
+    "slug": "johnny-bravo",
+    "preview": "../identity-paradox/collection/thumbs/johnny-bravo.webp",
+    "original": "../identity-paradox/collection/originals/Johnny%20Bravo.png",
+    "filename": "Johnny Bravo.png"
+  },
+  {
+    "name": "Johnny Silverhand",
+    "slug": "johnny-silverhand",
+    "preview": "../identity-paradox/collection/thumbs/johnny-silverhand.webp",
+    "original": "../identity-paradox/collection/originals/Johnny%20Silverhand.png",
+    "filename": "Johnny Silverhand.png"
+  },
+  {
+    "name": "Jolyne Cujoh",
+    "slug": "jolyne-cujoh",
+    "preview": "../identity-paradox/collection/thumbs/jolyne-cujoh.webp",
+    "original": "../identity-paradox/collection/originals/Jolyne%20Cujoh.png",
+    "filename": "Jolyne Cujoh.png"
+  },
+  {
+    "name": "Jonathan Joestar",
+    "slug": "jonathan-joestar",
+    "preview": "../identity-paradox/collection/thumbs/jonathan-joestar.webp",
+    "original": "../identity-paradox/collection/originals/Jonathan%20Joestar.png",
+    "filename": "Jonathan Joestar.png"
+  },
+  {
+    "name": "Joseph Joestar",
+    "slug": "joseph-joestar",
+    "preview": "../identity-paradox/collection/thumbs/joseph-joestar.webp",
+    "original": "../identity-paradox/collection/originals/Joseph%20Joestar.png",
+    "filename": "Joseph Joestar.png"
+  },
+  {
+    "name": "Josuke Higashikata",
+    "slug": "josuke-higashikata",
+    "preview": "../identity-paradox/collection/thumbs/josuke-higashikata.webp",
+    "original": "../identity-paradox/collection/originals/Josuke%20Higashikata.png",
+    "filename": "Josuke Higashikata.png"
+  },
+  {
+    "name": "Juggernaut",
+    "slug": "juggernaut",
+    "preview": "../identity-paradox/collection/thumbs/juggernaut.webp",
+    "original": "../identity-paradox/collection/originals/Juggernaut.png",
+    "filename": "Juggernaut.png"
+  },
+  {
+    "name": "Kaido",
+    "slug": "kaido",
+    "preview": "../identity-paradox/collection/thumbs/kaido.webp",
+    "original": "../identity-paradox/collection/originals/Kaido.png",
+    "filename": "Kaido.png"
+  },
+  {
+    "name": "Kanao Tsuyuri",
+    "slug": "kanao-tsuyuri",
+    "preview": "../identity-paradox/collection/thumbs/kanao-tsuyuri.webp",
+    "original": "../identity-paradox/collection/originals/Kanao%20Tsuyuri.png",
+    "filename": "Kanao Tsuyuri.png"
+  },
+  {
+    "name": "King",
+    "slug": "king",
+    "preview": "../identity-paradox/collection/thumbs/king.webp",
+    "original": "../identity-paradox/collection/originals/King.png",
+    "filename": "King.png"
+  },
+  {
+    "name": "Kingpin",
+    "slug": "kingpin",
+    "preview": "../identity-paradox/collection/thumbs/kingpin.webp",
+    "original": "../identity-paradox/collection/originals/Kingpin.png",
+    "filename": "Kingpin.png"
+  },
+  {
+    "name": "Kirby",
+    "slug": "kirby",
+    "preview": "../identity-paradox/collection/thumbs/kirby.webp",
+    "original": "../identity-paradox/collection/originals/Kirby.png",
+    "filename": "Kirby.png"
+  },
+  {
+    "name": "Kitana",
+    "slug": "kitana",
+    "preview": "../identity-paradox/collection/thumbs/kitana.webp",
+    "original": "../identity-paradox/collection/originals/Kitana.png",
+    "filename": "Kitana.png"
+  },
+  {
+    "name": "Kizaru",
+    "slug": "kizaru",
+    "preview": "../identity-paradox/collection/thumbs/kizaru.webp",
+    "original": "../identity-paradox/collection/originals/Kizaru.png",
+    "filename": "Kizaru.png"
+  },
+  {
+    "name": "Knuckles",
+    "slug": "knuckles",
+    "preview": "../identity-paradox/collection/thumbs/knuckles.webp",
+    "original": "../identity-paradox/collection/originals/Knuckles.png",
+    "filename": "Knuckles.png"
+  },
+  {
+    "name": "Kokushibo",
+    "slug": "kokushibo",
+    "preview": "../identity-paradox/collection/thumbs/kokushibo.webp",
+    "original": "../identity-paradox/collection/originals/Kokushibo.png",
+    "filename": "Kokushibo.png"
+  },
+  {
+    "name": "Kratos",
+    "slug": "kratos",
+    "preview": "../identity-paradox/collection/thumbs/kratos.webp",
+    "original": "../identity-paradox/collection/originals/Kratos.png",
+    "filename": "Kratos.png"
+  },
+  {
+    "name": "Kurapika",
+    "slug": "kurapika",
+    "preview": "../identity-paradox/collection/thumbs/kurapika.webp",
+    "original": "../identity-paradox/collection/originals/Kurapika.png",
+    "filename": "Kurapika.png"
+  },
+  {
+    "name": "Lara Croft",
+    "slug": "lara-croft",
+    "preview": "../identity-paradox/collection/thumbs/lara-croft.webp",
+    "original": "../identity-paradox/collection/originals/Lara%20Croft.png",
+    "filename": "Lara Croft.png"
+  },
+  {
+    "name": "Leon S Kennedy",
+    "slug": "leon-s-kennedy",
+    "preview": "../identity-paradox/collection/thumbs/leon-s-kennedy.webp",
+    "original": "../identity-paradox/collection/originals/Leon%20S%20Kennedy.png",
+    "filename": "Leon S Kennedy.png"
+  },
+  {
+    "name": "Leonardo",
+    "slug": "leonardo",
+    "preview": "../identity-paradox/collection/thumbs/leonardo.webp",
+    "original": "../identity-paradox/collection/originals/Leonardo.png",
+    "filename": "Leonardo.png"
+  },
+  {
+    "name": "Leorio",
+    "slug": "leorio",
+    "preview": "../identity-paradox/collection/thumbs/leorio.webp",
+    "original": "../identity-paradox/collection/originals/Leorio.png",
+    "filename": "Leorio.png"
+  },
+  {
+    "name": "Link",
+    "slug": "link",
+    "preview": "../identity-paradox/collection/thumbs/link.webp",
+    "original": "../identity-paradox/collection/originals/Link.png",
+    "filename": "Link.png"
+  },
+  {
+    "name": "Lobo",
+    "slug": "lobo",
+    "preview": "../identity-paradox/collection/thumbs/lobo.webp",
+    "original": "../identity-paradox/collection/originals/Lobo.png",
+    "filename": "Lobo.png"
+  },
+  {
+    "name": "Luke Skywalker",
+    "slug": "luke-skywalker",
+    "preview": "../identity-paradox/collection/thumbs/luke-skywalker.webp",
+    "original": "../identity-paradox/collection/originals/Luke%20Skywalker.png",
+    "filename": "Luke Skywalker.png"
+  },
+  {
+    "name": "Mad Max",
+    "slug": "mad-max",
+    "preview": "../identity-paradox/collection/thumbs/mad-max.webp",
+    "original": "../identity-paradox/collection/originals/Mad%20Max.png",
+    "filename": "Mad Max.png"
+  },
+  {
+    "name": "Mad-Eye Moody",
+    "slug": "mad-eye-moody",
+    "preview": "../identity-paradox/collection/thumbs/mad-eye-moody.webp",
+    "original": "../identity-paradox/collection/originals/Mad-Eye%20Moody.png",
+    "filename": "Mad-Eye Moody.png"
+  },
+  {
+    "name": "Magneto",
+    "slug": "magneto",
+    "preview": "../identity-paradox/collection/thumbs/magneto.webp",
+    "original": "../identity-paradox/collection/originals/Magneto.png",
+    "filename": "Magneto.png"
+  },
+  {
+    "name": "Mari Makinami",
+    "slug": "mari-makinami",
+    "preview": "../identity-paradox/collection/thumbs/mari-makinami.webp",
+    "original": "../identity-paradox/collection/originals/Mari%20Makinami.png",
+    "filename": "Mari Makinami.png"
+  },
+  {
+    "name": "Master Chief",
+    "slug": "master-chief",
+    "preview": "../identity-paradox/collection/thumbs/master-chief.webp",
+    "original": "../identity-paradox/collection/originals/Master%20Chief.png",
+    "filename": "Master Chief.png"
+  },
+  {
+    "name": "Mega Man",
+    "slug": "mega-man",
+    "preview": "../identity-paradox/collection/thumbs/mega-man.webp",
+    "original": "../identity-paradox/collection/originals/Mega%20Man.png",
+    "filename": "Mega Man.png"
+  },
+  {
+    "name": "Megatron",
+    "slug": "megatron",
+    "preview": "../identity-paradox/collection/thumbs/megatron.webp",
+    "original": "../identity-paradox/collection/originals/Megatron.png",
+    "filename": "Megatron.png"
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "slug": "megumi-fushiguro",
+    "preview": "../identity-paradox/collection/thumbs/megumi-fushiguro.webp",
+    "original": "../identity-paradox/collection/originals/Megumi%20Fushiguro.png",
+    "filename": "Megumi Fushiguro.png"
+  },
+  {
+    "name": "Mercy",
+    "slug": "mercy",
+    "preview": "../identity-paradox/collection/thumbs/mercy.webp",
+    "original": "../identity-paradox/collection/originals/Mercy.png",
+    "filename": "Mercy.png"
+  },
+  {
+    "name": "Michelangelo",
+    "slug": "michelangelo",
+    "preview": "../identity-paradox/collection/thumbs/michelangelo.webp",
+    "original": "../identity-paradox/collection/originals/Michelangelo.png",
+    "filename": "Michelangelo.png"
+  },
+  {
+    "name": "Mileena",
+    "slug": "mileena",
+    "preview": "../identity-paradox/collection/thumbs/mileena.webp",
+    "original": "../identity-paradox/collection/originals/Mileena.png",
+    "filename": "Mileena.png"
+  },
+  {
+    "name": "Mojo Jojo",
+    "slug": "mojo-jojo",
+    "preview": "../identity-paradox/collection/thumbs/mojo-jojo.webp",
+    "original": "../identity-paradox/collection/originals/Mojo%20Jojo.png",
+    "filename": "Mojo Jojo.png"
+  },
+  {
+    "name": "Monkey D. Garp",
+    "slug": "monkey-d-garp",
+    "preview": "../identity-paradox/collection/thumbs/monkey-d-garp.webp",
+    "original": "../identity-paradox/collection/originals/Monkey%20D.%20Garp.png",
+    "filename": "Monkey D. Garp.png"
+  },
+  {
+    "name": "Morpheus",
+    "slug": "morpheus",
+    "preview": "../identity-paradox/collection/thumbs/morpheus.webp",
+    "original": "../identity-paradox/collection/originals/Morpheus.png",
+    "filename": "Morpheus.png"
+  },
+  {
+    "name": "Mr. Bean",
+    "slug": "mr-bean",
+    "preview": "../identity-paradox/collection/thumbs/mr-bean.webp",
+    "original": "../identity-paradox/collection/originals/Mr.%20Bean.png",
+    "filename": "Mr. Bean.png"
+  },
+  {
+    "name": "Muichiro Tokito",
+    "slug": "muichiro-tokito",
+    "preview": "../identity-paradox/collection/thumbs/muichiro-tokito.webp",
+    "original": "../identity-paradox/collection/originals/Muichiro%20Tokito.png",
+    "filename": "Muichiro Tokito.png"
+  },
+  {
+    "name": "Mysterio",
+    "slug": "mysterio",
+    "preview": "../identity-paradox/collection/thumbs/mysterio.webp",
+    "original": "../identity-paradox/collection/originals/Mysterio.png",
+    "filename": "Mysterio.png"
+  },
+  {
+    "name": "Nathan Drake",
+    "slug": "nathan-drake",
+    "preview": "../identity-paradox/collection/thumbs/nathan-drake.webp",
+    "original": "../identity-paradox/collection/originals/Nathan%20Drake.png",
+    "filename": "Nathan Drake.png"
+  },
+  {
+    "name": "Negan",
+    "slug": "negan",
+    "preview": "../identity-paradox/collection/thumbs/negan.webp",
+    "original": "../identity-paradox/collection/originals/Negan.png",
+    "filename": "Negan.png"
+  },
+  {
+    "name": "Nemesis",
+    "slug": "nemesis",
+    "preview": "../identity-paradox/collection/thumbs/nemesis.webp",
+    "original": "../identity-paradox/collection/originals/Nemesis.png",
+    "filename": "Nemesis.png"
+  },
+  {
+    "name": "Neo",
+    "slug": "neo",
+    "preview": "../identity-paradox/collection/thumbs/neo.webp",
+    "original": "../identity-paradox/collection/originals/Neo.png",
+    "filename": "Neo.png"
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "slug": "nobara-kugisaki",
+    "preview": "../identity-paradox/collection/thumbs/nobara-kugisaki.webp",
+    "original": "../identity-paradox/collection/originals/Nobara%20Kugisaki.png",
+    "filename": "Nobara Kugisaki.png"
+  },
+  {
+    "name": "Noob Saibot",
+    "slug": "noob-saibot",
+    "preview": "../identity-paradox/collection/thumbs/noob-saibot.webp",
+    "original": "../identity-paradox/collection/originals/Noob%20Saibot.png",
+    "filename": "Noob Saibot.png"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "slug": "obi-wan-kenobi",
+    "preview": "../identity-paradox/collection/thumbs/obi-wan-kenobi.webp",
+    "original": "../identity-paradox/collection/originals/Obi-Wan%20Kenobi.png",
+    "filename": "Obi-Wan Kenobi.png"
+  },
+  {
+    "name": "Oogie Boogie",
+    "slug": "oogie-boogie",
+    "preview": "../identity-paradox/collection/thumbs/oogie-boogie.webp",
+    "original": "../identity-paradox/collection/originals/Oogie%20Boogie.png",
+    "filename": "Oogie Boogie.png"
+  },
+  {
+    "name": "Optimus Prime",
+    "slug": "optimus-prime",
+    "preview": "../identity-paradox/collection/thumbs/optimus-prime.webp",
+    "original": "../identity-paradox/collection/originals/Optimus%20Prime.png",
+    "filename": "Optimus Prime.png"
+  },
+  {
+    "name": "Pac-Man",
+    "slug": "pac-man",
+    "preview": "../identity-paradox/collection/thumbs/pac-man.webp",
+    "original": "../identity-paradox/collection/originals/Pac-Man.png",
+    "filename": "Pac-Man.png"
+  },
+  {
+    "name": "Pegasus",
+    "slug": "pegasus",
+    "preview": "../identity-paradox/collection/thumbs/pegasus.webp",
+    "original": "../identity-paradox/collection/originals/Pegasus.png",
+    "filename": "Pegasus.png"
+  },
+  {
+    "name": "Pinhead",
+    "slug": "pinhead",
+    "preview": "../identity-paradox/collection/thumbs/pinhead.webp",
+    "original": "../identity-paradox/collection/originals/Pinhead.png",
+    "filename": "Pinhead.png"
+  },
+  {
+    "name": "Pink Panther",
+    "slug": "pink-panther",
+    "preview": "../identity-paradox/collection/thumbs/pink-panther.webp",
+    "original": "../identity-paradox/collection/originals/Pink%20Panther.png",
+    "filename": "Pink Panther.png"
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "preview": "../identity-paradox/collection/thumbs/po.webp",
+    "original": "../identity-paradox/collection/originals/Po.png",
+    "filename": "Po.png"
+  },
+  {
+    "name": "Popeye",
+    "slug": "popeye",
+    "preview": "../identity-paradox/collection/thumbs/popeye.webp",
+    "original": "../identity-paradox/collection/originals/Popeye.png",
+    "filename": "Popeye.png"
+  },
+  {
+    "name": "Predator",
+    "slug": "predator",
+    "preview": "../identity-paradox/collection/thumbs/predator.webp",
+    "original": "../identity-paradox/collection/originals/Predator.png",
+    "filename": "Predator.png"
+  },
+  {
+    "name": "Princess Leia",
+    "slug": "princess-leia",
+    "preview": "../identity-paradox/collection/thumbs/princess-leia.webp",
+    "original": "../identity-paradox/collection/originals/Princess%20Leia.png",
+    "filename": "Princess Leia.png"
+  },
+  {
+    "name": "Princess Zelda",
+    "slug": "princess-zelda",
+    "preview": "../identity-paradox/collection/thumbs/princess-zelda.webp",
+    "original": "../identity-paradox/collection/originals/Princess%20Zelda.png",
+    "filename": "Princess Zelda.png"
+  },
+  {
+    "name": "Punisher",
+    "slug": "punisher",
+    "preview": "../identity-paradox/collection/thumbs/punisher.webp",
+    "original": "../identity-paradox/collection/originals/Punisher.png",
+    "filename": "Punisher.png"
+  },
+  {
+    "name": "Pyramid Head",
+    "slug": "pyramid-head",
+    "preview": "../identity-paradox/collection/thumbs/pyramid-head.webp",
+    "original": "../identity-paradox/collection/originals/Pyramid%20Head.png",
+    "filename": "Pyramid Head.png"
+  },
+  {
+    "name": "Raiden",
+    "slug": "raiden",
+    "preview": "../identity-paradox/collection/thumbs/raiden.webp",
+    "original": "../identity-paradox/collection/originals/Raiden.png",
+    "filename": "Raiden.png"
+  },
+  {
+    "name": "Rambo",
+    "slug": "rambo",
+    "preview": "../identity-paradox/collection/thumbs/rambo.webp",
+    "original": "../identity-paradox/collection/originals/Rambo.png",
+    "filename": "Rambo.png"
+  },
+  {
+    "name": "Raphael",
+    "slug": "raphael",
+    "preview": "../identity-paradox/collection/thumbs/raphael.webp",
+    "original": "../identity-paradox/collection/originals/Raphael.png",
+    "filename": "Raphael.png"
+  },
+  {
+    "name": "Ratchet",
+    "slug": "ratchet",
+    "preview": "../identity-paradox/collection/thumbs/ratchet.webp",
+    "original": "../identity-paradox/collection/originals/Ratchet.png",
+    "filename": "Ratchet.png"
+  },
+  {
+    "name": "Rayman",
+    "slug": "rayman",
+    "preview": "../identity-paradox/collection/thumbs/rayman.webp",
+    "original": "../identity-paradox/collection/originals/Rayman.png",
+    "filename": "Rayman.png"
+  },
+  {
+    "name": "Reaper",
+    "slug": "reaper",
+    "preview": "../identity-paradox/collection/thumbs/reaper.webp",
+    "original": "../identity-paradox/collection/originals/Reaper.png",
+    "filename": "Reaper.png"
+  },
+  {
+    "name": "Red Skull",
+    "slug": "red-skull",
+    "preview": "../identity-paradox/collection/thumbs/red-skull.webp",
+    "original": "../identity-paradox/collection/originals/Red%20Skull.png",
+    "filename": "Red Skull.png"
+  },
+  {
+    "name": "Rob Lucci",
+    "slug": "rob-lucci",
+    "preview": "../identity-paradox/collection/thumbs/rob-lucci.webp",
+    "original": "../identity-paradox/collection/originals/Rob%20Lucci.png",
+    "filename": "Rob Lucci.png"
+  },
+  {
+    "name": "RoboCop",
+    "slug": "robocop",
+    "preview": "../identity-paradox/collection/thumbs/robocop.webp",
+    "original": "../identity-paradox/collection/originals/RoboCop.png",
+    "filename": "RoboCop.png"
+  },
+  {
+    "name": "Rocky Balboa",
+    "slug": "rocky-balboa",
+    "preview": "../identity-paradox/collection/thumbs/rocky-balboa.webp",
+    "original": "../identity-paradox/collection/originals/Rocky%20Balboa.png",
+    "filename": "Rocky Balboa.png"
+  },
+  {
+    "name": "Ryu",
+    "slug": "ryu",
+    "preview": "../identity-paradox/collection/thumbs/ryu.webp",
+    "original": "../identity-paradox/collection/originals/Ryu.png",
+    "filename": "Ryu.png"
+  },
+  {
+    "name": "Sackboy",
+    "slug": "sackboy",
+    "preview": "../identity-paradox/collection/thumbs/sackboy.webp",
+    "original": "../identity-paradox/collection/originals/Sackboy.png",
+    "filename": "Sackboy.png"
+  },
+  {
+    "name": "Sailor Moon",
+    "slug": "sailor-moon-2",
+    "preview": "../identity-paradox/collection/thumbs/sailor-moon-2.webp",
+    "original": "../identity-paradox/collection/originals/Sailor%20Moon%20%282%29.png",
+    "filename": "Sailor Moon (2).png"
+  },
+  {
+    "name": "Sakura Haruno",
+    "slug": "sakura-haruno",
+    "preview": "../identity-paradox/collection/thumbs/sakura-haruno.webp",
+    "original": "../identity-paradox/collection/originals/Sakura%20Haruno.png",
+    "filename": "Sakura Haruno.png"
+  },
+  {
+    "name": "Sam Fisher",
+    "slug": "sam-fisher",
+    "preview": "../identity-paradox/collection/thumbs/sam-fisher.webp",
+    "original": "../identity-paradox/collection/originals/Sam%20Fisher.png",
+    "filename": "Sam Fisher.png"
+  },
+  {
+    "name": "Samurai Jack",
+    "slug": "samurai-jack",
+    "preview": "../identity-paradox/collection/thumbs/samurai-jack.webp",
+    "original": "../identity-paradox/collection/originals/Samurai%20Jack.png",
+    "filename": "Samurai Jack.png"
+  },
+  {
+    "name": "Sans",
+    "slug": "sans",
+    "preview": "../identity-paradox/collection/thumbs/sans.webp",
+    "original": "../identity-paradox/collection/originals/Sans.png",
+    "filename": "Sans.png"
+  },
+  {
+    "name": "Saruman",
+    "slug": "saruman",
+    "preview": "../identity-paradox/collection/thumbs/saruman.webp",
+    "original": "../identity-paradox/collection/originals/Saruman.png",
+    "filename": "Saruman.png"
+  },
+  {
+    "name": "Sauron",
+    "slug": "sauron",
+    "preview": "../identity-paradox/collection/thumbs/sauron.webp",
+    "original": "../identity-paradox/collection/originals/Sauron.png",
+    "filename": "Sauron.png"
+  },
+  {
+    "name": "Scorpion",
+    "slug": "scorpion",
+    "preview": "../identity-paradox/collection/thumbs/scorpion.webp",
+    "original": "../identity-paradox/collection/originals/Scorpion.png",
+    "filename": "Scorpion.png"
+  },
+  {
+    "name": "Sengoku",
+    "slug": "sengoku",
+    "preview": "../identity-paradox/collection/thumbs/sengoku.webp",
+    "original": "../identity-paradox/collection/originals/Sengoku.png",
+    "filename": "Sengoku.png"
+  },
+  {
+    "name": "Sephiroth",
+    "slug": "sephiroth",
+    "preview": "../identity-paradox/collection/thumbs/sephiroth.webp",
+    "original": "../identity-paradox/collection/originals/Sephiroth.png",
+    "filename": "Sephiroth.png"
+  },
+  {
+    "name": "Shadow",
+    "slug": "shadow",
+    "preview": "../identity-paradox/collection/thumbs/shadow.webp",
+    "original": "../identity-paradox/collection/originals/Shadow.png",
+    "filename": "Shadow.png"
+  },
+  {
+    "name": "Shao Kahn",
+    "slug": "shao-kahn",
+    "preview": "../identity-paradox/collection/thumbs/shao-kahn.webp",
+    "original": "../identity-paradox/collection/originals/Shao%20Kahn.png",
+    "filename": "Shao Kahn.png"
+  },
+  {
+    "name": "Shredder",
+    "slug": "shredder",
+    "preview": "../identity-paradox/collection/thumbs/shredder.webp",
+    "original": "../identity-paradox/collection/originals/Shredder.png",
+    "filename": "Shredder.png"
+  },
+  {
+    "name": "Shunsui Kyoraku",
+    "slug": "shunsui-kyoraku",
+    "preview": "../identity-paradox/collection/thumbs/shunsui-kyoraku.webp",
+    "original": "../identity-paradox/collection/originals/Shunsui%20Kyoraku.png",
+    "filename": "Shunsui Kyoraku.png"
+  },
+  {
+    "name": "Simon Ghost Riley",
+    "slug": "simon-ghost-riley",
+    "preview": "../identity-paradox/collection/thumbs/simon-ghost-riley.webp",
+    "original": "../identity-paradox/collection/originals/Simon%20Ghost%20Riley.png",
+    "filename": "Simon Ghost Riley.png"
+  },
+  {
+    "name": "Sinestro",
+    "slug": "sinestro",
+    "preview": "../identity-paradox/collection/thumbs/sinestro.webp",
+    "original": "../identity-paradox/collection/originals/Sinestro.png",
+    "filename": "Sinestro.png"
+  },
+  {
+    "name": "Skeletor",
+    "slug": "skeletor",
+    "preview": "../identity-paradox/collection/thumbs/skeletor.webp",
+    "original": "../identity-paradox/collection/originals/Skeletor.png",
+    "filename": "Skeletor.png"
+  },
+  {
+    "name": "Snorlax",
+    "slug": "snorlax",
+    "preview": "../identity-paradox/collection/thumbs/snorlax.webp",
+    "original": "../identity-paradox/collection/originals/Snorlax.png",
+    "filename": "Snorlax.png"
+  },
+  {
+    "name": "Solaire of Astora",
+    "slug": "solaire-of-astora",
+    "preview": "../identity-paradox/collection/thumbs/solaire-of-astora.webp",
+    "original": "../identity-paradox/collection/originals/Solaire%20of%20Astora.png",
+    "filename": "Solaire of Astora.png"
+  },
+  {
+    "name": "Solid Snake",
+    "slug": "solid-snake",
+    "preview": "../identity-paradox/collection/thumbs/solid-snake.webp",
+    "original": "../identity-paradox/collection/originals/Solid%20Snake.png",
+    "filename": "Solid Snake.png"
+  },
+  {
+    "name": "Sonic",
+    "slug": "sonic",
+    "preview": "../identity-paradox/collection/thumbs/sonic.webp",
+    "original": "../identity-paradox/collection/originals/Sonic.png",
+    "filename": "Sonic.png"
+  },
+  {
+    "name": "Speedy Gonzales",
+    "slug": "speedy-gonzales",
+    "preview": "../identity-paradox/collection/thumbs/speedy-gonzales.webp",
+    "original": "../identity-paradox/collection/originals/Speedy%20Gonzales.png",
+    "filename": "Speedy Gonzales.png"
+  },
+  {
+    "name": "Spyro",
+    "slug": "spyro",
+    "preview": "../identity-paradox/collection/thumbs/spyro.webp",
+    "original": "../identity-paradox/collection/originals/Spyro.png",
+    "filename": "Spyro.png"
+  },
+  {
+    "name": "Squall Leonhart",
+    "slug": "squall-leonhart",
+    "preview": "../identity-paradox/collection/thumbs/squall-leonhart.webp",
+    "original": "../identity-paradox/collection/originals/Squall%20Leonhart.png",
+    "filename": "Squall Leonhart.png"
+  },
+  {
+    "name": "Steve from Minecraft",
+    "slug": "steve-from-minecraft",
+    "preview": "../identity-paradox/collection/thumbs/steve-from-minecraft.webp",
+    "original": "../identity-paradox/collection/originals/Steve%20from%20Minecraft.png",
+    "filename": "Steve from Minecraft.png"
+  },
+  {
+    "name": "Sub-Zero",
+    "slug": "sub-zero",
+    "preview": "../identity-paradox/collection/thumbs/sub-zero.webp",
+    "original": "../identity-paradox/collection/originals/Sub-Zero.png",
+    "filename": "Sub-Zero.png"
+  },
+  {
+    "name": "Suguru Geto",
+    "slug": "suguru-geto",
+    "preview": "../identity-paradox/collection/thumbs/suguru-geto.webp",
+    "original": "../identity-paradox/collection/originals/Suguru%20Geto.png",
+    "filename": "Suguru Geto.png"
+  },
+  {
+    "name": "Tails",
+    "slug": "tails",
+    "preview": "../identity-paradox/collection/thumbs/tails.webp",
+    "original": "../identity-paradox/collection/originals/Tails.png",
+    "filename": "Tails.png"
+  },
+  {
+    "name": "Taskmaster",
+    "slug": "taskmaster",
+    "preview": "../identity-paradox/collection/thumbs/taskmaster.webp",
+    "original": "../identity-paradox/collection/originals/Taskmaster.png",
+    "filename": "Taskmaster.png"
+  },
+  {
+    "name": "Taz",
+    "slug": "taz",
+    "preview": "../identity-paradox/collection/thumbs/taz.webp",
+    "original": "../identity-paradox/collection/originals/Taz.png",
+    "filename": "Taz.png"
+  },
+  {
+    "name": "The Mask",
+    "slug": "the-mask",
+    "preview": "../identity-paradox/collection/thumbs/the-mask.webp",
+    "original": "../identity-paradox/collection/originals/The%20Mask.png",
+    "filename": "The Mask.png"
+  },
+  {
+    "name": "Thomas Shelby",
+    "slug": "thomas-shelby",
+    "preview": "../identity-paradox/collection/thumbs/thomas-shelby.webp",
+    "original": "../identity-paradox/collection/originals/Thomas%20Shelby.png",
+    "filename": "Thomas Shelby.png"
+  },
+  {
+    "name": "Tom",
+    "slug": "tom",
+    "preview": "../identity-paradox/collection/thumbs/tom.webp",
+    "original": "../identity-paradox/collection/originals/Tom.png",
+    "filename": "Tom.png"
+  },
+  {
+    "name": "Tony Montana",
+    "slug": "tony-montana",
+    "preview": "../identity-paradox/collection/thumbs/tony-montana.webp",
+    "original": "../identity-paradox/collection/originals/Tony%20Montana.png",
+    "filename": "Tony Montana.png"
+  },
+  {
+    "name": "Tracer",
+    "slug": "tracer",
+    "preview": "../identity-paradox/collection/thumbs/tracer.webp",
+    "original": "../identity-paradox/collection/originals/Tracer.png",
+    "filename": "Tracer.png"
+  },
+  {
+    "name": "Travis Bickle",
+    "slug": "travis-bickle",
+    "preview": "../identity-paradox/collection/thumbs/travis-bickle.webp",
+    "original": "../identity-paradox/collection/originals/Travis%20Bickle.png",
+    "filename": "Travis Bickle.png"
+  },
+  {
+    "name": "Tyler Durden",
+    "slug": "tyler-durden",
+    "preview": "../identity-paradox/collection/thumbs/tyler-durden.webp",
+    "original": "../identity-paradox/collection/originals/Tyler%20Durden.png",
+    "filename": "Tyler Durden.png"
+  },
+  {
+    "name": "Uncle Fester",
+    "slug": "uncle-fester",
+    "preview": "../identity-paradox/collection/thumbs/uncle-fester.webp",
+    "original": "../identity-paradox/collection/originals/Uncle%20Fester.png",
+    "filename": "Uncle Fester.png"
+  },
+  {
+    "name": "Uryu Ishida",
+    "slug": "uryu-ishida",
+    "preview": "../identity-paradox/collection/thumbs/uryu-ishida.webp",
+    "original": "../identity-paradox/collection/originals/Uryu%20Ishida.png",
+    "filename": "Uryu Ishida.png"
+  },
+  {
+    "name": "Vergil",
+    "slug": "vergil",
+    "preview": "../identity-paradox/collection/thumbs/vergil.webp",
+    "original": "../identity-paradox/collection/originals/Vergil.png",
+    "filename": "Vergil.png"
+  },
+  {
+    "name": "Wednesday Addams",
+    "slug": "wednesday-addams",
+    "preview": "../identity-paradox/collection/thumbs/wednesday-addams.webp",
+    "original": "../identity-paradox/collection/originals/Wednesday%20Addams.png",
+    "filename": "Wednesday Addams.png"
+  },
+  {
+    "name": "Widowmaker",
+    "slug": "widowmaker",
+    "preview": "../identity-paradox/collection/thumbs/widowmaker.webp",
+    "original": "../identity-paradox/collection/originals/Widowmaker.png",
+    "filename": "Widowmaker.png"
+  },
+  {
+    "name": "Willy Wonka",
+    "slug": "willy-wonka",
+    "preview": "../identity-paradox/collection/thumbs/willy-wonka.webp",
+    "original": "../identity-paradox/collection/originals/Willy%20Wonka.png",
+    "filename": "Willy Wonka.png"
+  },
+  {
+    "name": "Woody",
+    "slug": "woody",
+    "preview": "../identity-paradox/collection/thumbs/woody.webp",
+    "original": "../identity-paradox/collection/originals/Woody.png",
+    "filename": "Woody.png"
+  },
+  {
+    "name": "Wrecking Ball",
+    "slug": "wrecking-ball",
+    "preview": "../identity-paradox/collection/thumbs/wrecking-ball.webp",
+    "original": "../identity-paradox/collection/originals/Wrecking%20Ball.png",
+    "filename": "Wrecking Ball.png"
+  },
+  {
+    "name": "Xenomorph",
+    "slug": "xenomorph",
+    "preview": "../identity-paradox/collection/thumbs/xenomorph.webp",
+    "original": "../identity-paradox/collection/originals/Xenomorph.png",
+    "filename": "Xenomorph.png"
+  },
+  {
+    "name": "Yoshikage Kira",
+    "slug": "yoshikage-kira",
+    "preview": "../identity-paradox/collection/thumbs/yoshikage-kira.webp",
+    "original": "../identity-paradox/collection/originals/Yoshikage%20Kira.png",
+    "filename": "Yoshikage Kira.png"
+  },
+  {
+    "name": "Yuji Itadori",
+    "slug": "yuji-itadori",
+    "preview": "../identity-paradox/collection/thumbs/yuji-itadori.webp",
+    "original": "../identity-paradox/collection/originals/Yuji%20Itadori.png",
+    "filename": "Yuji Itadori.png"
+  },
+  {
+    "name": "Yusuke Urameshi",
+    "slug": "yusuke-urameshi",
+    "preview": "../identity-paradox/collection/thumbs/yusuke-urameshi.webp",
+    "original": "../identity-paradox/collection/originals/Yusuke%20Urameshi.png",
+    "filename": "Yusuke Urameshi.png"
+  },
+  {
+    "name": "SSJ4 Goku",
+    "slug": "ssj4-goku",
+    "preview": "../identity-paradox/collection/thumbs/ssj4-goku.webp",
+    "original": "../identity-paradox/collection/originals/SSJ4%20Goku.png",
+    "filename": "SSJ4 Goku.png"
+  },
+  {
+    "name": "SSJ4 Vegeta",
+    "slug": "ssj4-vegeta",
+    "preview": "../identity-paradox/collection/thumbs/ssj4-vegeta.webp",
+    "original": "../identity-paradox/collection/originals/SSJ4%20Vegeta.png",
+    "filename": "SSJ4 Vegeta.png"
+  },
+  {
+    "name": "Super 17",
+    "slug": "super-17",
+    "preview": "../identity-paradox/collection/thumbs/super-17.webp",
+    "original": "../identity-paradox/collection/originals/Super%2017.png",
+    "filename": "Super 17.png"
+  },
+  {
+    "name": "Baby Vegeta",
+    "slug": "baby-vegeta",
+    "preview": "../identity-paradox/collection/thumbs/baby-vegeta.webp",
+    "original": "../identity-paradox/collection/originals/Baby%20Vegeta.png",
+    "filename": "Baby Vegeta.png"
+  },
+  {
+    "name": "Golden Great Ape Baby",
+    "slug": "golden-great-ape-baby",
+    "preview": "../identity-paradox/collection/thumbs/golden-great-ape-baby.webp",
+    "original": "../identity-paradox/collection/originals/Golden%20Great%20Ape%20Baby.png",
+    "filename": "Golden Great Ape Baby.png"
+  },
+  {
+    "name": "Golden Great Ape",
+    "slug": "golden-great-ape",
+    "preview": "../identity-paradox/collection/thumbs/golden-great-ape.webp",
+    "original": "../identity-paradox/collection/originals/Golden%20Great%20Ape.png",
+    "filename": "Golden Great Ape.png"
+  },
+  {
+    "name": "Majuub",
+    "slug": "majuub",
+    "preview": "../identity-paradox/collection/thumbs/majuub.webp",
+    "original": "../identity-paradox/collection/originals/Majuub.png",
+    "filename": "Majuub.png"
+  },
+  {
+    "name": "Super Baby Vegeta 2",
+    "slug": "super-baby-vegeta-2",
+    "preview": "../identity-paradox/collection/thumbs/super-baby-vegeta-2.webp",
+    "original": "../identity-paradox/collection/originals/Super%20Baby%20Vegeta%202.png",
+    "filename": "Super Baby Vegeta 2.png"
+  },
+  {
+    "name": "Super Baby Vegeta",
+    "slug": "super-baby-vegeta",
+    "preview": "../identity-paradox/collection/thumbs/super-baby-vegeta.webp",
+    "original": "../identity-paradox/collection/originals/Super%20Baby%20Vegeta.png",
+    "filename": "Super Baby Vegeta.png"
+  },
+  {
+    "name": "SSJ4 Gogeta",
+    "slug": "ssj4-gogeta",
+    "preview": "../identity-paradox/collection/thumbs/ssj4-gogeta.webp",
+    "original": "../identity-paradox/collection/originals/SSJ4%20Gogeta.png",
+    "filename": "SSJ4 Gogeta.png"
+  },
+  {
+    "name": "SSJ3 Goku",
+    "slug": "ssj3-goku",
+    "preview": "../identity-paradox/collection/thumbs/ssj3-goku.webp",
+    "original": "../identity-paradox/collection/originals/SSJ3%20Goku.png",
+    "filename": "SSJ3 Goku.png"
+  },
+  {
+    "name": "Goku Super Saiyan",
+    "slug": "goku-super-saiyan",
+    "preview": "../identity-paradox/collection/thumbs/goku-super-saiyan.webp?v=45",
+    "original": "../identity-paradox/collection/originals/Goku%20Super%20Saiyan.png?v=45",
+    "filename": "Goku Super Saiyan.png",
+    "capsulePreview": "assets/capsule-previews/goku-super-saiyan-v45.webp"
+  },
+  {
+    "name": "Gohan Super Saiyan 2",
+    "slug": "gohan-super-saiyan-2",
+    "preview": "../identity-paradox/collection/thumbs/gohan-super-saiyan-2.webp?v=46",
+    "original": "../identity-paradox/collection/originals/Gohan%20Super%20Saiyan%202.png?v=46",
+    "filename": "Gohan Super Saiyan 2.png",
+    "capsulePreview": "assets/capsule-previews/gohan-super-saiyan-2-v46.webp"
+  },
+  {
+    "name": "SSJ Blue Goku",
+    "slug": "ssj-blue-goku",
+    "preview": "../identity-paradox/collection/thumbs/ssj-blue-goku.webp",
+    "original": "../identity-paradox/collection/originals/SSJ%20Blue%20Goku.png",
+    "filename": "SSJ Blue Goku.png"
+  },
+  {
+    "name": "SSJ Blue Vegeta",
+    "slug": "ssj-blue-vegeta",
+    "preview": "../identity-paradox/collection/thumbs/ssj-blue-vegeta.webp",
+    "original": "../identity-paradox/collection/originals/SSJ%20Blue%20Vegeta.png",
+    "filename": "SSJ Blue Vegeta.png"
+  },
+  {
+    "name": "Ultra Instinct Goku",
+    "slug": "ultra-instinct-goku",
+    "preview": "../identity-paradox/collection/thumbs/ultra-instinct-goku.webp",
+    "original": "../identity-paradox/collection/originals/Ultra%20Instinct%20Goku.png",
+    "filename": "Ultra Instinct Goku.png"
+  }
+]

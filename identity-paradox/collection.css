@@ -1,0 +1,7 @@
+/* Keep the approved frames and inspector; allow the supplied full character names. */
+.identity-name{white-space:normal;max-width:180%;width:max-content;overflow-wrap:normal;text-wrap:balance}
+.identity-inspector .viewer-image .original-picture img{object-fit:contain}
+.identity-inspector .viewer-details h2{overflow-wrap:anywhere;font-size:clamp(23px,2vw,29px)}
+@media(max-width:760px){.identity-name{max-width:100%;width:100%;font-size:11px;line-height:1.4}}
+
+.identity-inspector .viewer-details h2{margin-bottom:18px}

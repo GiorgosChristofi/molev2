@@ -1,0 +1,10 @@
+/* Exact homepage claw artwork and 23px / 18px pointer hotspot. */
+.claw-pointer{position:fixed;inset:auto;left:0;top:0;width:46px;height:46px;max-width:none;max-height:none;margin:0;padding:0;border:0;background:transparent;color:transparent;overflow:visible;pointer-events:none;display:none;z-index:100;filter:drop-shadow(0 2px 3px #000a)}
+.claw-pointer:popover-open{display:block}
+.claw-pointer::backdrop{display:none}
+.claw-pointer svg{display:block;width:100%;height:100%;overflow:visible}
+.claw-pointer .edge{transition:stroke .2s}
+.claw-pointer.hover .edge{stroke:#c49a5e}
+.claw-pointer.hover{filter:drop-shadow(0 2px 3px #000a) drop-shadow(0 0 3px #b17d3420)}
+@media(any-hover:hover) and (any-pointer:fine){body.archive-claws,body.archive-claws *{cursor:none!important}}
+@media(prefers-reduced-motion:reduce){.claw-pointer .edge{transition:none}}

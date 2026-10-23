@@ -1,0 +1,52 @@
+/* Supporting copy must remain readable alongside the large editorial titles. */
+.eyebrow{font-size:12px;line-height:1.6;letter-spacing:.14em;color:#c4a87c}
+.chapter-rule{font-size:11px;line-height:1.6;letter-spacing:.12em;color:#b7a184}
+.chapter-rule span:last-child{color:#a18f76}
+.section-tagline{display:block;font-size:12px;line-height:1.8;letter-spacing:.08em;color:#baa486}
+.shorts-caption{font-size:11px;line-height:1.2;letter-spacing:.16em;color:#d3bea0;top:calc(100% + 8px)}
+.header-socials .mole-channel{font-size:13px}
+.origin-token .token-subtitle{font-size:23px}
+.trade-button,.trade-actions .outline-button{font-size:13px;line-height:1.4}
+.origin-token .contract-field{font-size:12px;gap:10px;min-height:54px;line-height:1.7}
+.contract-field code{color:#e1bd87}
+.origin-token .contract-field button{font-size:11px;padding:0 15px;color:#dac099;min-width:57px}
+.no-trace{font-size:12px;line-height:1.6;letter-spacing:.1em;color:#bda584}
+.prompt .cursor{width:6px;height:12px}
+.manifesto-copy,.tribute-copy{font-size:16px;line-height:1.95;color:#c7bba8}
+.manifesto-copy .quiet-copy{color:#a99b87}
+.binary{font-size:13px;line-height:1.95;color:#b0a18b;gap:10px 18px}
+.binary>span{min-width:0;max-width:100%}
+.cipher-art{padding:25px}
+.cipher-caption{font-size:11px;line-height:1.7;letter-spacing:.04em;color:#b9a17d;gap:14px;margin-top:23px}
+.folder-tab{font-size:10px;line-height:1.5;top:-35px}
+.file-meta{font-size:10px;line-height:1.5;color:#665537;flex-wrap:wrap}
+.photo-number{font-size:9px;letter-spacing:.08em;color:#756346}
+.file-sheet figcaption small{font-size:10px;line-height:1.5;letter-spacing:.06em;color:#675434}
+.file-bottom{font-size:9px;line-height:1.6;letter-spacing:.02em;right:20px;bottom:10px;color:#655334}
+.file-sheet{padding-bottom:87px}
+.file-redaction{bottom:54px}
+.classification-stamp{bottom:48px}
+.tribute-bar span{font-size:12px;line-height:1.7;letter-spacing:.07em;color:#c3aa86}
+.donation-grid h3{line-height:1.25}
+.donation-grid p{font-size:14px;line-height:1.85;color:#bbae98}
+.donation-grid .text-button{font-size:12px;line-height:1.6}
+.addr code{font-size:12px;line-height:1.8;color:#d2bb96}
+.mini{font-size:12px;line-height:1.5;padding:11px 14px}
+.give-foot{font-size:12px;line-height:1.85;color:#ad9c82}
+.feecount-label{font-size:12px;line-height:1.6;letter-spacing:.08em;color:#bda581}
+.feecount-meta{font-size:12px;line-height:1.8;color:#b29f82}
+.feecount-num small{font-size:13px}
+.fee-details{color:#c3af8f}
+.light-hint{font-size:12px;color:#c4bbae}
+@media(max-width:760px){.header-socials{padding-bottom:19px}.site-header.scrolled .header-socials{padding-bottom:18px}.header-socials .mole-channel{font-size:11px}.shorts-caption{font-size:11px}}
+@media(max-width:700px){
+ .eyebrow{font-size:12px}.chapter-rule{font-size:11px}.section-tagline{font-size:12px}
+ .origin-token .contract-field{font-size:12px;gap:8px;padding-left:11px}.origin-token .contract-field button{font-size:11px;padding:0 11px;min-width:51px}
+ .trade-button,.trade-actions .outline-button{font-size:12px;padding:14px 15px;gap:15px}
+ .manifesto-copy,.tribute-copy{font-size:16px}.binary{font-size:12px;line-height:2;gap:9px 13px}
+ .cipher-art{padding:18px}.cipher-caption{font-size:11px;line-height:1.8}
+ .file-meta{font-size:10px}.file-bottom{left:22px;right:16px;font-size:9px}.folder-tab{font-size:10px}.file-sheet figcaption small{font-size:10px}
+ .tribute-bar span{font-size:12px}.donation-grid p{font-size:14px}.addr code{font-size:11px}.give-body{flex-wrap:wrap}.addr{flex:1 1 170px}
+ .feecount-meta{font-size:12px}.feecount-label{font-size:12px}
+}
+@media(max-width:360px){.header-socials .mole-channel{font-size:10px}}

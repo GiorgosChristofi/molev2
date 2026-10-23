@@ -1,0 +1,57 @@
+html,body{background:#000!important}body{overflow-x:hidden}body>header,body>footer,.archive-caption{display:none!important}main{padding:0 0 8px}.intro{padding:28px 20px 24px}.intro h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(36px,4.7vw,62px);font-weight:400;color:#f4eee6}.intro p{color:#969087}.machine{max-width:none}.machine-foot{margin-bottom:0}.button{font-family:Georgia,'Times New Roman',serif}.machine-controls .gallery-trigger{border-color:#7b552e}.machine-controls .gallery-trigger:hover{background:#1b130c}.rail{height:24px;background-position:center top;background-size:100% auto;mask-image:linear-gradient(#000 40%,transparent 100%)}body.vault-claw,body.vault-claw *{cursor:none!important}@media(max-width:700px){.intro{padding:25px 16px 22px}.intro h1{font-size:clamp(30px,8.8vw,38px)}.intro p{letter-spacing:1.3px}.rail{background-size:auto 42px}.machine-foot{flex-wrap:wrap;row-gap:13px}.machine-foot>span:first-child{flex-basis:100%;text-align:center}.foot-options{margin-left:auto}}
+
+/* Keep the homepage slider free of the demo control strip. */
+.machine-foot{display:none!important}
+#pickupLabel{display:none!important}
+/* Readable supporting labels at desktop and mobile sizes. */
+.intro p{font-size:14px;line-height:1.7;letter-spacing:1.5px;color:#bdb3a3}
+#pickupLabel{font-size:11px;letter-spacing:1px;color:#c5a577}
+#selectionHint{font-size:13px;line-height:1.6;color:#b9b3a2;min-height:21px}
+.machine-foot,.machine-foot>span:first-child{font-size:11px;line-height:1.7;letter-spacing:.7px;color:#ada58f}
+.machine-foot{flex-wrap:wrap;gap:15px}
+.foot-options{flex-wrap:wrap;gap:18px}
+.foot-options button,#autoToggle{font-size:12px;line-height:1.5;color:#c0b7a0}
+.sequence-controls{position:relative;z-index:20;height:auto;min-height:38px}
+#skip{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:10px 14px;font-size:12px;line-height:1.4;color:#c0b7a0;cursor:pointer;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+#skip .ui-arrow{pointer-events:none}
+.sequence-controls>span{font-size:11px;line-height:1.5;letter-spacing:.5px;min-width:160px}
+.result-copy .eyebrow,#resultTier{font-size:12px;line-height:1.5;letter-spacing:1px}
+.result-copy p{font-size:14px;line-height:1.6;color:#bdb5a2}
+.result-secondary button{font-size:12px}
+.preview-title{font-size:11px;line-height:1.6}
+#effectChoices button{font-size:12px}
+#fxPreviewPanel p{font-size:12px;color:#b9b29e}
+@media(max-width:700px){
+ .intro p{font-size:13px;letter-spacing:1px}
+ #pickupLabel{font-size:10px;letter-spacing:.7px}
+ #selectionHint{font-size:12px}
+ .machine-foot,.machine-foot>span:first-child{font-size:11px;letter-spacing:.5px}
+ .foot-options{justify-content:center;width:100%;gap:16px}
+ .foot-options button,#autoToggle{font-size:12px}
+ #skip{font-size:11px;padding:10px 12px;min-height:44px}
+ .sequence-controls>span{font-size:10px;min-width:125px;letter-spacing:0}
+ .result-copy .eyebrow,#resultTier{font-size:11px;letter-spacing:.6px}
+ .result-copy p{font-size:12px}.result-secondary{gap:12px}
+ .result-secondary button{font-size:11px}
+ #closeResult{width:30px!important;height:30px!important;padding:0!important;top:6px;right:3%;display:flex!important;align-items:center!important;justify-content:center!important}
+ #closeResult .ui-arrow{width:14px!important;height:14px!important;display:block;margin:auto}
+}
+
+.ui-arrow{display:inline-block;width:18px;height:18px;flex:0 0 18px;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}.button .ui-arrow{align-self:center}
+
+/* Fixed vector controls render consistently across platform fonts. */
+.close{display:flex!important;align-items:center!important;justify-content:center!important;padding:0!important;margin:0;line-height:0;-webkit-appearance:none;appearance:none}
+.close .ui-arrow{width:18px;height:18px;display:block;margin:auto;pointer-events:none;flex:none}
+.result-secondary .ui-arrow{width:16px;height:16px;vertical-align:middle}
+
+/* Community invitation sits directly below the two capsule actions. */
+.vault-community{max-width:420px;margin:26px auto 20px;padding:22px 20px 0;border-top:1px solid #30271d;text-align:center}
+.community-join{display:flex;align-items:center;justify-content:center;gap:14px;min-height:52px;width:100%;padding:12px 20px;box-sizing:border-box;border:1px solid #e59449;border-radius:8px;color:#ffdfb6;background:#21150d;font:600 15px/1.4 Arial,sans-serif;text-decoration:none;box-shadow:inset 0 1px #ffce9020;transition:background .2s,border-color .2s,box-shadow .2s,transform .2s}
+.community-join>svg{width:19px;height:19px;flex:none}
+.community-join .ui-arrow{margin-left:auto;width:18px;height:18px}
+.community-join>span{flex:1;text-align:left}
+.community-join:is(:hover,:focus-visible){color:#fff3e1;background:#352110;border-color:#ffb36a;box-shadow:0 0 20px #ef7d231c;transform:translateY(-2px)}
+.community-join:focus-visible{outline:2px solid #ffe1b9;outline-offset:4px}
+.vault-community p{margin:10px 0 0;color:#b8aa96;font:12px/1.6 Arial,sans-serif}
+@media(max-width:700px){.vault-community{max-width:350px;margin-top:24px;padding-top:20px}.community-join{min-height:52px;font-size:15px}}
+@media(prefers-reduced-motion:reduce){.community-join{transition:none}.community-join:is(:hover,:focus-visible){transform:none}}

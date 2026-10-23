@@ -22,7 +22,8 @@
  reportReady();
  addEventListener('message',event=>{
   if(event.source!==parent||event.data?.type!=='mole-vault-visibility')return;
-  if(typeof stageVisible!=='undefined')stageVisible=!!event.data.visible;
+  // Time spent scrolled away from the vault is not idle time spent watching it.
+  if(typeof stageVisible!=='undefined'){const visible=!!event.data.visible;if(visible&&!stageVisible&&typeof touch==='function')touch();stageVisible=visible}
   if(typeof lastFrame!=='undefined')lastFrame=performance.now();
  });
  function sendPointer(e,click=false){
